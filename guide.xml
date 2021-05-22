@@ -20,13 +20,13 @@
     <icon src="http://www.guia-tv.pt/logos/axn-white.png" />
     <url>http://www.guia-tv.pt</url>
   </channel>
-  <channel id="(PT)eurosport">
-    <display-name>(PT)eurosport</display-name>
+  <channel id="(PT)eurosport 1 HD">
+    <display-name>(PT)eurosport 1 HD</display-name>
     <icon src="http://www.guia-tv.pt/logos/eurosport.png" />
     <url>http://www.guia-tv.pt</url>
   </channel>
-  <channel id="(PT)eurosport-2">
-    <display-name>(PT)eurosport 2</display-name>
+  <channel id="(PT)eurosport-2 HD">
+    <display-name>(PT)eurosport 2 HD</display-name>
     <icon src="http://www.guia-tv.pt/logos/eurosport-2.png" />
     <url>http://www.guia-tv.pt</url>
   </channel>
@@ -1540,625 +1540,625 @@
   <programme start="20210527204000 +0100" stop="20210527212500 +0100" channel="(PT)AXN WHITE HD">
     <title>O Mentalista T.7 Ep.8</title>
   </programme>
-  <programme start="20210522002900 +0100" stop="20210522020000 +0100" channel="(PT)eurosport">
+  <programme start="20210522002900 +0100" stop="20210522020000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522020000 +0100" stop="20210522033000 +0100" channel="(PT)eurosport">
+  <programme start="20210522020000 +0100" stop="20210522033000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522033000 +0100" stop="20210522050000 +0100" channel="(PT)eurosport">
+  <programme start="20210522033000 +0100" stop="20210522050000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522050000 +0100" stop="20210522060000 +0100" channel="(PT)eurosport">
+  <programme start="20210522050000 +0100" stop="20210522060000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522060000 +0100" stop="20210522073000 +0100" channel="(PT)eurosport">
+  <programme start="20210522060000 +0100" stop="20210522073000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522073000 +0100" stop="20210522083000 +0100" channel="(PT)eurosport">
+  <programme start="20210522073000 +0100" stop="20210522083000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522083000 +0100" stop="20210522093000 +0100" channel="(PT)eurosport">
+  <programme start="20210522083000 +0100" stop="20210522093000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522093000 +0100" stop="20210522102500 +0100" channel="(PT)eurosport">
+  <programme start="20210522093000 +0100" stop="20210522102500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522102500 +0100" stop="20210522163000 +0100" channel="(PT)eurosport">
+  <programme start="20210522102500 +0100" stop="20210522163000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália (Direto)</title>
   </programme>
-  <programme start="20210522163000 +0100" stop="20210522173500 +0100" channel="(PT)eurosport">
+  <programme start="20210522163000 +0100" stop="20210522173500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta à Andaluzia</title>
   </programme>
-  <programme start="20210522173500 +0100" stop="20210522194500 +0100" channel="(PT)eurosport">
+  <programme start="20210522173500 +0100" stop="20210522194500 +0100" channel="(PT)eurosport 1 HD">
     <title>Hipismo: Global Champions Tour (Direto)</title>
   </programme>
-  <programme start="20210522194500 +0100" stop="20210522210000 +0100" channel="(PT)eurosport">
+  <programme start="20210522194500 +0100" stop="20210522210000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522210000 +0100" stop="20210522220000 +0100" channel="(PT)eurosport">
+  <programme start="20210522210000 +0100" stop="20210522220000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522220000 +0100" stop="20210523000000 +0100" channel="(PT)eurosport">
+  <programme start="20210522220000 +0100" stop="20210523000000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta à Andaluzia</title>
   </programme>
-  <programme start="20210523000000 +0100" stop="20210523003000 +0100" channel="(PT)eurosport">
+  <programme start="20210523000000 +0100" stop="20210523003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523003000 +0100" stop="20210523020000 +0100" channel="(PT)eurosport">
+  <programme start="20210523003000 +0100" stop="20210523020000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523020000 +0100" stop="20210523033000 +0100" channel="(PT)eurosport">
+  <programme start="20210523020000 +0100" stop="20210523033000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523033000 +0100" stop="20210523050000 +0100" channel="(PT)eurosport">
+  <programme start="20210523033000 +0100" stop="20210523050000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523050000 +0100" stop="20210523060000 +0100" channel="(PT)eurosport">
+  <programme start="20210523050000 +0100" stop="20210523060000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523060000 +0100" stop="20210523073000 +0100" channel="(PT)eurosport">
+  <programme start="20210523060000 +0100" stop="20210523073000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523073000 +0100" stop="20210523083000 +0100" channel="(PT)eurosport">
+  <programme start="20210523073000 +0100" stop="20210523083000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523083000 +0100" stop="20210523091500 +0100" channel="(PT)eurosport">
+  <programme start="20210523083000 +0100" stop="20210523091500 +0100" channel="(PT)eurosport 1 HD">
     <title>Automobilismo: Porsche Supercup</title>
   </programme>
-  <programme start="20210523091500 +0100" stop="20210523092500 +0100" channel="(PT)eurosport">
+  <programme start="20210523091500 +0100" stop="20210523092500 +0100" channel="(PT)eurosport 1 HD">
     <title>Automobilismo: Porsche Supercup (Direto)</title>
   </programme>
-  <programme start="20210523092500 +0100" stop="20210523101500 +0100" channel="(PT)eurosport">
+  <programme start="20210523092500 +0100" stop="20210523101500 +0100" channel="(PT)eurosport 1 HD">
     <title>Automobilismo: Porsche Supercup (Direto)</title>
   </programme>
-  <programme start="20210523101500 +0100" stop="20210523110000 +0100" channel="(PT)eurosport">
+  <programme start="20210523101500 +0100" stop="20210523110000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523110000 +0100" stop="20210523121500 +0100" channel="(PT)eurosport">
+  <programme start="20210523110000 +0100" stop="20210523121500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523121500 +0100" stop="20210523161500 +0100" channel="(PT)eurosport">
+  <programme start="20210523121500 +0100" stop="20210523161500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália (Direto)</title>
   </programme>
-  <programme start="20210523161500 +0100" stop="20210523180000 +0100" channel="(PT)eurosport">
+  <programme start="20210523161500 +0100" stop="20210523180000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Murcia (Direto)</title>
   </programme>
-  <programme start="20210523180000 +0100" stop="20210523190000 +0100" channel="(PT)eurosport">
+  <programme start="20210523180000 +0100" stop="20210523190000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523190000 +0100" stop="20210523200000 +0100" channel="(PT)eurosport">
+  <programme start="20210523190000 +0100" stop="20210523200000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo de Pista: Liga dos Campeões</title>
   </programme>
-  <programme start="20210523200000 +0100" stop="20210523203000 +0100" channel="(PT)eurosport">
+  <programme start="20210523200000 +0100" stop="20210523203000 +0100" channel="(PT)eurosport 1 HD">
     <title>Automobilismo: Porsche Su...</title>
   </programme>
-  <programme start="20210523203000 +0100" stop="20210523220000 +0100" channel="(PT)eurosport">
+  <programme start="20210523203000 +0100" stop="20210523220000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523220000 +0100" stop="20210524000000 +0100" channel="(PT)eurosport">
+  <programme start="20210523220000 +0100" stop="20210524000000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Tro-Bro Léon</title>
   </programme>
-  <programme start="20210524000000 +0100" stop="20210524003000 +0100" channel="(PT)eurosport">
+  <programme start="20210524000000 +0100" stop="20210524003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524003000 +0100" stop="20210524020000 +0100" channel="(PT)eurosport">
+  <programme start="20210524003000 +0100" stop="20210524020000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524020000 +0100" stop="20210524033000 +0100" channel="(PT)eurosport">
+  <programme start="20210524020000 +0100" stop="20210524033000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524033000 +0100" stop="20210524050000 +0100" channel="(PT)eurosport">
+  <programme start="20210524033000 +0100" stop="20210524050000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524050000 +0100" stop="20210524060000 +0100" channel="(PT)eurosport">
+  <programme start="20210524050000 +0100" stop="20210524060000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524060000 +0100" stop="20210524073000 +0100" channel="(PT)eurosport">
+  <programme start="20210524060000 +0100" stop="20210524073000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524073000 +0100" stop="20210524083000 +0100" channel="(PT)eurosport">
+  <programme start="20210524073000 +0100" stop="20210524083000 +0100" channel="(PT)eurosport 1 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210524083000 +0100" stop="20210524094500 +0100" channel="(PT)eurosport">
+  <programme start="20210524083000 +0100" stop="20210524094500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524094500 +0100" stop="20210524163000 +0100" channel="(PT)eurosport">
+  <programme start="20210524094500 +0100" stop="20210524163000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália (Direto)</title>
   </programme>
-  <programme start="20210524163000 +0100" stop="20210524180500 +0100" channel="(PT)eurosport">
+  <programme start="20210524163000 +0100" stop="20210524180500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210524180500 +0100" stop="20210524181500 +0100" channel="(PT)eurosport">
+  <programme start="20210524180500 +0100" stop="20210524181500 +0100" channel="(PT)eurosport 1 HD">
     <title>Essential Olympic Stories</title>
   </programme>
-  <programme start="20210524181500 +0100" stop="20210524190000 +0100" channel="(PT)eurosport">
+  <programme start="20210524181500 +0100" stop="20210524190000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Nice (Direto)</title>
   </programme>
-  <programme start="20210524190000 +0100" stop="20210524194500 +0100" channel="(PT)eurosport">
+  <programme start="20210524190000 +0100" stop="20210524194500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Uts, Nice (Direto)</title>
   </programme>
-  <programme start="20210524194500 +0100" stop="20210524203000 +0100" channel="(PT)eurosport">
+  <programme start="20210524194500 +0100" stop="20210524203000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Nice (Direto)</title>
   </programme>
-  <programme start="20210524203000 +0100" stop="20210524213500 +0100" channel="(PT)eurosport">
+  <programme start="20210524203000 +0100" stop="20210524213500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis (Direto)</title>
   </programme>
-  <programme start="20210524213500 +0100" stop="20210525000000 +0100" channel="(PT)eurosport">
+  <programme start="20210524213500 +0100" stop="20210525000000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo</title>
   </programme>
-  <programme start="20210525000000 +0100" stop="20210525003000 +0100" channel="(PT)eurosport">
+  <programme start="20210525000000 +0100" stop="20210525003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525003000 +0100" stop="20210525020000 +0100" channel="(PT)eurosport">
+  <programme start="20210525003000 +0100" stop="20210525020000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525020000 +0100" stop="20210525033000 +0100" channel="(PT)eurosport">
+  <programme start="20210525020000 +0100" stop="20210525033000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525033000 +0100" stop="20210525050000 +0100" channel="(PT)eurosport">
+  <programme start="20210525033000 +0100" stop="20210525050000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525050000 +0100" stop="20210525060000 +0100" channel="(PT)eurosport">
+  <programme start="20210525050000 +0100" stop="20210525060000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525060000 +0100" stop="20210525073500 +0100" channel="(PT)eurosport">
+  <programme start="20210525060000 +0100" stop="20210525073500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525073500 +0100" stop="20210525084500 +0100" channel="(PT)eurosport">
+  <programme start="20210525073500 +0100" stop="20210525084500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525084500 +0100" stop="20210525094500 +0100" channel="(PT)eurosport">
+  <programme start="20210525084500 +0100" stop="20210525094500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525094500 +0100" stop="20210525110000 +0100" channel="(PT)eurosport">
+  <programme start="20210525094500 +0100" stop="20210525110000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525110000 +0100" stop="20210525123000 +0100" channel="(PT)eurosport">
+  <programme start="20210525110000 +0100" stop="20210525123000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525123000 +0100" stop="20210525140000 +0100" channel="(PT)eurosport">
+  <programme start="20210525123000 +0100" stop="20210525140000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525140000 +0100" stop="20210525144500 +0100" channel="(PT)eurosport">
+  <programme start="20210525140000 +0100" stop="20210525144500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Nice (Direto)</title>
   </programme>
-  <programme start="20210525144500 +0100" stop="20210525153000 +0100" channel="(PT)eurosport">
+  <programme start="20210525144500 +0100" stop="20210525153000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Uts, Nice (Direto)</title>
   </programme>
-  <programme start="20210525153000 +0100" stop="20210525161500 +0100" channel="(PT)eurosport">
+  <programme start="20210525153000 +0100" stop="20210525161500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Nice (Direto)</title>
   </programme>
-  <programme start="20210525161500 +0100" stop="20210525171500 +0100" channel="(PT)eurosport">
+  <programme start="20210525161500 +0100" stop="20210525171500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis (Direto)</title>
   </programme>
-  <programme start="20210525171500 +0100" stop="20210525174000 +0100" channel="(PT)eurosport">
+  <programme start="20210525171500 +0100" stop="20210525174000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo</title>
   </programme>
-  <programme start="20210525174000 +0100" stop="20210525181500 +0100" channel="(PT)eurosport">
+  <programme start="20210525174000 +0100" stop="20210525181500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Cycling Show</title>
   </programme>
-  <programme start="20210525181500 +0100" stop="20210525190000 +0100" channel="(PT)eurosport">
+  <programme start="20210525181500 +0100" stop="20210525190000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Nice</title>
   </programme>
-  <programme start="20210525190000 +0100" stop="20210525194500 +0100" channel="(PT)eurosport">
+  <programme start="20210525190000 +0100" stop="20210525194500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Uts, Nice (Direto)</title>
   </programme>
-  <programme start="20210525194500 +0100" stop="20210525204500 +0100" channel="(PT)eurosport">
+  <programme start="20210525194500 +0100" stop="20210525204500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis (Direto)</title>
   </programme>
-  <programme start="20210525204500 +0100" stop="20210525214500 +0100" channel="(PT)eurosport">
+  <programme start="20210525204500 +0100" stop="20210525214500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis (Direto)</title>
   </programme>
-  <programme start="20210525214500 +0100" stop="20210525221500 +0100" channel="(PT)eurosport">
+  <programme start="20210525214500 +0100" stop="20210525221500 +0100" channel="(PT)eurosport 1 HD">
     <title>Tiro: Taça do Mundo</title>
   </programme>
-  <programme start="20210525221500 +0100" stop="20210525222500 +0100" channel="(PT)eurosport">
+  <programme start="20210525221500 +0100" stop="20210525222500 +0100" channel="(PT)eurosport 1 HD">
     <title>Essential Olympic Stories</title>
   </programme>
-  <programme start="20210525222500 +0100" stop="20210525225500 +0100" channel="(PT)eurosport">
+  <programme start="20210525222500 +0100" stop="20210525225500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Cycling Show</title>
   </programme>
-  <programme start="20210525225500 +0100" stop="20210526003000 +0100" channel="(PT)eurosport">
+  <programme start="20210525225500 +0100" stop="20210526003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo</title>
   </programme>
-  <programme start="20210526003000 +0100" stop="20210526003000 +0100" channel="(PT)eurosport">
+  <programme start="20210526003000 +0100" stop="20210526003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526003000 +0100" stop="20210526020000 +0100" channel="(PT)eurosport">
+  <programme start="20210526003000 +0100" stop="20210526020000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526020000 +0100" stop="20210526033000 +0100" channel="(PT)eurosport">
+  <programme start="20210526020000 +0100" stop="20210526033000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Tro-Bro Léon</title>
   </programme>
-  <programme start="20210526033000 +0100" stop="20210526050000 +0100" channel="(PT)eurosport">
+  <programme start="20210526033000 +0100" stop="20210526050000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526050000 +0100" stop="20210526060000 +0100" channel="(PT)eurosport">
+  <programme start="20210526050000 +0100" stop="20210526060000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210526060000 +0100" stop="20210526073000 +0100" channel="(PT)eurosport">
+  <programme start="20210526060000 +0100" stop="20210526073000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210526073000 +0100" stop="20210526083000 +0100" channel="(PT)eurosport">
+  <programme start="20210526073000 +0100" stop="20210526083000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526083000 +0100" stop="20210526105500 +0100" channel="(PT)eurosport">
+  <programme start="20210526083000 +0100" stop="20210526105500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210526105500 +0100" stop="20210526163000 +0100" channel="(PT)eurosport">
+  <programme start="20210526105500 +0100" stop="20210526163000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália (Direto)</title>
   </programme>
-  <programme start="20210526163000 +0100" stop="20210526173000 +0100" channel="(PT)eurosport">
+  <programme start="20210526163000 +0100" stop="20210526173000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Murcia</title>
   </programme>
-  <programme start="20210526173000 +0100" stop="20210526193000 +0100" channel="(PT)eurosport">
+  <programme start="20210526173000 +0100" stop="20210526193000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210526193000 +0100" stop="20210526200000 +0100" channel="(PT)eurosport">
+  <programme start="20210526193000 +0100" stop="20210526200000 +0100" channel="(PT)eurosport 1 HD">
     <title>Jogos Olímpicos: Head To ...</title>
   </programme>
-  <programme start="20210526200000 +0100" stop="20210526211500 +0100" channel="(PT)eurosport">
+  <programme start="20210526200000 +0100" stop="20210526211500 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526211500 +0100" stop="20210526220000 +0100" channel="(PT)eurosport">
+  <programme start="20210526211500 +0100" stop="20210526220000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Nice</title>
   </programme>
-  <programme start="20210526220000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport">
+  <programme start="20210526220000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527003000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport">
+  <programme start="20210527003000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527003000 +0100" stop="20210527020000 +0100" channel="(PT)eurosport">
+  <programme start="20210527003000 +0100" stop="20210527020000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527020000 +0100" stop="20210527033000 +0100" channel="(PT)eurosport">
+  <programme start="20210527020000 +0100" stop="20210527033000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527033000 +0100" stop="20210527050000 +0100" channel="(PT)eurosport">
+  <programme start="20210527033000 +0100" stop="20210527050000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527050000 +0100" stop="20210527060000 +0100" channel="(PT)eurosport">
+  <programme start="20210527050000 +0100" stop="20210527060000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527060000 +0100" stop="20210527073000 +0100" channel="(PT)eurosport">
+  <programme start="20210527060000 +0100" stop="20210527073000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527073000 +0100" stop="20210527090000 +0100" channel="(PT)eurosport">
+  <programme start="20210527073000 +0100" stop="20210527090000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210527090000 +0100" stop="20210527103000 +0100" channel="(PT)eurosport">
+  <programme start="20210527090000 +0100" stop="20210527103000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527103000 +0100" stop="20210527163000 +0100" channel="(PT)eurosport">
+  <programme start="20210527103000 +0100" stop="20210527163000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália (Direto)</title>
   </programme>
-  <programme start="20210527163000 +0100" stop="20210527180000 +0100" channel="(PT)eurosport">
+  <programme start="20210527163000 +0100" stop="20210527180000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Tro-Bro Léon</title>
   </programme>
-  <programme start="20210527180000 +0100" stop="20210527193000 +0100" channel="(PT)eurosport">
+  <programme start="20210527180000 +0100" stop="20210527193000 +0100" channel="(PT)eurosport 1 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527193000 +0100" stop="20210527200000 +0100" channel="(PT)eurosport">
+  <programme start="20210527193000 +0100" stop="20210527200000 +0100" channel="(PT)eurosport 1 HD">
     <title>Vela: Volvo Ocean Race</title>
   </programme>
-  <programme start="20210527200000 +0100" stop="20210527210000 +0100" channel="(PT)eurosport">
+  <programme start="20210527200000 +0100" stop="20210527210000 +0100" channel="(PT)eurosport 1 HD">
     <title>Tiro: Campeonato da Europa</title>
   </programme>
-  <programme start="20210527210000 +0100" stop="20210527220000 +0100" channel="(PT)eurosport">
+  <programme start="20210527210000 +0100" stop="20210527220000 +0100" channel="(PT)eurosport 1 HD">
     <title>Tiro: Campeonato da Europa</title>
   </programme>
-  <programme start="20210522000000 +0100" stop="20210522003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522000000 +0100" stop="20210522003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522003000 +0100" stop="20210522020000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522003000 +0100" stop="20210522020000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522020000 +0100" stop="20210522033000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522020000 +0100" stop="20210522033000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522033000 +0100" stop="20210522050000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522033000 +0100" stop="20210522050000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522050000 +0100" stop="20210522080000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522050000 +0100" stop="20210522080000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522080000 +0100" stop="20210522083000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522080000 +0100" stop="20210522083000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522083000 +0100" stop="20210522093000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522083000 +0100" stop="20210522093000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522093000 +0100" stop="20210522100000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522093000 +0100" stop="20210522100000 +0100" channel="(PT)eurosport-2 HD">
     <title>Jogos Olímpicos: Head To ...</title>
   </programme>
-  <programme start="20210522100000 +0100" stop="20210522110000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522100000 +0100" stop="20210522110000 +0100" channel="(PT)eurosport-2 HD">
     <title>Fórmula E: Mundial</title>
   </programme>
-  <programme start="20210522110000 +0100" stop="20210522123000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522110000 +0100" stop="20210522123000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522123000 +0100" stop="20210522125000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522123000 +0100" stop="20210522125000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: M...</title>
   </programme>
-  <programme start="20210522125000 +0100" stop="20210522140000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522125000 +0100" stop="20210522140000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: Mundial de Superbike (Direto)</title>
   </programme>
-  <programme start="20210522140000 +0100" stop="20210522150000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522140000 +0100" stop="20210522150000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: Mundial de Superbike (Direto)</title>
   </programme>
-  <programme start="20210522150000 +0100" stop="20210522170000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522150000 +0100" stop="20210522170000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522170000 +0100" stop="20210522173000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522170000 +0100" stop="20210522173000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: Mundial de ...</title>
   </programme>
-  <programme start="20210522173000 +0100" stop="20210522190000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522173000 +0100" stop="20210522190000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210522190000 +0100" stop="20210522210000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522190000 +0100" stop="20210522210000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210522210000 +0100" stop="20210522220000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522210000 +0100" stop="20210522220000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta à Andaluzia</title>
   </programme>
-  <programme start="20210522220000 +0100" stop="20210523000000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210522220000 +0100" stop="20210523000000 +0100" channel="(PT)eurosport-2 HD">
     <title>Boxe: Título Mundial WBC - Beterbiev x Deines</title>
   </programme>
-  <programme start="20210523000000 +0100" stop="20210523010000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523000000 +0100" stop="20210523010000 +0100" channel="(PT)eurosport-2 HD">
     <title>Boxe: Título Mundial IBF - Mthalane x Edwards</title>
   </programme>
-  <programme start="20210523010000 +0100" stop="20210523020000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523010000 +0100" stop="20210523020000 +0100" channel="(PT)eurosport-2 HD">
     <title>Boxe: Título Mundial WBC - Taylor x Ramirez (Direto)</title>
   </programme>
-  <programme start="20210523020000 +0100" stop="20210523040000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523020000 +0100" stop="20210523040000 +0100" channel="(PT)eurosport-2 HD">
     <title>Boxe: Título Mundial WBC - Taylor x Ramirez (Direto)</title>
   </programme>
-  <programme start="20210523040000 +0100" stop="20210523050000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523040000 +0100" stop="20210523050000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523050000 +0100" stop="20210523074500 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523050000 +0100" stop="20210523074500 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523074500 +0100" stop="20210523083000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523074500 +0100" stop="20210523083000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523083000 +0100" stop="20210523093000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523083000 +0100" stop="20210523093000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523093000 +0100" stop="20210523110000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523093000 +0100" stop="20210523110000 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210523110000 +0100" stop="20210523120000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523110000 +0100" stop="20210523120000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523120000 +0100" stop="20210523123000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523120000 +0100" stop="20210523123000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: Mundial de ...</title>
   </programme>
-  <programme start="20210523123000 +0100" stop="20210523125000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523123000 +0100" stop="20210523125000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: M...</title>
   </programme>
-  <programme start="20210523125000 +0100" stop="20210523140000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523125000 +0100" stop="20210523140000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: Mundial de Superbike (Direto)</title>
   </programme>
-  <programme start="20210523140000 +0100" stop="20210523143000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523140000 +0100" stop="20210523143000 +0100" channel="(PT)eurosport-2 HD">
     <title>Motociclismo: Mundial de ...</title>
   </programme>
-  <programme start="20210523143000 +0100" stop="20210523150000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523143000 +0100" stop="20210523150000 +0100" channel="(PT)eurosport-2 HD">
     <title>Automobilismo: Porsche Su...</title>
   </programme>
-  <programme start="20210523150000 +0100" stop="20210523163000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523150000 +0100" stop="20210523163000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523163000 +0100" stop="20210523173000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523163000 +0100" stop="20210523173000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210523173000 +0100" stop="20210523181500 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523173000 +0100" stop="20210523181500 +0100" channel="(PT)eurosport-2 HD">
     <title>Automobilismo: Porsche Supercup</title>
   </programme>
-  <programme start="20210523181500 +0100" stop="20210523201500 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523181500 +0100" stop="20210523201500 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210523201500 +0100" stop="20210523214500 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523201500 +0100" stop="20210523214500 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210523214500 +0100" stop="20210523223000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523214500 +0100" stop="20210523223000 +0100" channel="(PT)eurosport-2 HD">
     <title>Automobilismo: Porsche Supercup</title>
   </programme>
-  <programme start="20210523223000 +0100" stop="20210524000000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210523223000 +0100" stop="20210524000000 +0100" channel="(PT)eurosport-2 HD">
     <title>Jogos Olímpicos: Head To ...</title>
   </programme>
-  <programme start="20210524000000 +0100" stop="20210524003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524000000 +0100" stop="20210524003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524003000 +0100" stop="20210524020000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524003000 +0100" stop="20210524020000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524020000 +0100" stop="20210524033000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524020000 +0100" stop="20210524033000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524033000 +0100" stop="20210524050000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524033000 +0100" stop="20210524050000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524050000 +0100" stop="20210524060000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524050000 +0100" stop="20210524060000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524060000 +0100" stop="20210524070000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524060000 +0100" stop="20210524070000 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210524070000 +0100" stop="20210524083000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524070000 +0100" stop="20210524083000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524083000 +0100" stop="20210524093000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524083000 +0100" stop="20210524093000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524093000 +0100" stop="20210524113000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524093000 +0100" stop="20210524113000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210524113000 +0100" stop="20210524133000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524113000 +0100" stop="20210524133000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210524133000 +0100" stop="20210524153000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524133000 +0100" stop="20210524153000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210524153000 +0100" stop="20210524173000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524153000 +0100" stop="20210524173000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210524173000 +0100" stop="20210524193000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524173000 +0100" stop="20210524193000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210524193000 +0100" stop="20210524212000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524193000 +0100" stop="20210524212000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210524212000 +0100" stop="20210524213000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524212000 +0100" stop="20210524213000 +0100" channel="(PT)eurosport-2 HD">
     <title>Essential Olympic Stories</title>
   </programme>
-  <programme start="20210524213000 +0100" stop="20210524220000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524213000 +0100" stop="20210524220000 +0100" channel="(PT)eurosport-2 HD">
     <title>Jogos Olímpicos: Head To ...</title>
   </programme>
-  <programme start="20210524220000 +0100" stop="20210525003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210524220000 +0100" stop="20210525003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525003000 +0100" stop="20210525003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525003000 +0100" stop="20210525003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210525003000 +0100" stop="20210525020000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525003000 +0100" stop="20210525020000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525020000 +0100" stop="20210525033000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525020000 +0100" stop="20210525033000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525033000 +0100" stop="20210525050000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525033000 +0100" stop="20210525050000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525050000 +0100" stop="20210525060000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525050000 +0100" stop="20210525060000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525060000 +0100" stop="20210525073000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525060000 +0100" stop="20210525073000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210525073000 +0100" stop="20210525083000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525073000 +0100" stop="20210525083000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525083000 +0100" stop="20210525093000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525083000 +0100" stop="20210525093000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210525093000 +0100" stop="20210525113000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525093000 +0100" stop="20210525113000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210525113000 +0100" stop="20210525133000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525113000 +0100" stop="20210525133000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210525133000 +0100" stop="20210525153000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525133000 +0100" stop="20210525153000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210525153000 +0100" stop="20210525173000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525153000 +0100" stop="20210525173000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210525173000 +0100" stop="20210525193000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525173000 +0100" stop="20210525193000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis</title>
   </programme>
-  <programme start="20210525193000 +0100" stop="20210525203000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525193000 +0100" stop="20210525203000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210525203000 +0100" stop="20210525220000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525203000 +0100" stop="20210525220000 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210525220000 +0100" stop="20210526003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210525220000 +0100" stop="20210526003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526003000 +0100" stop="20210526003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526003000 +0100" stop="20210526003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210526003000 +0100" stop="20210526020000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526003000 +0100" stop="20210526020000 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210526020000 +0100" stop="20210526033000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526020000 +0100" stop="20210526033000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526033000 +0100" stop="20210526050000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526033000 +0100" stop="20210526050000 +0100" channel="(PT)eurosport-2 HD">
     <title>Hipismo: Global Champions Tour</title>
   </programme>
-  <programme start="20210526050000 +0100" stop="20210526060000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526050000 +0100" stop="20210526060000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210526060000 +0100" stop="20210526073000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526060000 +0100" stop="20210526073000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526073000 +0100" stop="20210526080000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526073000 +0100" stop="20210526080000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo</title>
   </programme>
-  <programme start="20210526080000 +0100" stop="20210526083000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526080000 +0100" stop="20210526083000 +0100" channel="(PT)eurosport-2 HD">
     <title>Tiro</title>
   </programme>
-  <programme start="20210526083000 +0100" stop="20210526093000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526083000 +0100" stop="20210526093000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210526093000 +0100" stop="20210526113000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526093000 +0100" stop="20210526113000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210526113000 +0100" stop="20210526133000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526113000 +0100" stop="20210526133000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210526133000 +0100" stop="20210526153000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526133000 +0100" stop="20210526153000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210526153000 +0100" stop="20210526173000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526153000 +0100" stop="20210526173000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210526173000 +0100" stop="20210526193000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526173000 +0100" stop="20210526193000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis</title>
   </programme>
-  <programme start="20210526193000 +0100" stop="20210526200000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526193000 +0100" stop="20210526200000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210526200000 +0100" stop="20210526210000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526200000 +0100" stop="20210526210000 +0100" channel="(PT)eurosport-2 HD">
     <title>Tiro: Campeonato da Europa</title>
   </programme>
-  <programme start="20210526210000 +0100" stop="20210526220000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526210000 +0100" stop="20210526220000 +0100" channel="(PT)eurosport-2 HD">
     <title>Tiro: Campeonato da Europa</title>
   </programme>
-  <programme start="20210526220000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210526220000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527003000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527003000 +0100" stop="20210527003000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Mercan'Tour Classic Alpes Maritimes</title>
   </programme>
-  <programme start="20210527003000 +0100" stop="20210527020000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527003000 +0100" stop="20210527020000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527020000 +0100" stop="20210527033000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527020000 +0100" stop="20210527033000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527033000 +0100" stop="20210527050000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527033000 +0100" stop="20210527050000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527050000 +0100" stop="20210527060000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527050000 +0100" stop="20210527060000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527060000 +0100" stop="20210527073000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527060000 +0100" stop="20210527073000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ciclismo: Volta a Itália</title>
   </programme>
-  <programme start="20210527073000 +0100" stop="20210527083000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527073000 +0100" stop="20210527083000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527083000 +0100" stop="20210527093000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527083000 +0100" stop="20210527093000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210527093000 +0100" stop="20210527113000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527093000 +0100" stop="20210527113000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210527113000 +0100" stop="20210527133000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527113000 +0100" stop="20210527133000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210527133000 +0100" stop="20210527153000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527133000 +0100" stop="20210527153000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210527153000 +0100" stop="20210527173000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527153000 +0100" stop="20210527173000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis: Roland Garros (Direto)</title>
   </programme>
-  <programme start="20210527173000 +0100" stop="20210527193000 +0100" channel="(PT)eurosport-2">
+  <programme start="20210527173000 +0100" stop="20210527193000 +0100" channel="(PT)eurosport-2 HD">
     <title>Ténis</title>
   </programme>
   <programme start="20210522003900 +0100" stop="20210522025000 +0100" channel="FOX HD">
@@ -5755,493 +5755,493 @@
   <programme start="20210527120000 +0100" stop="20210527170000 +0100" channel="(PT)sport.tv 4">
     <title>European Tour - Made In Himmerland - 1º Dia (Direto)</title>
   </programme>
-  <programme start="20210522004900 +0100" stop="20210522011500 +0100" channel="(PT)SYFY">
+  <programme start="20210522004900 +0100" stop="20210522011500 +0100" channel="(PT)SYFY HD">
     <title>Espécie Mortal II</title>
   </programme>
-  <programme start="20210522011500 +0100" stop="20210522020200 +0100" channel="(PT)SYFY">
+  <programme start="20210522011500 +0100" stop="20210522020200 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.21</title>
   </programme>
-  <programme start="20210522020200 +0100" stop="20210522025000 +0100" channel="(PT)SYFY">
+  <programme start="20210522020200 +0100" stop="20210522025000 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.22</title>
   </programme>
-  <programme start="20210522025000 +0100" stop="20210522033600 +0100" channel="(PT)SYFY">
+  <programme start="20210522025000 +0100" stop="20210522033600 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.6</title>
   </programme>
-  <programme start="20210522033600 +0100" stop="20210522042200 +0100" channel="(PT)SYFY">
+  <programme start="20210522033600 +0100" stop="20210522042200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.7</title>
   </programme>
-  <programme start="20210522042200 +0100" stop="20210522050600 +0100" channel="(PT)SYFY">
+  <programme start="20210522042200 +0100" stop="20210522050600 +0100" channel="(PT)SYFY HD">
     <title>The Librarians T.2 Ep.10</title>
   </programme>
-  <programme start="20210522050600 +0100" stop="20210522055100 +0100" channel="(PT)SYFY">
+  <programme start="20210522050600 +0100" stop="20210522055100 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.5</title>
   </programme>
-  <programme start="20210522055100 +0100" stop="20210522063400 +0100" channel="(PT)SYFY">
+  <programme start="20210522055100 +0100" stop="20210522063400 +0100" channel="(PT)SYFY HD">
     <title>The Librarians T.3 Ep.1</title>
   </programme>
-  <programme start="20210522063400 +0100" stop="20210522071500 +0100" channel="(PT)SYFY">
+  <programme start="20210522063400 +0100" stop="20210522071500 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.11</title>
   </programme>
-  <programme start="20210522071500 +0100" stop="20210522080000 +0100" channel="(PT)SYFY">
+  <programme start="20210522071500 +0100" stop="20210522080000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.12</title>
   </programme>
-  <programme start="20210522080000 +0100" stop="20210522081200 +0100" channel="(PT)SYFY">
+  <programme start="20210522080000 +0100" stop="20210522081200 +0100" channel="(PT)SYFY HD">
     <title>Universo Syfy</title>
   </programme>
-  <programme start="20210522081200 +0100" stop="20210522085700 +0100" channel="(PT)SYFY">
+  <programme start="20210522081200 +0100" stop="20210522085700 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.2</title>
   </programme>
-  <programme start="20210522085700 +0100" stop="20210522094400 +0100" channel="(PT)SYFY">
+  <programme start="20210522085700 +0100" stop="20210522094400 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.15</title>
   </programme>
-  <programme start="20210522094400 +0100" stop="20210522102800 +0100" channel="(PT)SYFY">
+  <programme start="20210522094400 +0100" stop="20210522102800 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.16</title>
   </programme>
-  <programme start="20210522102800 +0100" stop="20210522111500 +0100" channel="(PT)SYFY">
+  <programme start="20210522102800 +0100" stop="20210522111500 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.17</title>
   </programme>
-  <programme start="20210522111500 +0100" stop="20210522120100 +0100" channel="(PT)SYFY">
+  <programme start="20210522111500 +0100" stop="20210522120100 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.18</title>
   </programme>
-  <programme start="20210522120100 +0100" stop="20210522124600 +0100" channel="(PT)SYFY">
+  <programme start="20210522120100 +0100" stop="20210522124600 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.19</title>
   </programme>
-  <programme start="20210522124600 +0100" stop="20210522130700 +0100" channel="(PT)SYFY">
+  <programme start="20210522124600 +0100" stop="20210522130700 +0100" channel="(PT)SYFY HD">
     <title>Missions T.1 Ep.9</title>
   </programme>
-  <programme start="20210522130700 +0100" stop="20210522132800 +0100" channel="(PT)SYFY">
+  <programme start="20210522130700 +0100" stop="20210522132800 +0100" channel="(PT)SYFY HD">
     <title>Missions T.1 Ep.10</title>
   </programme>
-  <programme start="20210522132800 +0100" stop="20210522135300 +0100" channel="(PT)SYFY">
+  <programme start="20210522132800 +0100" stop="20210522135300 +0100" channel="(PT)SYFY HD">
     <title>Missions T.2 Ep.1</title>
   </programme>
-  <programme start="20210522135300 +0100" stop="20210522142200 +0100" channel="(PT)SYFY">
+  <programme start="20210522135300 +0100" stop="20210522142200 +0100" channel="(PT)SYFY HD">
     <title>Missions T.2 Ep.2</title>
   </programme>
-  <programme start="20210522142200 +0100" stop="20210522161500 +0100" channel="(PT)SYFY">
+  <programme start="20210522142200 +0100" stop="20210522161500 +0100" channel="(PT)SYFY HD">
     <title>Stargate</title>
   </programme>
-  <programme start="20210522161500 +0100" stop="20210522175000 +0100" channel="(PT)SYFY">
+  <programme start="20210522161500 +0100" stop="20210522175000 +0100" channel="(PT)SYFY HD">
     <title>A Filha de Osiris</title>
   </programme>
-  <programme start="20210522175000 +0100" stop="20210522193900 +0100" channel="(PT)SYFY">
+  <programme start="20210522175000 +0100" stop="20210522193900 +0100" channel="(PT)SYFY HD">
     <title>Robocop (2014)</title>
   </programme>
-  <programme start="20210522193900 +0100" stop="20210522213000 +0100" channel="(PT)SYFY">
+  <programme start="20210522193900 +0100" stop="20210522213000 +0100" channel="(PT)SYFY HD">
     <title>Hellboy II - O Exército Dourado</title>
   </programme>
-  <programme start="20210522213000 +0100" stop="20210522235700 +0100" channel="(PT)SYFY">
+  <programme start="20210522213000 +0100" stop="20210522235700 +0100" channel="(PT)SYFY HD">
     <title>Resident Evil: Apocalipse</title>
   </programme>
-  <programme start="20210522235700 +0100" stop="20210523002400 +0100" channel="(PT)SYFY">
+  <programme start="20210522235700 +0100" stop="20210523002400 +0100" channel="(PT)SYFY HD">
     <title>Resident Evil 3: Extinção</title>
   </programme>
-  <programme start="20210523002400 +0100" stop="20210523011100 +0100" channel="(PT)SYFY">
+  <programme start="20210523002400 +0100" stop="20210523011100 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.1 Ep.20</title>
   </programme>
-  <programme start="20210523011100 +0100" stop="20210523015700 +0100" channel="(PT)SYFY">
+  <programme start="20210523011100 +0100" stop="20210523015700 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.1</title>
   </programme>
-  <programme start="20210523015700 +0100" stop="20210523024300 +0100" channel="(PT)SYFY">
+  <programme start="20210523015700 +0100" stop="20210523024300 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.2</title>
   </programme>
-  <programme start="20210523024300 +0100" stop="20210523033000 +0100" channel="(PT)SYFY">
+  <programme start="20210523024300 +0100" stop="20210523033000 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.3</title>
   </programme>
-  <programme start="20210523033000 +0100" stop="20210523041700 +0100" channel="(PT)SYFY">
+  <programme start="20210523033000 +0100" stop="20210523041700 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.4</title>
   </programme>
-  <programme start="20210523041700 +0100" stop="20210523050100 +0100" channel="(PT)SYFY">
+  <programme start="20210523041700 +0100" stop="20210523050100 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.5</title>
   </programme>
-  <programme start="20210523050100 +0100" stop="20210523054600 +0100" channel="(PT)SYFY">
+  <programme start="20210523050100 +0100" stop="20210523054600 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.6</title>
   </programme>
-  <programme start="20210523054600 +0100" stop="20210523063000 +0100" channel="(PT)SYFY">
+  <programme start="20210523054600 +0100" stop="20210523063000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.7</title>
   </programme>
-  <programme start="20210523063000 +0100" stop="20210523071500 +0100" channel="(PT)SYFY">
+  <programme start="20210523063000 +0100" stop="20210523071500 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.8</title>
   </programme>
-  <programme start="20210523071500 +0100" stop="20210523080000 +0100" channel="(PT)SYFY">
+  <programme start="20210523071500 +0100" stop="20210523080000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.9</title>
   </programme>
-  <programme start="20210523080000 +0100" stop="20210523082900 +0100" channel="(PT)SYFY">
+  <programme start="20210523080000 +0100" stop="20210523082900 +0100" channel="(PT)SYFY HD">
     <title>Universo Syfy</title>
   </programme>
-  <programme start="20210523082900 +0100" stop="20210523091500 +0100" channel="(PT)SYFY">
+  <programme start="20210523082900 +0100" stop="20210523091500 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.20</title>
   </programme>
-  <programme start="20210523091500 +0100" stop="20210523100200 +0100" channel="(PT)SYFY">
+  <programme start="20210523091500 +0100" stop="20210523100200 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.21</title>
   </programme>
-  <programme start="20210523100200 +0100" stop="20210523104900 +0100" channel="(PT)SYFY">
+  <programme start="20210523100200 +0100" stop="20210523104900 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.1 Ep.22</title>
   </programme>
-  <programme start="20210523104900 +0100" stop="20210523113400 +0100" channel="(PT)SYFY">
+  <programme start="20210523104900 +0100" stop="20210523113400 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.1</title>
   </programme>
-  <programme start="20210523113400 +0100" stop="20210523122200 +0100" channel="(PT)SYFY">
+  <programme start="20210523113400 +0100" stop="20210523122200 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.2</title>
   </programme>
-  <programme start="20210523122200 +0100" stop="20210523134800 +0100" channel="(PT)SYFY">
+  <programme start="20210523122200 +0100" stop="20210523134800 +0100" channel="(PT)SYFY HD">
     <title>Skyline - O Alvo Somos Nós</title>
   </programme>
-  <programme start="20210523134800 +0100" stop="20210523143500 +0100" channel="(PT)SYFY">
+  <programme start="20210523134800 +0100" stop="20210523143500 +0100" channel="(PT)SYFY HD">
     <title>Wynonna Earp T.4 Ep.8</title>
   </programme>
-  <programme start="20210523143500 +0100" stop="20210523161500 +0100" channel="(PT)SYFY">
+  <programme start="20210523143500 +0100" stop="20210523161500 +0100" channel="(PT)SYFY HD">
     <title>Bolgen - Alerta Tsunami</title>
   </programme>
-  <programme start="20210523161500 +0100" stop="20210523175700 +0100" channel="(PT)SYFY">
+  <programme start="20210523161500 +0100" stop="20210523175700 +0100" channel="(PT)SYFY HD">
     <title>O Terramoto</title>
   </programme>
-  <programme start="20210523175700 +0100" stop="20210523200300 +0100" channel="(PT)SYFY">
+  <programme start="20210523175700 +0100" stop="20210523200300 +0100" channel="(PT)SYFY HD">
     <title>Waterworld</title>
   </programme>
-  <programme start="20210523200300 +0100" stop="20210523213000 +0100" channel="(PT)SYFY">
+  <programme start="20210523200300 +0100" stop="20210523213000 +0100" channel="(PT)SYFY HD">
     <title>Resident Evil: Apocalipse</title>
   </programme>
-  <programme start="20210523213000 +0100" stop="20210524000000 +0100" channel="(PT)SYFY">
+  <programme start="20210523213000 +0100" stop="20210524000000 +0100" channel="(PT)SYFY HD">
     <title>Resident Evil: Ressurreição</title>
   </programme>
-  <programme start="20210524000000 +0100" stop="20210524002600 +0100" channel="(PT)SYFY">
+  <programme start="20210524000000 +0100" stop="20210524002600 +0100" channel="(PT)SYFY HD">
     <title>Resident Evil: Retaliação</title>
   </programme>
-  <programme start="20210524002600 +0100" stop="20210524011200 +0100" channel="(PT)SYFY">
+  <programme start="20210524002600 +0100" stop="20210524011200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.5</title>
   </programme>
-  <programme start="20210524011200 +0100" stop="20210524015700 +0100" channel="(PT)SYFY">
+  <programme start="20210524011200 +0100" stop="20210524015700 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.6</title>
   </programme>
-  <programme start="20210524015700 +0100" stop="20210524024400 +0100" channel="(PT)SYFY">
+  <programme start="20210524015700 +0100" stop="20210524024400 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.7</title>
   </programme>
-  <programme start="20210524024400 +0100" stop="20210524032900 +0100" channel="(PT)SYFY">
+  <programme start="20210524024400 +0100" stop="20210524032900 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.8</title>
   </programme>
-  <programme start="20210524032900 +0100" stop="20210524041600 +0100" channel="(PT)SYFY">
+  <programme start="20210524032900 +0100" stop="20210524041600 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.9</title>
   </programme>
-  <programme start="20210524041600 +0100" stop="20210524050100 +0100" channel="(PT)SYFY">
+  <programme start="20210524041600 +0100" stop="20210524050100 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.10</title>
   </programme>
-  <programme start="20210524050100 +0100" stop="20210524054500 +0100" channel="(PT)SYFY">
+  <programme start="20210524050100 +0100" stop="20210524054500 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.11</title>
   </programme>
-  <programme start="20210524054500 +0100" stop="20210524063000 +0100" channel="(PT)SYFY">
+  <programme start="20210524054500 +0100" stop="20210524063000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.12</title>
   </programme>
-  <programme start="20210524063000 +0100" stop="20210524071400 +0100" channel="(PT)SYFY">
+  <programme start="20210524063000 +0100" stop="20210524071400 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.13</title>
   </programme>
-  <programme start="20210524071400 +0100" stop="20210524080000 +0100" channel="(PT)SYFY">
+  <programme start="20210524071400 +0100" stop="20210524080000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.14</title>
   </programme>
-  <programme start="20210524080000 +0100" stop="20210524084200 +0100" channel="(PT)SYFY">
+  <programme start="20210524080000 +0100" stop="20210524084200 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.6</title>
   </programme>
-  <programme start="20210524084200 +0100" stop="20210524092600 +0100" channel="(PT)SYFY">
+  <programme start="20210524084200 +0100" stop="20210524092600 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.7</title>
   </programme>
-  <programme start="20210524092600 +0100" stop="20210524101000 +0100" channel="(PT)SYFY">
+  <programme start="20210524092600 +0100" stop="20210524101000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.13</title>
   </programme>
-  <programme start="20210524101000 +0100" stop="20210524105400 +0100" channel="(PT)SYFY">
+  <programme start="20210524101000 +0100" stop="20210524105400 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.14</title>
   </programme>
-  <programme start="20210524105400 +0100" stop="20210524113900 +0100" channel="(PT)SYFY">
+  <programme start="20210524105400 +0100" stop="20210524113900 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.8</title>
   </programme>
-  <programme start="20210524113900 +0100" stop="20210524122300 +0100" channel="(PT)SYFY">
+  <programme start="20210524113900 +0100" stop="20210524122300 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.9</title>
   </programme>
-  <programme start="20210524122300 +0100" stop="20210524130700 +0100" channel="(PT)SYFY">
+  <programme start="20210524122300 +0100" stop="20210524130700 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.15</title>
   </programme>
-  <programme start="20210524130700 +0100" stop="20210524135200 +0100" channel="(PT)SYFY">
+  <programme start="20210524130700 +0100" stop="20210524135200 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.16</title>
   </programme>
-  <programme start="20210524135200 +0100" stop="20210524143700 +0100" channel="(PT)SYFY">
+  <programme start="20210524135200 +0100" stop="20210524143700 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.10</title>
   </programme>
-  <programme start="20210524143700 +0100" stop="20210524152200 +0100" channel="(PT)SYFY">
+  <programme start="20210524143700 +0100" stop="20210524152200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.11</title>
   </programme>
-  <programme start="20210524152200 +0100" stop="20210524160700 +0100" channel="(PT)SYFY">
+  <programme start="20210524152200 +0100" stop="20210524160700 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.1</title>
   </programme>
-  <programme start="20210524160700 +0100" stop="20210524165600 +0100" channel="(PT)SYFY">
+  <programme start="20210524160700 +0100" stop="20210524165600 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.2</title>
   </programme>
-  <programme start="20210524165600 +0100" stop="20210524184400 +0100" channel="(PT)SYFY">
+  <programme start="20210524165600 +0100" stop="20210524184400 +0100" channel="(PT)SYFY HD">
     <title>Robocop (2014)</title>
   </programme>
-  <programme start="20210524184400 +0100" stop="20210524204200 +0100" channel="(PT)SYFY">
+  <programme start="20210524184400 +0100" stop="20210524204200 +0100" channel="(PT)SYFY HD">
     <title>Snowpiercer - O Expresso do Amanhã</title>
   </programme>
-  <programme start="20210524204200 +0100" stop="20210524212700 +0100" channel="(PT)SYFY">
+  <programme start="20210524204200 +0100" stop="20210524212700 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.3</title>
   </programme>
-  <programme start="20210524212700 +0100" stop="20210524221500 +0100" channel="(PT)SYFY">
+  <programme start="20210524212700 +0100" stop="20210524221500 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.4</title>
   </programme>
-  <programme start="20210524221500 +0100" stop="20210524223700 +0100" channel="(PT)SYFY">
+  <programme start="20210524221500 +0100" stop="20210524223700 +0100" channel="(PT)SYFY HD">
     <title>Missions T.2 Ep.3</title>
   </programme>
-  <programme start="20210524223700 +0100" stop="20210524230400 +0100" channel="(PT)SYFY">
+  <programme start="20210524223700 +0100" stop="20210524230400 +0100" channel="(PT)SYFY HD">
     <title>Missions T.2 Ep.4</title>
   </programme>
-  <programme start="20210524230400 +0100" stop="20210525005000 +0100" channel="(PT)SYFY">
+  <programme start="20210524230400 +0100" stop="20210525005000 +0100" channel="(PT)SYFY HD">
     <title>Wynonna Earp T.4 Ep.8</title>
   </programme>
-  <programme start="20210525005000 +0100" stop="20210525011400 +0100" channel="(PT)SYFY">
+  <programme start="20210525005000 +0100" stop="20210525011400 +0100" channel="(PT)SYFY HD">
     <title>Drácula: A História Desconhecida</title>
   </programme>
-  <programme start="20210525011400 +0100" stop="20210525020000 +0100" channel="(PT)SYFY">
+  <programme start="20210525011400 +0100" stop="20210525020000 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.1</title>
   </programme>
-  <programme start="20210525020000 +0100" stop="20210525024900 +0100" channel="(PT)SYFY">
+  <programme start="20210525020000 +0100" stop="20210525024900 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.2</title>
   </programme>
-  <programme start="20210525024900 +0100" stop="20210525033600 +0100" channel="(PT)SYFY">
+  <programme start="20210525024900 +0100" stop="20210525033600 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.8</title>
   </programme>
-  <programme start="20210525033600 +0100" stop="20210525042000 +0100" channel="(PT)SYFY">
+  <programme start="20210525033600 +0100" stop="20210525042000 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.9</title>
   </programme>
-  <programme start="20210525042000 +0100" stop="20210525050300 +0100" channel="(PT)SYFY">
+  <programme start="20210525042000 +0100" stop="20210525050300 +0100" channel="(PT)SYFY HD">
     <title>The Librarians T.3 Ep.1</title>
   </programme>
-  <programme start="20210525050300 +0100" stop="20210525054900 +0100" channel="(PT)SYFY">
+  <programme start="20210525050300 +0100" stop="20210525054900 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.6</title>
   </programme>
-  <programme start="20210525054900 +0100" stop="20210525063300 +0100" channel="(PT)SYFY">
+  <programme start="20210525054900 +0100" stop="20210525063300 +0100" channel="(PT)SYFY HD">
     <title>The Librarians T.3 Ep.2</title>
   </programme>
-  <programme start="20210525063300 +0100" stop="20210525071600 +0100" channel="(PT)SYFY">
+  <programme start="20210525063300 +0100" stop="20210525071600 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.13</title>
   </programme>
-  <programme start="20210525071600 +0100" stop="20210525080000 +0100" channel="(PT)SYFY">
+  <programme start="20210525071600 +0100" stop="20210525080000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.14</title>
   </programme>
-  <programme start="20210525080000 +0100" stop="20210525081600 +0100" channel="(PT)SYFY">
+  <programme start="20210525080000 +0100" stop="20210525081600 +0100" channel="(PT)SYFY HD">
     <title>Universo Syfy</title>
   </programme>
-  <programme start="20210525081600 +0100" stop="20210525085900 +0100" channel="(PT)SYFY">
+  <programme start="20210525081600 +0100" stop="20210525085900 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.7</title>
   </programme>
-  <programme start="20210525085900 +0100" stop="20210525094100 +0100" channel="(PT)SYFY">
+  <programme start="20210525085900 +0100" stop="20210525094100 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.8</title>
   </programme>
-  <programme start="20210525094100 +0100" stop="20210525102500 +0100" channel="(PT)SYFY">
+  <programme start="20210525094100 +0100" stop="20210525102500 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.15</title>
   </programme>
-  <programme start="20210525102500 +0100" stop="20210525110900 +0100" channel="(PT)SYFY">
+  <programme start="20210525102500 +0100" stop="20210525110900 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.16</title>
   </programme>
-  <programme start="20210525110900 +0100" stop="20210525115400 +0100" channel="(PT)SYFY">
+  <programme start="20210525110900 +0100" stop="20210525115400 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.10</title>
   </programme>
-  <programme start="20210525115400 +0100" stop="20210525123800 +0100" channel="(PT)SYFY">
+  <programme start="20210525115400 +0100" stop="20210525123800 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.11</title>
   </programme>
-  <programme start="20210525123800 +0100" stop="20210525132300 +0100" channel="(PT)SYFY">
+  <programme start="20210525123800 +0100" stop="20210525132300 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.17</title>
   </programme>
-  <programme start="20210525132300 +0100" stop="20210525140800 +0100" channel="(PT)SYFY">
+  <programme start="20210525132300 +0100" stop="20210525140800 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.18</title>
   </programme>
-  <programme start="20210525140800 +0100" stop="20210525145300 +0100" channel="(PT)SYFY">
+  <programme start="20210525140800 +0100" stop="20210525145300 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.12</title>
   </programme>
-  <programme start="20210525145300 +0100" stop="20210525153900 +0100" channel="(PT)SYFY">
+  <programme start="20210525145300 +0100" stop="20210525153900 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.13</title>
   </programme>
-  <programme start="20210525153900 +0100" stop="20210525162600 +0100" channel="(PT)SYFY">
+  <programme start="20210525153900 +0100" stop="20210525162600 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.3</title>
   </programme>
-  <programme start="20210525162600 +0100" stop="20210525171400 +0100" channel="(PT)SYFY">
+  <programme start="20210525162600 +0100" stop="20210525171400 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.4</title>
   </programme>
-  <programme start="20210525171400 +0100" stop="20210525184700 +0100" channel="(PT)SYFY">
+  <programme start="20210525171400 +0100" stop="20210525184700 +0100" channel="(PT)SYFY HD">
     <title>Vice - Cidade Sem Regras</title>
   </programme>
-  <programme start="20210525184700 +0100" stop="20210525204100 +0100" channel="(PT)SYFY">
+  <programme start="20210525184700 +0100" stop="20210525204100 +0100" channel="(PT)SYFY HD">
     <title>Regresso Ao Futuro</title>
   </programme>
-  <programme start="20210525204100 +0100" stop="20210525212800 +0100" channel="(PT)SYFY">
+  <programme start="20210525204100 +0100" stop="20210525212800 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.5</title>
   </programme>
-  <programme start="20210525212800 +0100" stop="20210525221500 +0100" channel="(PT)SYFY">
+  <programme start="20210525212800 +0100" stop="20210525221500 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.6</title>
   </programme>
-  <programme start="20210525221500 +0100" stop="20210525230100 +0100" channel="(PT)SYFY">
+  <programme start="20210525221500 +0100" stop="20210525230100 +0100" channel="(PT)SYFY HD">
     <title>Wynonna Earp T.4 Ep.9</title>
   </programme>
-  <programme start="20210525230100 +0100" stop="20210525232300 +0100" channel="(PT)SYFY">
+  <programme start="20210525230100 +0100" stop="20210525232300 +0100" channel="(PT)SYFY HD">
     <title>Missions T.2 Ep.3</title>
   </programme>
-  <programme start="20210525232300 +0100" stop="20210526005100 +0100" channel="(PT)SYFY">
+  <programme start="20210525232300 +0100" stop="20210526005100 +0100" channel="(PT)SYFY HD">
     <title>Missions T.2 Ep.4</title>
   </programme>
-  <programme start="20210526005100 +0100" stop="20210526012500 +0100" channel="(PT)SYFY">
+  <programme start="20210526005100 +0100" stop="20210526012500 +0100" channel="(PT)SYFY HD">
     <title>O Pacto</title>
   </programme>
-  <programme start="20210526012500 +0100" stop="20210526021100 +0100" channel="(PT)SYFY">
+  <programme start="20210526012500 +0100" stop="20210526021100 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.3</title>
   </programme>
-  <programme start="20210526021100 +0100" stop="20210526025700 +0100" channel="(PT)SYFY">
+  <programme start="20210526021100 +0100" stop="20210526025700 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.4</title>
   </programme>
-  <programme start="20210526025700 +0100" stop="20210526034200 +0100" channel="(PT)SYFY">
+  <programme start="20210526025700 +0100" stop="20210526034200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.10</title>
   </programme>
-  <programme start="20210526034200 +0100" stop="20210526042600 +0100" channel="(PT)SYFY">
+  <programme start="20210526034200 +0100" stop="20210526042600 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.11</title>
   </programme>
-  <programme start="20210526042600 +0100" stop="20210526050400 +0100" channel="(PT)SYFY">
+  <programme start="20210526042600 +0100" stop="20210526050400 +0100" channel="(PT)SYFY HD">
     <title>Universo Syfy</title>
   </programme>
-  <programme start="20210526050400 +0100" stop="20210526054700 +0100" channel="(PT)SYFY">
+  <programme start="20210526050400 +0100" stop="20210526054700 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.7</title>
   </programme>
-  <programme start="20210526054700 +0100" stop="20210526063000 +0100" channel="(PT)SYFY">
+  <programme start="20210526054700 +0100" stop="20210526063000 +0100" channel="(PT)SYFY HD">
     <title>The Librarians T.3 Ep.3</title>
   </programme>
-  <programme start="20210526063000 +0100" stop="20210526071400 +0100" channel="(PT)SYFY">
+  <programme start="20210526063000 +0100" stop="20210526071400 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.15</title>
   </programme>
-  <programme start="20210526071400 +0100" stop="20210526080000 +0100" channel="(PT)SYFY">
+  <programme start="20210526071400 +0100" stop="20210526080000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.16</title>
   </programme>
-  <programme start="20210526080000 +0100" stop="20210526084000 +0100" channel="(PT)SYFY">
+  <programme start="20210526080000 +0100" stop="20210526084000 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.8</title>
   </programme>
-  <programme start="20210526084000 +0100" stop="20210526092100 +0100" channel="(PT)SYFY">
+  <programme start="20210526084000 +0100" stop="20210526092100 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.9</title>
   </programme>
-  <programme start="20210526092100 +0100" stop="20210526100300 +0100" channel="(PT)SYFY">
+  <programme start="20210526092100 +0100" stop="20210526100300 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.17</title>
   </programme>
-  <programme start="20210526100300 +0100" stop="20210526104600 +0100" channel="(PT)SYFY">
+  <programme start="20210526100300 +0100" stop="20210526104600 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.18</title>
   </programme>
-  <programme start="20210526104600 +0100" stop="20210526112900 +0100" channel="(PT)SYFY">
+  <programme start="20210526104600 +0100" stop="20210526112900 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.12</title>
   </programme>
-  <programme start="20210526112900 +0100" stop="20210526121200 +0100" channel="(PT)SYFY">
+  <programme start="20210526112900 +0100" stop="20210526121200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.13</title>
   </programme>
-  <programme start="20210526121200 +0100" stop="20210526125500 +0100" channel="(PT)SYFY">
+  <programme start="20210526121200 +0100" stop="20210526125500 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.19</title>
   </programme>
-  <programme start="20210526125500 +0100" stop="20210526133800 +0100" channel="(PT)SYFY">
+  <programme start="20210526125500 +0100" stop="20210526133800 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.20</title>
   </programme>
-  <programme start="20210526133800 +0100" stop="20210526142200 +0100" channel="(PT)SYFY">
+  <programme start="20210526133800 +0100" stop="20210526142200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.14</title>
   </programme>
-  <programme start="20210526142200 +0100" stop="20210526150800 +0100" channel="(PT)SYFY">
+  <programme start="20210526142200 +0100" stop="20210526150800 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.15</title>
   </programme>
-  <programme start="20210526150800 +0100" stop="20210526155600 +0100" channel="(PT)SYFY">
+  <programme start="20210526150800 +0100" stop="20210526155600 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.5</title>
   </programme>
-  <programme start="20210526155600 +0100" stop="20210526164300 +0100" channel="(PT)SYFY">
+  <programme start="20210526155600 +0100" stop="20210526164300 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.6</title>
   </programme>
-  <programme start="20210526164300 +0100" stop="20210526185600 +0100" channel="(PT)SYFY">
+  <programme start="20210526164300 +0100" stop="20210526185600 +0100" channel="(PT)SYFY HD">
     <title>Hulk (2003)</title>
   </programme>
-  <programme start="20210526185600 +0100" stop="20210526204100 +0100" channel="(PT)SYFY">
+  <programme start="20210526185600 +0100" stop="20210526204100 +0100" channel="(PT)SYFY HD">
     <title>Regresso ao Futuro II</title>
   </programme>
-  <programme start="20210526204100 +0100" stop="20210526212800 +0100" channel="(PT)SYFY">
+  <programme start="20210526204100 +0100" stop="20210526212800 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.7</title>
   </programme>
-  <programme start="20210526212800 +0100" stop="20210526221500 +0100" channel="(PT)SYFY">
+  <programme start="20210526212800 +0100" stop="20210526221500 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.8</title>
   </programme>
-  <programme start="20210526221500 +0100" stop="20210527005500 +0100" channel="(PT)SYFY">
+  <programme start="20210526221500 +0100" stop="20210527005500 +0100" channel="(PT)SYFY HD">
     <title>Jumanji</title>
   </programme>
-  <programme start="20210527005500 +0100" stop="20210527013300 +0100" channel="(PT)SYFY">
+  <programme start="20210527005500 +0100" stop="20210527013300 +0100" channel="(PT)SYFY HD">
     <title>Zathura - Aventura no Espaço</title>
   </programme>
-  <programme start="20210527013300 +0100" stop="20210527022000 +0100" channel="(PT)SYFY">
+  <programme start="20210527013300 +0100" stop="20210527022000 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.5</title>
   </programme>
-  <programme start="20210527022000 +0100" stop="20210527030500 +0100" channel="(PT)SYFY">
+  <programme start="20210527022000 +0100" stop="20210527030500 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.6</title>
   </programme>
-  <programme start="20210527030500 +0100" stop="20210527034900 +0100" channel="(PT)SYFY">
+  <programme start="20210527030500 +0100" stop="20210527034900 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.12</title>
   </programme>
-  <programme start="20210527034900 +0100" stop="20210527043300 +0100" channel="(PT)SYFY">
+  <programme start="20210527034900 +0100" stop="20210527043300 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.13</title>
   </programme>
-  <programme start="20210527043300 +0100" stop="20210527050500 +0100" channel="(PT)SYFY">
+  <programme start="20210527043300 +0100" stop="20210527050500 +0100" channel="(PT)SYFY HD">
     <title>Universo Syfy</title>
   </programme>
-  <programme start="20210527050500 +0100" stop="20210527054700 +0100" channel="(PT)SYFY">
+  <programme start="20210527050500 +0100" stop="20210527054700 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.8</title>
   </programme>
-  <programme start="20210527054700 +0100" stop="20210527063000 +0100" channel="(PT)SYFY">
+  <programme start="20210527054700 +0100" stop="20210527063000 +0100" channel="(PT)SYFY HD">
     <title>The Librarians T.3 Ep.4</title>
   </programme>
-  <programme start="20210527063000 +0100" stop="20210527071400 +0100" channel="(PT)SYFY">
+  <programme start="20210527063000 +0100" stop="20210527071400 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.17</title>
   </programme>
-  <programme start="20210527071400 +0100" stop="20210527080000 +0100" channel="(PT)SYFY">
+  <programme start="20210527071400 +0100" stop="20210527080000 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.18</title>
   </programme>
-  <programme start="20210527080000 +0100" stop="20210527081900 +0100" channel="(PT)SYFY">
+  <programme start="20210527080000 +0100" stop="20210527081900 +0100" channel="(PT)SYFY HD">
     <title>Universo Syfy</title>
   </programme>
-  <programme start="20210527081900 +0100" stop="20210527090200 +0100" channel="(PT)SYFY">
+  <programme start="20210527081900 +0100" stop="20210527090200 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.9</title>
   </programme>
-  <programme start="20210527090200 +0100" stop="20210527094500 +0100" channel="(PT)SYFY">
+  <programme start="20210527090200 +0100" stop="20210527094500 +0100" channel="(PT)SYFY HD">
     <title>Colony T.3 Ep.10</title>
   </programme>
-  <programme start="20210527094500 +0100" stop="20210527102900 +0100" channel="(PT)SYFY">
+  <programme start="20210527094500 +0100" stop="20210527102900 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.19</title>
   </programme>
-  <programme start="20210527102900 +0100" stop="20210527111300 +0100" channel="(PT)SYFY">
+  <programme start="20210527102900 +0100" stop="20210527111300 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.20</title>
   </programme>
-  <programme start="20210527111300 +0100" stop="20210527115700 +0100" channel="(PT)SYFY">
+  <programme start="20210527111300 +0100" stop="20210527115700 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.14</title>
   </programme>
-  <programme start="20210527115700 +0100" stop="20210527124200 +0100" channel="(PT)SYFY">
+  <programme start="20210527115700 +0100" stop="20210527124200 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.15</title>
   </programme>
-  <programme start="20210527124200 +0100" stop="20210527132700 +0100" channel="(PT)SYFY">
+  <programme start="20210527124200 +0100" stop="20210527132700 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.21</title>
   </programme>
-  <programme start="20210527132700 +0100" stop="20210527141200 +0100" channel="(PT)SYFY">
+  <programme start="20210527132700 +0100" stop="20210527141200 +0100" channel="(PT)SYFY HD">
     <title>Grimm T.5 Ep.22</title>
   </programme>
-  <programme start="20210527141200 +0100" stop="20210527145800 +0100" channel="(PT)SYFY">
+  <programme start="20210527141200 +0100" stop="20210527145800 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.16</title>
   </programme>
-  <programme start="20210527145800 +0100" stop="20210527154400 +0100" channel="(PT)SYFY">
+  <programme start="20210527145800 +0100" stop="20210527154400 +0100" channel="(PT)SYFY HD">
     <title>Stargate: Atlantis T.2 Ep.17</title>
   </programme>
-  <programme start="20210527154400 +0100" stop="20210527163100 +0100" channel="(PT)SYFY">
+  <programme start="20210527154400 +0100" stop="20210527163100 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.7</title>
   </programme>
-  <programme start="20210527163100 +0100" stop="20210527171900 +0100" channel="(PT)SYFY">
+  <programme start="20210527163100 +0100" stop="20210527171900 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.8</title>
   </programme>
-  <programme start="20210527171900 +0100" stop="20210527184800 +0100" channel="(PT)SYFY">
+  <programme start="20210527171900 +0100" stop="20210527184800 +0100" channel="(PT)SYFY HD">
     <title>Época das Bruxas</title>
   </programme>
-  <programme start="20210527184800 +0100" stop="20210527204100 +0100" channel="(PT)SYFY">
+  <programme start="20210527184800 +0100" stop="20210527204100 +0100" channel="(PT)SYFY HD">
     <title>Regresso ao Futuro III</title>
   </programme>
-  <programme start="20210527204100 +0100" stop="20210527212800 +0100" channel="(PT)SYFY">
+  <programme start="20210527204100 +0100" stop="20210527212800 +0100" channel="(PT)SYFY HD">
     <title>Em Contacto T.2 Ep.9</title>
   </programme>
   <programme start="20210522002000 +0100" stop="20210522011100 +0100" channel="(PT)TVCINE 1 HD">
