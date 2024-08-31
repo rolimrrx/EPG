@@ -1,901 +1,557 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 #EXTINF:-1 tvg-name="NETFLIX" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX
-http://p2reep.xyz:80/983389092/410226384/86079
+http://p2reep.xyz:80/15788250777/74943414147/86079
 #EXTINF:-1 tvg-name="NETFLIX 2" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 2
-http://p2reep.xyz:80/983389092/410226384/101589
+http://p2reep.xyz:80/15788250777/74943414147/101589
 #EXTINF:-1 tvg-name="NETFLIX 3" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 3
-http://p2reep.xyz:80/983389092/410226384/143043
+http://p2reep.xyz:80/15788250777/74943414147/143043
 #EXTINF:-1 tvg-name="NETFLIX 4" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 4
-http://p2reep.xyz:80/983389092/410226384/143044
+http://p2reep.xyz:80/15788250777/74943414147/143044
 #EXTINF:-1 tvg-name="NETFLIX 5" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 5
-http://p2reep.xyz:80/983389092/410226384/168672
+http://p2reep.xyz:80/15788250777/74943414147/168672
 #EXTINF:-1 tvg-name="NETFLIX 6" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 6
-http://p2reep.xyz:80/983389092/410226384/249001
+http://p2reep.xyz:80/15788250777/74943414147/249001
 #EXTINF:-1 tvg-name="NETFLIX 7" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 7
-http://p2reep.xyz:80/983389092/410226384/249002
+http://p2reep.xyz:80/15788250777/74943414147/249002
 #EXTINF:-1 tvg-name="NETFLIX 8" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 8
-http://p2reep.xyz:80/983389092/410226384/249003
+http://p2reep.xyz:80/15788250777/74943414147/249003
 #EXTINF:-1 tvg-name="NETFLIX 9" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 9
-http://p2reep.xyz:80/983389092/410226384/249004
+http://p2reep.xyz:80/15788250777/74943414147/249004
 #EXTINF:-1 tvg-name="NETFLIX 10" tvg-logo="https://lh3.googleusercontent.com/-IXoCUvMU2ZQ/YEgRPdn8RjI/AAAAAAAAKG0/UL3d_orNUGs6LiG5_cLnpPPZrn_D3HnbgCLcBGAsYHQ/netflix.png" group-title="CANAIS",NETFLIX 10
-http://p2reep.xyz:80/983389092/410226384/266168
+http://p2reep.xyz:80/15788250777/74943414147/266168
 #EXTINF:-1 tvg-name="CINE HD ACTION" tvg-logo="https://1.bp.blogspot.com/-Yw4CYMSAYz8/XvvrSKqtdGI/AAAAAAAAGhA/zIvdMrpZdMo8cj-VMKHrQZo8cq0LaJUiQCLcBGAsYHQ/s1600/cine%2Ba%25C3%25A7%25C3%25A3o%2B01.png" group-title="CANAIS",CINE HD ACTION
-http://p2reep.xyz:80/983389092/410226384/32586
+http://p2reep.xyz:80/15788250777/74943414147/32586
 #EXTINF:-1 tvg-name="CINE MARVEL VS DC" tvg-logo="https://4.bp.blogspot.com/-eNIsvpD7vwQ/Xt-W6zlbtvI/AAAAAAAAGNk/RwJanh-vRmAzfKsY2t9eIqJUOxdpZlBxgCK4BGAYYCw/s1600/Marvel%2Bvs%2BDC.png" group-title="CANAIS",CINE MARVEL VS DC
-http://p2reep.xyz:80/983389092/410226384/29900
+http://p2reep.xyz:80/15788250777/74943414147/29900
 #EXTINF:-1 tvg-name="SUPER CLASSICOS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPzgGxaNL-WBJat7JP1Xdzm3qkjlsdr3gpzyZGwxTHqFaHlJed7uZkrLz-WdeGctPTOxFRnzNafCudzUF1KxpFwyZP_YhPqHoGZmChISgNZXhkM_uWI2XMvYyjG_aSevSCydq-jiKddjzkdql2bzjlULGBddajmWgshApX7Ws3yX_0zevVawA9nFp8" group-title="CANAIS",SUPER CLASSICOS
-http://p2reep.xyz:80/983389092/410226384/235235
+http://p2reep.xyz:80/15788250777/74943414147/235235
 #EXTINF:-1 tvg-name="TOP MELHORES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhSl8CvChX9WVeTqik3XdPgGfnI02RVYVeHrLjVBf7ab32loRb05XT9GSDRMhnRVddrNigvalyn02Hw5Pc1bFvWSU5Syj7ARJ1JioMkPI1wyYfxHXINtycldpI69Lmn_GFzJ8qntMRc0iERHdD6M-zsQ5bLmu_Tgyy9dY6hjOHvtSlaOezEC7FYCJUt" group-title="CANAIS",TOP MELHORES
-http://p2reep.xyz:80/983389092/410226384/235234
+http://p2reep.xyz:80/15788250777/74943414147/235234
 #EXTINF:-1 tvg-name="adam sandler" tvg-logo="https://lh3.googleusercontent.com/-ckwPPiOH9wA/YPcvB8C6TyI/AAAAAAAAKao/UXPP0Rn7d3k5woVBaN6DXBH_emL8OYXyACLcBGAsYHQ/adan%2Bsadle.png" group-title="CANAIS",adam sandler
-http://p2reep.xyz:80/983389092/410226384/113252
+http://p2reep.xyz:80/15788250777/74943414147/113252
 #EXTINF:-1 tvg-name="Bruce Willis" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiTB1CUQ3Rc-MqpWqnTOuGb7Apdu9AxgjABwnMuJcXZXPwOlVmze20s5snTnOATyJcRPsHJkO3UhDxg305jxivF-kximvi-M015IiTK7Cp4wUxn1yZKcbcQkRk8hvCTug-FfIwrdvKgdxHPEojeznHXKNHcvstkvyVLg1pqRSidD98023f4bTmmceQR" group-title="CANAIS",Bruce Willis
-http://p2reep.xyz:80/983389092/410226384/180779
+http://p2reep.xyz:80/15788250777/74943414147/180779
 #EXTINF:-1 tvg-id="SBTHD" tvg-name="SBT HD" tvg-logo="https://lh3.googleusercontent.com/-_75vOioAs8U/YG2oks7oxGI/AAAAAAAAKMI/bRsr9OtVQiEAAu_vPetSDZdUxzbWVK88QCLcBGAsYHQ/SBT%2BHD%2B.png" group-title="CANAIS",SBT HD
-http://p2reep.xyz:80/983389092/410226384/88414
+http://p2reep.xyz:80/15788250777/74943414147/88414
 #EXTINF:-1 tvg-id="RGSPHD" tvg-name="GLOBO" tvg-logo="https://lh3.googleusercontent.com/-KMuBZM0Se3w/YG3ygTPgTLI/AAAAAAAAKM0/M4hmbSAtGYkA3iePHeEaIS49f2nHOS3wwCLcBGAsYHQ/GLOBO%2BFHD%2BSP%2BH.265.png" group-title="CANAIS",GLOBO
-http://p2reep.xyz:80/983389092/410226384/88462
+http://p2reep.xyz:80/15788250777/74943414147/88462
 #EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORD HD " tvg-logo="https://lh3.googleusercontent.com/-8cciQ3FeGVI/YG2okEeyodI/AAAAAAAAKMA/YnmGz7_AwNIdQ0lvlTQBak1M0-VePlmhACLcBGAsYHQ/RECORD%2BHD.png" group-title="CANAIS",RECORD HD 
-http://p2reep.xyz:80/983389092/410226384/88436
+http://p2reep.xyz:80/15788250777/74943414147/88436
 #EXTINF:-1 tvg-id="PORVEHD" tvg-name="REDETV! HD" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2BHD.png" group-title="CANAIS",REDETV! HD
-http://p2reep.xyz:80/983389092/410226384/88425
+http://p2reep.xyz:80/15788250777/74943414147/88425
 #EXTINF:-1 tvg-id="GLOBOSD" tvg-name="MODO VIAGEM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgTWiQrMQDA7FYKKhto_lI-df7Vq69sqZAS3WmW1758wkHVxG5dTu_hM7p9amVU3AHhxKocr3qjrqtKmxiZb9QW9xrxalofqYURYwpTka2DbAD1bHX9DWpErLlzKNfEWls6UvMruhfAx35ML8_UEq0NSeR3P2weJP6JZGPtWl3KNb8bG2viQ6ZWlOIU" group-title="CANAIS",MODO VIAGEM
-http://p2reep.xyz:80/983389092/410226384/166808
+http://p2reep.xyz:80/15788250777/74943414147/166808
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND HD" tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2BHD.png" group-title="CANAIS",BAND HD
-http://p2reep.xyz:80/983389092/410226384/88409
+http://p2reep.xyz:80/15788250777/74943414147/88409
 #EXTINF:-1 tvg-id="MTVB" tvg-name="MTV  HD" tvg-logo="https://i.imgur.com/kKjnou9.png" group-title="CANAIS",MTV HD
-http://p2reep.xyz:80/983389092/410226384/166810
+http://p2reep.xyz:80/15788250777/74943414147/166810
 #EXTINF:-1 tvg-id="MTVLHDE" tvg-name="MTV LIVE HD" tvg-logo="https://i.imgur.com/QHDiQBu.png" group-title="CANAIS",MTV LIVE
-http://p2reep.xyz:80/983389092/410226384/166852
+http://p2reep.xyz:80/15788250777/74943414147/166852
 #EXTINF:-1 tvg-id="PRMBOXB" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://i.imgur.com/Oa7JLr1.png" group-title="CANAIS",MUSIC BOX BRAZIL
-http://p2reep.xyz:80/983389092/410226384/166811
+http://p2reep.xyz:80/15788250777/74943414147/166811
 #EXTINF:-1 tvg-id="VH1BHD" tvg-name="VH1 FHD" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS",VH1 FHD
-http://p2reep.xyz:80/983389092/410226384/71400
+http://p2reep.xyz:80/15788250777/74943414147/71400
 #EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET" tvg-logo="https://lh3.googleusercontent.com/-es1gCmIF2I0/YG2obFZhaOI/AAAAAAAAKKg/BET9SU-3tcUvX7VtNyuw6ypkS5Ho1kbSQCLcBGAsYHQ/ANIMAL%2BPLANET%2BHD.png" group-title="CANAIS",ANIMAL PLANET
-http://p2reep.xyz:80/983389092/410226384/88415
+http://p2reep.xyz:80/15788250777/74943414147/88415
 #EXTINF:-1 tvg-id="TDCB" tvg-name="DISCOVERY HD" tvg-logo="https://lh3.googleusercontent.com/-bxtQ9NEFzF0/YG2obOYYzaI/AAAAAAAAKKw/MOXrrMLf-XUxMvHDLmhKOp0b1dLQGfx6gCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2BHD.png" group-title="CANAIS",DISCOVERY HD
-http://p2reep.xyz:80/983389092/410226384/88412
+http://p2reep.xyz:80/15788250777/74943414147/88412
 #EXTINF:-1 tvg-id="NGCB" tvg-name="NAT GEO HD" tvg-logo="https://lh3.googleusercontent.com/-noKfasPvb-k/YG2odcYDo2I/AAAAAAAAKLI/awVr4L79qo0wGTBopIiFRPynSzja_UJXwCLcBGAsYHQ/NATGEO%2BHD.png" group-title="CANAIS",NAT GEO HD
-http://p2reep.xyz:80/983389092/410226384/122064
+http://p2reep.xyz:80/15788250777/74943414147/122064
 #EXTINF:-1 tvg-id="PARAMBH" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://i.imgur.com/9hvvydU.png" group-title="CANAIS",PARAMOUNT NETWORK HD
-http://p2reep.xyz:80/983389092/410226384/71370
+http://p2reep.xyz:80/15788250777/74943414147/71370
 #EXTINF:-1 tvg-id="STUBR" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgHRbH624rlf_L7MvHDEjwc8RzcmBw7FgcHHU2h_UzfRF__vry-F_8xsksICKQ43JmLaSLB7F8BPaH937FKGJOqgffXph9KWxBDha3BuGT0GwBZGHvBeb4aXe1ErjlVqigsv7-p5Q_cznbaojA__TBzB2adxtxFQ6Tl15c-8caixsi0OzQQszVDJ0j4" group-title="CANAIS",STUDIO UNIVERSAL
-http://p2reep.xyz:80/983389092/410226384/71098
+http://p2reep.xyz:80/15788250777/74943414147/71098
 #EXTINF:-1 tvg-id="BRZTBSH" tvg-name="TBS HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh7-x5XYDsnHnm8jbXpxijnwCs40fgbr8_BYuYdpaosRZ1wkudJiSZDNVmPjm0YMmjCsmBw5jCToXviz8H34eDdusM5Fk4VeSEF9drg3pckuaGVcDZyu5VyvEwJVStIu1N9D6b3IZ5sLlrVBpTwhh_SOUymR8c-QXZEc5P6uqiMkkAvQsSTQqozTkIo" group-title="CANAIS",TBS HD
-http://p2reep.xyz:80/983389092/410226384/166823
+http://p2reep.xyz:80/15788250777/74943414147/166823
 #EXTINF:-1 tvg-id="COMCHD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjX0htLVFWkoV3Au8jjm2C5SRR8OCjV1G4vr9zOluyevovFHDaR137tGKZVlC6MASrI1sq9ZbTv6doJ8K0KVJO_jUzsHq_Bbb68lRzFiuEBBGyHgO_bd5renjmEqyHUW5la1ptRmFbFWpHGb_BmKA2R0w6S-qmM7h_DQ9U7caRL-uFueLUkoJ1K34sU" group-title="CANAIS",COMEDY CENTRAL HD
-http://p2reep.xyz:80/983389092/410226384/166793
+http://p2reep.xyz:80/15788250777/74943414147/166793
 #EXTINF:-1 tvg-id="AXNB" tvg-name="AXN HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjzDM6ybyQ9xv3pqhTu_sTKz5Q1sXl_2tWMr_MvcZf1lwTKlNaykykKOC54ylUbCkGU8FUOweB5g3feyzdQ7-zSd-RUq7eogKZOcVkm2aKbKcor3nTSzCrGoMOs8XfzwrbgmR-BULX5lTsSlVg5jD_1oRDG7tAdq0mp7uEqvuOlB9mEt6vPzaa8hfjG" group-title="CANAIS",AXN HD
-http://p2reep.xyz:80/live/983389092/410226384/166785.ts
+http://p2reep.xyz:80/live/15788250777/74943414147/166785.ts
 #EXTINF:-1 tvg-id="FOXLIFB" tvg-name="CINECANAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhm6CtNx0kT43QaWAejYVyRgEimoi_gnSWWmO19sVbqD1KkqsjMR7i0xKJ1xGLFIZJd483bu_aZ4sD0Cv1p5aQdwbKK0PhYkAlvLaF1rkd0r3MDMQWzOrm2t09RfnTHGKQKPXM2drDzuDoAqBys8CpWavAFKs1Tn-rV3JLdSwrXASFkZsCildi8uLdi" group-title="CANAIS",CINECANAL
-http://p2reep.xyz:80/983389092/410226384/166799
+http://p2reep.xyz:80/15788250777/74943414147/166799
 #EXTINF:-1 tvg-id="VIVABRH" tvg-name="VIVA HD" tvg-logo="https://lh3.googleusercontent.com/-s-SqT_VoV-g/YY5EF2H-EBI/AAAAAAAAKuU/fXiACEqf5Y4VPxAhBpYGLw0sjW3T2CCWACLcBGAsYHQ/viva%2BHD.png" group-title="CANAIS",VIVA HD
-http://p2reep.xyz:80/983389092/410226384/136308
+http://p2reep.xyz:80/15788250777/74943414147/136308
 #EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 HD" tvg-logo="https://lh3.googleusercontent.com/-ntH6fnvr980/YG30ZmzbkrI/AAAAAAAAKOg/kWmJqWQVUu4lrkZ46HRlo5iF-JHVHRx3gCLcBGAsYHQ/Sportv%2BFHD%2B3%2BH.265.png" group-title="CANAIS",SPORTV 3
-http://p2reep.xyz:80/983389092/410226384/88459
+http://p2reep.xyz:80/15788250777/74943414147/88459
 #EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 HD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="CANAIS",SPORTV 2
-http://p2reep.xyz:80/983389092/410226384/237876
+http://p2reep.xyz:80/15788250777/74943414147/237876
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD" tvg-logo="https://lh3.googleusercontent.com/-Zb5Jg9iGj-4/YG2obFDviQI/AAAAAAAAKKs/Ycy5WeWqmocD5ilbECPvPbuYwkmEd3nvgCLcBGAsYHQ/SPORTV%2BHD.png" group-title="CANAIS",SPORTV
-http://p2reep.xyz:80/983389092/410226384/88416
+http://p2reep.xyz:80/15788250777/74943414147/88416
 #EXTINF:-1 tvg-id="GLN" tvg-name="GLOBO NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-6HNVktDIRUo/YY5EF5xdNEI/AAAAAAAAKuQ/Lkg6w5Ugv90LK4dRlfY4GGDn0oSGueAjwCLcBGAsYHQ/new%2BHD.png" group-title="CANAIS",GLOBO NEWS HD
-http://p2reep.xyz:80/983389092/410226384/136305
+http://p2reep.xyz:80/15788250777/74943414147/136305
 #EXTINF:-1 tvg-id="BISHD" tvg-name="BIS HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg5W0WB9PB8sH6LKHpyxOeTBTy7OhnZ967SFqg2_ijJiTPsb7EqV2VNpCJRwvqOuszcEOF6iJ44pHZ6vTNfhjwuoicBGgf1NZYB5-m1I96gZHf5ZZYB6UrzvGOKWRUDKmJe5qzodatsPzUNhK7NxKt9w55XeJiBeiWtwQTyFhtjg2oAkTy8hNpVQj6f" group-title="CANAIS",BIS HD
-http://p2reep.xyz:80/983389092/410226384/166788
+http://p2reep.xyz:80/15788250777/74943414147/166788
 #EXTINF:-1 tvg-id="MULTIHD" tvg-name="MULTISHOW HD" tvg-logo="https://lh3.googleusercontent.com/-pE1W22zfcPA/YG2oboTpHiI/AAAAAAAAKK4/TbloTY4Zr_E61qVaPVYPLCcD7KQStWyBQCLcBGAsYHQ/MULTISHOW%2BHD.png" group-title="CANAIS",MULTISHOW HD
-http://p2reep.xyz:80/983389092/410226384/88417
+http://p2reep.xyz:80/15788250777/74943414147/88417
 #EXTINF:-1 tvg-id="UNVRB" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-U_zQcTQSR3Q/YY5EH5YpI3I/AAAAAAAAKuk/X_7w9onyQLA2vfXheXSWR9mmHiqsrAgHACLcBGAsYHQ/universal%2BHD.png" group-title="CANAIS",UNIVERSAL TV HD
-http://p2reep.xyz:80/983389092/410226384/136312
+http://p2reep.xyz:80/15788250777/74943414147/136312
 #EXTINF:-1 tvg-id="BOOMB" tvg-name="CARTOONITO" tvg-logo="https://i.imgur.com/hW3dZ83.png" group-title="CANAIS",CARTOONITO
-http://p2reep.xyz:80/983389092/410226384/71079
+http://p2reep.xyz:80/15788250777/74943414147/71079
 #EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/YUxHRDQ.png" group-title="CANAIS",TOONCAST
-http://p2reep.xyz:80/983389092/410226384/168759
+http://p2reep.xyz:80/15788250777/74943414147/168759
 #EXTINF:-1 tvg-id="TOONB" tvg-name="CARTOON HD" tvg-logo="https://lh3.googleusercontent.com/-sesPk2onHdQ/YG2ob4F_6WI/AAAAAAAAKK8/9xV1ZmSswW0AE5sScNaDe1grki5Stx-vgCLcBGAsYHQ/CARTOON%2BHD.png" group-title="CANAIS",CARTOON HD
-http://p2reep.xyz:80/983389092/410226384/71080
+http://p2reep.xyz:80/15788250777/74943414147/71080
 #EXTINF:-1 tvg-id="WBB" tvg-name="WARNER HD" tvg-logo="https://lh3.googleusercontent.com/-JfVd39qFADU/YG3ymU89CeI/AAAAAAAAKNw/q4PPPhAtybsl_-rvGumrKkGAQjczfMbfACLcBGAsYHQ/WARNER%2BCHANNEL%2BFHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="CANAIS",WARNER HD
-http://p2reep.xyz:80/983389092/410226384/88449
+http://p2reep.xyz:80/15788250777/74943414147/88449
 #EXTINF:-1 tvg-id="TNTHDB" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/-H-z2NjsWbQw/YG2oi-718FI/AAAAAAAAKL4/7E0XBCST8rUe1cPPzJlJ-L0swZd7-R6DwCLcBGAsYHQ/TNT%2BHD.png" group-title="CANAIS",TNT HD
-http://p2reep.xyz:80/983389092/410226384/88434
+http://p2reep.xyz:80/15788250777/74943414147/88434
 #EXTINF:-1 tvg-id="SETB" tvg-name="SONY HD" tvg-logo="https://lh3.googleusercontent.com/-shSyYHWM4Bc/YG3ygPY4RFI/AAAAAAAAKMw/zVHDMi9Ie_k1QjKkyihhn2MjdmE9ltGjQCLcBGAsYHQ/CANAL%2BSONY%2BFHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="CANAIS",SONY HD
-http://p2reep.xyz:80/983389092/410226384/88440
+http://p2reep.xyz:80/15788250777/74943414147/88440
 #EXTINF:-1 tvg-id="FOXB" tvg-name="STAR CHANNEL" tvg-logo="https://lh3.googleusercontent.com/-B3JCoBm-bkQ/YG2ohOyfw2I/AAAAAAAAKLo/O3EDlBZ8Izg1NKHUyBYTNsBlyTBF4h-ogCLcBGAsYHQ/STAR%2BCHANNEL%2BHD.png" group-title="CANAIS",STAR CHANNEL
-http://p2reep.xyz:80/983389092/410226384/71338
+http://p2reep.xyz:80/15788250777/74943414147/71338
 #EXTINF:-1 tvg-id="TNTSBR" tvg-name="TNT SÉRIES HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFtCqcwEAhU6adPUw8dYoVcEEta4rxtzLy-JMPExKEh9T4oVpmmVshxWktUbCFvXFxOW7ksGjfgJetLCYYpeIJrHqPZQE3GE200fyHd0QXwc9jkE-XFK229sFLbbuiyRkbgzXuCm9I5OjU64c84f0GeRTMXR-cln7v-EUrto5xLTKiVKIU6OjNREHN" group-title="CANAIS",TNT SÉRIES HD
-http://p2reep.xyz:80/983389092/410226384/166827
+http://p2reep.xyz:80/15788250777/74943414147/166827
 #EXTINF:-1 tvg-id="MGPIXHD" tvg-name="MEGAPIX HD" tvg-logo="https://lh3.googleusercontent.com/-8vyaXVOaBl4/YG2ocZK1wtI/AAAAAAAAKLA/NQpntHhHctkThH1La-Yj2lGWw55m2Er2QCLcBGAsYHQ/MEGA%2BPIX%2BHD.png" group-title="CANAIS",MEGAPIX HD
-http://p2reep.xyz:80/983389092/410226384/88419
+http://p2reep.xyz:80/15788250777/74943414147/88419
 #EXTINF:-1 tvg-id="SPACEB" tvg-name="SPACE HD" tvg-logo="https://lh3.googleusercontent.com/-XgsZWFjysXk/YG2oioF-ohI/AAAAAAAAKL0/nhzSUpjnJn4ztx1Eh38Eac66HDOF6rU_gCLcBGAsYHQ/SPACE%2BHD.png" group-title="CANAIS",SPACE HD
-http://p2reep.xyz:80/983389092/410226384/88446
+http://p2reep.xyz:80/15788250777/74943414147/88446
 #EXTINF:-1 tvg-id="FXB" tvg-name="FX HD" tvg-logo="https://lh3.googleusercontent.com/-mAfODVEhdv8/YG3ygN3DCWI/AAAAAAAAKMo/qsuXro9tgmMEpom70Q7YN8kLdba44sXXgCLcBGAsYHQ/FX%2BFHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="CANAIS",FX HD
-http://p2reep.xyz:80/983389092/410226384/88441
+http://p2reep.xyz:80/15788250777/74943414147/88441
 #EXTINF:-1 tvg-id="BANDSPH" tvg-name="BANDSPORTS HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhV-Sb3kxeoPdejIBRi-rcEYrkvBNCUSVtf2pkLTzB6yatNRRuwKFXw3hamKWWdSjmdODzQmiB7aSyjI-EbZCDQRCYonXRbKVnw9vZ9atm1BeNnaTozHkkDe_Y2NJNHftEU2p5Z95xPSUQPfyx80rV-16ea2WL_OFMxcaR70foJEITyszni9Ll-JvIn" group-title="CANAIS",BANDSPORTS HD
-http://p2reep.xyz:80/983389092/410226384/166787
+http://p2reep.xyz:80/15788250777/74943414147/166787
 #EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://lh3.googleusercontent.com/-K-NqMSp-5TM/YG2obA4zaOI/AAAAAAAAKKo/4cSA1vfgH24gabqosjTEyHpMtHfel87ZwCLcBGAsYHQ/COMBATE%2BHD.png" group-title="CANAIS",COMBATE HD
-http://p2reep.xyz:80/983389092/410226384/88410
+http://p2reep.xyz:80/15788250777/74943414147/88410
 #EXTINF:-1 tvg-id="FS2SDBR" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://lh3.googleusercontent.com/-VU9AUVeozHI/YG2oc7YJkSI/AAAAAAAAKLE/327rpY4oaLEHJSBSuaQlwwz0CMMxQrx-gCLcBGAsYHQ/FOX%2BSPORTS%2B2%2BHD.png" group-title="CANAIS",FOX SPORTS 2 HD
-http://p2reep.xyz:80/983389092/410226384/88420
+http://p2reep.xyz:80/15788250777/74943414147/88420
 #EXTINF:-1 tvg-id="FSALSP" tvg-name="ESPN 4" tvg-logo="https://lh3.googleusercontent.com/-4h5wLi-DGbM/YG2obFahJ5I/AAAAAAAAKKk/c05Ik85-8tknXkYRp93ZztZPBbAYlRI4gCLcBGAsYHQ/FOX%2BSPORTS%2BHD.png" group-title="CANAIS",ESPN 4
-http://p2reep.xyz:80/983389092/410226384/88413
+http://p2reep.xyz:80/15788250777/74943414147/88413
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiB-5qkutNwrGDI9zfajyOwrSDadIRMAFkfFTRY6N7vqIzyfsGjSrMzyITvNYYcfJyIGp9zLOd1tPCInA9LhLDMPLkz_DHPqhuhrLvKm_Xl1dgHMMbJj3XHlt2dN4PMFoQ2Tn0Gh2_1gVl3xTj8Dvmv964Wz_UZTnEDSGl4dAxacJIB-z7jlA-g9eb-" group-title="CANAIS",ESPN 3
-http://p2reep.xyz:80/983389092/410226384/71117
+http://p2reep.xyz:80/15788250777/74943414147/71117
 #EXTINF:-1 tvg-id="ESPNHDB" tvg-name="ESPN 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg-KQLT0eOEU889e7i2XpvqHcbTyZy-HLIAk-1QYp3tH6BdLtNDMsYgJYBm71uCsdmwMJoISKNTqXxCRqTAH7dF3FGlb-TVlS-Z_Kl_v_6Cgnm8MhTGODefIfDcPnxkia1We06arNWgYHnvrogVl202fBJHQkaZGe40wrIJH_lW2-C4Ux69sitzKy7_" group-title="CANAIS",ESPN 2
-http://p2reep.xyz:80/983389092/410226384/166845
+http://p2reep.xyz:80/15788250777/74943414147/166845
 #EXTINF:-1 tvg-id="TPREHD" tvg-name="TELECINE HD" tvg-logo="https://lh3.googleusercontent.com/-zEvGM3RsXUU/YG2oeQG_RNI/AAAAAAAAKLQ/2avBvOqVUXkx6XGU7HDsoygBrzTL0-8WACLcBGAsYHQ/TELECINE%2BPREMIUM%2BHD.png" group-title="CANAIS",TELECINE HD
-http://p2reep.xyz:80/983389092/410226384/71069
+http://p2reep.xyz:80/15788250777/74943414147/71069
 #EXTINF:-1 tvg-id="TCAHD" tvg-name="TELECINE ACTION HD" tvg-logo="https://lh3.googleusercontent.com/-kdLiMCHI79A/YY5EIStYvGI/AAAAAAAAKug/YN0qehCVFKsmwFMBir49ANnxf9O-ZRxggCLcBGAsYHQ/telecine%2Baction%2BHD.png" group-title="CANAIS",TELECINE ACTION HD
-http://p2reep.xyz:80/983389092/410226384/71066
+http://p2reep.xyz:80/15788250777/74943414147/71066
 #EXTINF:-1 tvg-id="TEFHD" tvg-name="TELECINE FUN HD" tvg-logo="https://lh3.googleusercontent.com/-_hxS-6A76ok/YG3yjNT-ZaI/AAAAAAAAKNU/-yPnE4aYpWkzddE07b0dorf86g6AFS1qQCLcBGAsYHQ/TELECINE%2BFUN%2BFHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="CANAIS",TELECINE FUN HD
-http://p2reep.xyz:80/983389092/410226384/88456
+http://p2reep.xyz:80/15788250777/74943414147/88456
 #EXTINF:-1 tvg-id="TCPIPHD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://lh3.googleusercontent.com/-pHM7hGLrbQw/YG2ogmDzJ6I/AAAAAAAAKLk/1ouv9QUi2zM3v7VytxI1Vc1wMgAGR146gCLcBGAsYHQ/TELECINE%2BPIPOCA%2BHD.png" group-title="CANAIS",TELECINE PIPOCA HD
-http://p2reep.xyz:80/983389092/410226384/88429
+http://p2reep.xyz:80/15788250777/74943414147/88429
 #EXTINF:-1 tvg-id="TCTCHHD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiqulVh7WifKHc0uDojmHT-5dkSPjhcZWjtLabY32NxGokx4cFgcvnGsoa2a543MHbRGNI70Ls2ibe2yhPb8hYDhTYsrqrJEL_FUs3rCYHww1M9H1zfJwkq1BESdEC3B_pDGIqf92t89eyNQu_9085AmKnoHBK7iv9SGz2eVEvT1rd2wr1foCe1oEGR" group-title="CANAIS",TELECINE TOUCH HD
-http://p2reep.xyz:80/983389092/410226384/166826
+http://p2reep.xyz:80/15788250777/74943414147/166826
 #EXTINF:-1 tvg-id="TCCLHD" tvg-name="TELECINE CULT HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgSZi0el54AaRCQ3ghWjBojIdcrPR3kRXqR0cr2-wFrXYa__Ns1Nmz4z1Xvm70aWQZHopDasTdumLS7wv6TJXOgtEKg6CrwCkI5XzgPFzuYCMt67J8zONWnmzLkMR27fLjNaJgAqD_IOEWKfPH5u5EB879yy5eqYDyZe2VbPBZ9IiDvhSE1QIYaaw1A" group-title="CANAIS",TELECINE CULT HD
-http://p2reep.xyz:80/983389092/410226384/71066
+http://p2reep.xyz:80/15788250777/74943414147/71066
 #EXTINF:-1 tvg-id="DISHD" tvg-name="DISNEY HD" tvg-logo="https://i.imgur.com/yVuawJp.png" group-title="CANAIS",DISNEY HD
-http://p2reep.xyz:80/983389092/410226384/166841
+http://p2reep.xyz:80/15788250777/74943414147/166841
 #EXTINF:-1 tvg-id="AEBR" tvg-name="A AND E HD" tvg-logo="https://lh3.googleusercontent.com/-LGvMRYeN3PQ/YG3yj47tfuI/AAAAAAAAKNY/JexiIxKlsW01yFSo-Fy8QM6GEf0MPWjHwCLcBGAsYHQ/A%2526E%2BHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="CANAIS",A AND E HD
-http://p2reep.xyz:80/983389092/410226384/88455
+http://p2reep.xyz:80/15788250777/74943414147/88455
 #EXTINF:-1 tvg-id="ESPNEHD" tvg-name="ESPN EXTRA" tvg-logo="https://i.imgur.com/8J2JZUu.png" group-title="CANAIS",ESPN EXTRA 
-http://p2reep.xyz:80/983389092/410226384/166796
+http://p2reep.xyz:80/15788250777/74943414147/166796
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOddmBUmT5ZUhWO-mkXId8Vh73WGdpmMSaw9EQ309tcqr9lUfyddW87fd4U2iX4TCUoUP10hp27e16Hua7sT0T0yy3kCQGQIzYq4E7l85UtnzRE8sJTsTcC2dtI3eY3ISzMFTqxC_KNn9hgD-NBJw2h10NG2YZIBoON9P6rY21Dt8_POyFyVp8V9B3" group-title="CANAIS",ESPN
-http://p2reep.xyz:80/983389092/410226384/166844
+http://p2reep.xyz:80/15788250777/74943414147/166844
 #EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-VFqo5Tp6WTk/YG2oeoG1amI/AAAAAAAAKLU/wSTuNZrs93gIAwKOTQ1rj8CqfxsiIWu5wCLcBGAsYHQ/HBO%2BHD.png" group-title="CANAIS",HBO HD
-http://p2reep.xyz:80/983389092/410226384/71130
+http://p2reep.xyz:80/15788250777/74943414147/71130
 #EXTINF:-1 tvg-id="HBO2B" tvg-name="HBO 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgY_TFsQfUoJOIKEExsnAjX0-0NYhbaqXe3yjtnBdGfnPR9Zf50feUHV1wQL_9bcuXR7JPYN45Unnj7Ht9VcAHNAzJDjIdV4CLErQYZ_GJul5Dq4_OwN_Vm1GkIgwEpSWaAFKQ01AbzpkhE4bJI7OY9vZm3GLVoVG4Lqp6pLN79ee9aUbRZe4xabgOm" group-title="CANAIS",HBO 2 HD
-http://p2reep.xyz:80/983389092/410226384/166803
+http://p2reep.xyz:80/15788250777/74943414147/166803
 #EXTINF:-1 tvg-id="HBOFBE" tvg-name="HBO FAMILY HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPAwxnKgHLtaCKG1UP7Ofu6V5mOhlF4o9mWlvJap_UBM5Q2ARwkWI_Uq5MXHltvr0E60ljay8ibXwjstQKx_N43-27eApNup0RjQBK6QXKxuPIFEnl8-CYETQWklTXTTjSA2V7YbQnVJS49MA2wKbr-9JUbKqMFiW0dMKm8zzkWBolKUoUgeFKIrvt" group-title="CANAIS",HBO FAMILY HD
-http://p2reep.xyz:80/983389092/410226384/166804
+http://p2reep.xyz:80/15788250777/74943414147/166804
 #EXTINF:-1 tvg-id="HBOPB" tvg-name="HBO PLUS HD" tvg-logo="https://lh3.googleusercontent.com/-ALj0iny7Po4/YG3ygORG4LI/AAAAAAAAKMs/Rtaw4jBYa_g-ofOKqs1W10jpYTq6rdrkACLcBGAsYHQ/HBO%2B%252B%2BFHD%2BH.265.png" group-title="CANAIS",HBO PLUS HD
-http://p2reep.xyz:80/983389092/410226384/71132
+http://p2reep.xyz:80/15788250777/74943414147/71132
 #EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO SIGNATURE HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinYIkH9ituOONx19Z29dWSygUhMHbmwxTEtjOpOn4cNOwlZAXeSMTEt9b3ayMs0MQn2Na56TF1pCnx7VFu69m6SOgSYfYlNLBjS8aarCL94AdDrV9rcMN1mwy2TduT6qv78f8DAYqMBJK_ClkaDpWW9yIIDcEPfDfMZ_3kYlZTAvF9R-HPUjQGljaN" group-title="CANAIS",HBO SIGNATURE HD
-http://p2reep.xyz:80/983389092/410226384/166805
+http://p2reep.xyz:80/15788250777/74943414147/166805
 #EXTINF:-1 tvg-id="HBOXA2" tvg-name="HBO XTREME HD" tvg-logo="https://lh3.googleusercontent.com/-PFj7H96l-A8/YG2ofgBC2RI/AAAAAAAAKLc/jMOWiydYN-YvQA5x_5QI_RgIi_jcn_U6gCLcBGAsYHQ/HBO%2BXTREME%2BHD.png" group-title="CANAIS",HBO XTREME HD
-http://p2reep.xyz:80/983389092/410226384/71141
+http://p2reep.xyz:80/15788250777/74943414147/71141
 #EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP HD" tvg-logo="https://lh3.googleusercontent.com/-rW0dyzjV5l4/YG3yoTrL8VI/AAAAAAAAKN8/I-9VU0dIfxMdLLGSLavsy4IBhm5vm2VUACLcBGAsYHQ/HBO%2BPOP%2BFHD%2B%2BH.265.png" group-title="CANAIS",HBO POP HD
-http://p2reep.xyz:80/983389092/410226384/71139
+http://p2reep.xyz:80/15788250777/74943414147/71139
 #EXTINF:-1 tvg-id="HBOMSD" tvg-name="HBO MUNDI HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEild6lvRY9UpKWuoCs60q3Q1Mrlo4Q9ZQmFMjSjJPIHkW1EYrjjJJmn5PUxI-Om63NmJ102KWzS15ryELeO5NB_Ax_9wSQC6dgQLcWQNbcXavHJ-jipzfn4gKYETnlrxeMyTzuzANIgdw9fvooP3tqDbMlVY4LJOdwZJ0FyVjEQ0o7WhRW-ffndX_b9" group-title="CANAIS",HBO MUNDI HD
-http://p2reep.xyz:80/983389092/410226384/71137
+http://p2reep.xyz:80/15788250777/74943414147/71137
 #EXTINF:-1 tvg-id="CINEMXB" tvg-name="CINEMAX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiysFiZrE8xzvjXYIQAlrsNF-Q8DIupPcMsDKvAt_bYjPxdTcrczh32LYzne0SsVUynA3ASFGwKZc_q-XVyNX7kZwOvNpJc86x6g-qSuOGMppMYghv2ZmDZhoyzzFV1RQBOurBjLo0l_DDwmqwj8bDwBgdS3cku2BWL0xBj5J_mIW1x7wMOmtGY3TfV" group-title="CANAIS",CINEMAX HD
-http://p2reep.xyz:80/983389092/410226384/71094
+http://p2reep.xyz:80/15788250777/74943414147/71094
 #EXTINF:-1 tvg-id="CNLBRSH" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/TE1Unan.png" group-title="CANAIS",CANAL BRASIL HD
-http://p2reep.xyz:80/983389092/410226384/166790
+http://p2reep.xyz:80/15788250777/74943414147/166790
 #EXTINF:-1 tvg-name="007" tvg-logo="https://lh3.googleusercontent.com/-cnD9MPdDSbI/X8l1VUxhG6I/AAAAAAAAHSk/0trwqxYUm1I-sS06YE223O3KKmjxWcpygCLcBGAsYHQ/007.png" group-title="CANAIS",007
-http://p2reep.xyz:80/983389092/410226384/55238
+http://p2reep.xyz:80/15788250777/74943414147/55238
 #EXTINF:-1 tvg-name="will smith" tvg-logo="https://lh3.googleusercontent.com/-1IpJHBYHUhs/YPcHpBQ9Z2I/AAAAAAAAKaQ/7btBEImTCOETu-gWHwuv99JmmtNgWNAAwCLcBGAsYHQ/will%2Bsmit.png" group-title="CANAIS",will smith
-http://p2reep.xyz:80/983389092/410226384/113253
+http://p2reep.xyz:80/15788250777/74943414147/113253
 #EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/rxgQxZR.png" group-title="CANAIS",PFC CLUBES HD
-http://p2reep.xyz:80/983389092/410226384/88411
+http://p2reep.xyz:80/15788250777/74943414147/88411
 #EXTINF:-1 tvg-id="PR2SHD" tvg-name="PREMIERE 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg81mGHD5E4yfk5QjWTEN-ANjUWGg-osBY_M2-lFnrIa46AlQK5e9SpJMge6Crfa0UvHV-GU2E_nOaXxzk3vCvKzXCSOyZMDDl47ea7icBSuQ6d6VMiuFyeAY_CRIyeX37cpR6_Tqw8k7UtjJE9y1aqyW1vdoPQBgJD4iTRE5O2P3fNkRxzdvpgFELR" group-title="CANAIS",PFC 2 HD
-http://p2reep.xyz:80/983389092/410226384/166815
+http://p2reep.xyz:80/15788250777/74943414147/166815
 #EXTINF:-1 tvg-id="PR3UBE" tvg-name="PREMIERE 3 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg81mGHD5E4yfk5QjWTEN-ANjUWGg-osBY_M2-lFnrIa46AlQK5e9SpJMge6Crfa0UvHV-GU2E_nOaXxzk3vCvKzXCSOyZMDDl47ea7icBSuQ6d6VMiuFyeAY_CRIyeX37cpR6_Tqw8k7UtjJE9y1aqyW1vdoPQBgJD4iTRE5O2P3fNkRxzdvpgFELR" group-title="CANAIS",PFC 3 HD
-http://p2reep.xyz:80/983389092/410226384/206478
+http://p2reep.xyz:80/15788250777/74943414147/206478
 #EXTINF:-1 tvg-id="PRMR4" tvg-name="PREMIERE 4 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg81mGHD5E4yfk5QjWTEN-ANjUWGg-osBY_M2-lFnrIa46AlQK5e9SpJMge6Crfa0UvHV-GU2E_nOaXxzk3vCvKzXCSOyZMDDl47ea7icBSuQ6d6VMiuFyeAY_CRIyeX37cpR6_Tqw8k7UtjJE9y1aqyW1vdoPQBgJD4iTRE5O2P3fNkRxzdvpgFELR" group-title="CANAIS",PFC 4 HD
-http://p2reep.xyz:80/983389092/410226384/166854
+http://p2reep.xyz:80/15788250777/74943414147/166854
 #EXTINF:-1 tvg-id="PRM5BR" tvg-name="PREMIERE 5 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg81mGHD5E4yfk5QjWTEN-ANjUWGg-osBY_M2-lFnrIa46AlQK5e9SpJMge6Crfa0UvHV-GU2E_nOaXxzk3vCvKzXCSOyZMDDl47ea7icBSuQ6d6VMiuFyeAY_CRIyeX37cpR6_Tqw8k7UtjJE9y1aqyW1vdoPQBgJD4iTRE5O2P3fNkRxzdvpgFELR" group-title="CANAIS",PFC 5 HD
-http://p2reep.xyz:80/983389092/410226384/166817
+http://p2reep.xyz:80/15788250777/74943414147/166817
 #EXTINF:-1 tvg-id="PFC6HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg81mGHD5E4yfk5QjWTEN-ANjUWGg-osBY_M2-lFnrIa46AlQK5e9SpJMge6Crfa0UvHV-GU2E_nOaXxzk3vCvKzXCSOyZMDDl47ea7icBSuQ6d6VMiuFyeAY_CRIyeX37cpR6_Tqw8k7UtjJE9y1aqyW1vdoPQBgJD4iTRE5O2P3fNkRxzdvpgFELR" group-title="CANAIS",PFC 6 HD
-http://p2reep.xyz:80/983389092/410226384/166855
+http://p2reep.xyz:80/15788250777/74943414147/166855
 #EXTINF:-1 tvg-id="PFC7HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg81mGHD5E4yfk5QjWTEN-ANjUWGg-osBY_M2-lFnrIa46AlQK5e9SpJMge6Crfa0UvHV-GU2E_nOaXxzk3vCvKzXCSOyZMDDl47ea7icBSuQ6d6VMiuFyeAY_CRIyeX37cpR6_Tqw8k7UtjJE9y1aqyW1vdoPQBgJD4iTRE5O2P3fNkRxzdvpgFELR" group-title="CANAIS",PFC 7 HD
-http://p2reep.xyz:80/983389092/410226384/166856
+http://p2reep.xyz:80/15788250777/74943414147/166856
 #EXTINF:-1 tvg-id="AMCB" tvg-name="AMC" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgblsg8zAypR2rG_QkzWgPVBcs0ibK2V6P-AL6HtbU9V8xaJOXlmFQfOuR9qoNHyLmTMUkA6Xk9JXsh5GiwbMxuIO7jYvLVJvZvB1xoKOT8V0btjpWBvmURK0gFoiIA6drRnBx0Y7MS7UArjgME8-EZ_ZQbZsns5TTzLfO2pbpBTlO8kSKKlsTw4qAM" group-title="CANAIS",AMC
-http://p2reep.xyz:80/983389092/410226384/71093
+http://p2reep.xyz:80/15788250777/74943414147/71093
 #EXTINF:-1 tvg-id="TCMB" tvg-name="TCM" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="CANAIS",TCM
-http://p2reep.xyz:80/983389092/410226384/71269
+http://p2reep.xyz:80/15788250777/74943414147/71269
 #EXTINF:-1 tvg-id="SYFYB" tvg-name="SYFY HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiIBjWvvDIUKow3tKMGU-6uwJItqNTYU98XsZx2BDJT74j_svXeLnpUAwm6ohnN3Qutg4sLjdXAjAoc8-1DgoP68krTWRDbX5cs-zFuqBJR7XyIN5-jgPLZlEYHvGxGWtZidcthH0vj5cA8DxgzO7qKJvxgRNH7X3B6ZV2f9A8fWU1QBPuJj2cxT7-t" group-title="CANAIS",USA HD
-http://p2reep.xyz:80/983389092/410226384/71153
+http://p2reep.xyz:80/15788250777/74943414147/71153
 #EXTINF:-1 tvg-name="Alien" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhR3dv9D7yNwaqRzgTiyAskPnFp9UnPFcrC0jWBkzfYvZKGjKlLm3khS35LKkN5oR-fkgH5YMlpHyDHbVgxSpRXPeDbB4VPuva2Yl1zXkPLgJevjUISK8-iqt5a_0_i4r8BcoW_mGHzt4pDbbIDiJGbaKxrW_x282FqS5krUy1LuN6e_ZQ_diIfHBDs" group-title="CANAIS",Alien
-http://p2reep.xyz:80/983389092/410226384/261359
+http://p2reep.xyz:80/15788250777/74943414147/261359
 #EXTINF:-1 tvg-name="Missão Impossível" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPSnyPKU65hHC_7ABFWGSt0HD_e5MZc_AaSQcboqefAmOF5UwnHaSoIbiuIKAtPOxZ0KzGPAg2AJaj8CvzympSIGzL9XXOb2j0CZVCZcszgOtP7ujuDlzBI_9LU57e1cZzKEJyeDT_LLjT3SdvURPyWCzEvmLKw6Fewlq7qk5j63Yc20yjIrNgTXjSdUQ" group-title="CANAIS",Missão Impossível
-http://p2reep.xyz:80/983389092/410226384/17707
+http://p2reep.xyz:80/15788250777/74943414147/17707
 #EXTINF:-1 tvg-name="Nicolas Cage" tvg-logo="https://lh3.googleusercontent.com/-uvJYOvdPU6Y/YQL8Tm6M45I/AAAAAAAAKcA/JjvD8Z1kT-o2j5tuzoYATVySrLNE3gLBgCLcBGAsYHQ/nicolas.png" group-title="CANAIS",Nicolas Cage
-http://p2reep.xyz:80/983389092/410226384/115298
+http://p2reep.xyz:80/15788250777/74943414147/115298
 #EXTINF:-1 tvg-name="Resident Evil " tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhbjpJGF4jsLk3pWb3USBH56hcQTYhGHMeLNfSzhNB-u-m7f0PY5o7ra_YVb_r3TCr0ujfBm5dAA6cdD_fghbC7RE29KCPl4WAcW1nib-IvpjMaq4YdSTZF8mmEWiGdewj-taiVvhK7HTZMX2gPeT3wYGHOp5RUBYzGf__83iM9MXoRzzuZEw1LfyUd" group-title="CANAIS",Resident Evil
-http://p2reep.xyz:80/983389092/410226384/261363
+http://p2reep.xyz:80/15788250777/74943414147/261363
 #EXTINF:-1 tvg-name="Resident Evil" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAQvoxCFioUYNP2f8QXpyskniA7xLvCC1kx4Q1ZR0iBNHPCORkkau8uK-WIFaSVVk2IZ3sSgMFDin4CgcB9-m51kTSKHe8zSv3_luBMFYWIFfZmxMHpeF2P5E0pDgRdbp9CVMFczi2WQpg9ASpwYGrqdGmcWJJhapwqtGgAiECrLZ_5GHYVkWIzNhEzwY" group-title="CANAIS",Resident Evil
-http://p2reep.xyz:80/983389092/410226384/322606
+http://p2reep.xyz:80/15788250777/74943414147/322606
 #EXTINF:-1 tvg-name="Steven Seagal" tvg-logo="https://lh3.googleusercontent.com/-pZFsWfvyEEM/X8l1VVwKHOI/AAAAAAAAHSc/7yLDWyxLqH06AxN32V4fQMERrPe2ngqiwCLcBGAsYHQ/Steven%2BSeagal.png" group-title="CANAIS",Steven Seagal
-http://p2reep.xyz:80/983389092/410226384/55239
+http://p2reep.xyz:80/15788250777/74943414147/55239
 #EXTINF:-1 tvg-name="tv cine top" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgQqQnhzL-JKs9oAvDsmZzZ8MBsYGN7GjbJ-aQNqMpcLW9wZMVO69FSLCMQ-8vmxXTGQs5f8QG6hNgpTHYgfYXR3NJTENkoZgjU-z1cSmto7HcvKlVlrEzEESX1yVMeRd3OsYFJgFSpi4yYm4v8ZbSWYSnk8CdbrPSaPMwKc32mAU3f6PnKxlHmO9GFXHM" group-title="CANAIS",tv cine top
-http://p2reep.xyz:80/983389092/410226384/294392
+http://p2reep.xyz:80/15788250777/74943414147/294392
 #EXTINF:-1 tvg-name="Anjos da Noite" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwGxvFZ4vfNYbrwiQgUduAcL49mMwNqHayHVELz651mQCNFteWyYWNj48UwIJMA5p8CRJBN1oWXfU4tVAnUhCcBOIrAtvtARDT47uA142FoGx3F_CYmyf96MKOHziKylqVhGW_11QEftsRVlBriieGfOXyjmFEDJsses4QfWx-Z3KypJNcpwkNc2Lpsdk" group-title="CANAIS",Anjos da Noite
-http://p2reep.xyz:80/983389092/410226384/309426
+http://p2reep.xyz:80/15788250777/74943414147/309426
 #EXTINF:-1 tvg-name="Matrix" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjSvhpuu0u-pyw05Y9f3SluWYtawHuedG5n98eKkQjyCFg35-6Rbo3-Z-0XlfnOAiALaZaK4J8ZetpTIxKFv7pRrtFb_Y4FrFBKCo3I_JhIQe_M1H0UY-feFRlXFTu-O7Gz_19qwyicmR8tZzJxO6xZDTigd7dj4le9Ox9a9ott_2PCx-RJ6XPbuN0pOmA" group-title="CANAIS",Matrix
-http://p2reep.xyz:80/983389092/410226384/322674
+http://p2reep.xyz:80/15788250777/74943414147/322674
 #EXTINF:-1 tvg-name="Star Wars" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgNdh6oAXbThDzT4J_8ijutAgdYdKFUZCVZuhWMfEtaDiHn2vr-EhrL38JLNhE9Qw7xV8o9gNsCnb5beqLPK1a7HjEWpJ2KcKi5372Im3AY3KtkAdhQWE5cXRXtvLrEevUBLc_2V6XrkPOZiJvmNdzYxqwlu8OsyHlGt4CNmooE3w9VPPE_e30zuf9YnRI" group-title="CANAIS",Star Wars
-http://p2reep.xyz:80/983389092/410226384/327737
+http://p2reep.xyz:80/15788250777/74943414147/327737
 #EXTINF:-1 tvg-name="Cine+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtEdXrKIwvJH1bo9q6mgC4avqgsUfb6OLOHZl5r9AqBTeTVu4e0JDVxIlw3tMY6BX23Stgz6pRovIbPqPSESkt5l6fDBut7j8p04WJbJ-xkKzuoOl1ulYS0p7_dQ7CobmB47xuYpHGsFRVAJ-I0tCeWuoiBLSBhF2MQgeSyeUtRpwYxBSH2WafsbCufdw" group-title="CANAIS",Cine+
-http://p2reep.xyz:80/983389092/410226384/327749
+http://p2reep.xyz:80/15788250777/74943414147/327749
 #EXTINF:-1 tvg-name="CINE SKY 01" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 01
-http://p2reep.xyz:80/983389092/410226384/48666
+http://p2reep.xyz:80/15788250777/74943414147/48666
 #EXTINF:-1 tvg-name="CINE SKY 02" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 02
-http://p2reep.xyz:80/983389092/410226384/48667
+http://p2reep.xyz:80/15788250777/74943414147/48667
 #EXTINF:-1 tvg-name="CINE SKY 03" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 03
-http://p2reep.xyz:80/983389092/410226384/48898
+http://p2reep.xyz:80/15788250777/74943414147/48898
 #EXTINF:-1 tvg-name="CINE SKY 04" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 04
-http://p2reep.xyz:80/983389092/410226384/49119
+http://p2reep.xyz:80/15788250777/74943414147/49119
 #EXTINF:-1 tvg-name="CINE SKY 05" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 05
-http://p2reep.xyz:80/983389092/410226384/139443
+http://p2reep.xyz:80/15788250777/74943414147/139443
 #EXTINF:-1 tvg-name="CINE SKY 06" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 06
-http://p2reep.xyz:80/983389092/410226384/139444
+http://p2reep.xyz:80/15788250777/74943414147/139444
 #EXTINF:-1 tvg-name="CINE SKY 07" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 07
-http://p2reep.xyz:80/983389092/410226384/116161
+http://p2reep.xyz:80/15788250777/74943414147/116161
 #EXTINF:-1 tvg-name="CINE SKY 08" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 08
-http://p2reep.xyz:80/983389092/410226384/139439
+http://p2reep.xyz:80/15788250777/74943414147/139439
 #EXTINF:-1 tvg-name="CINE SKY 09" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 09
-http://p2reep.xyz:80/983389092/410226384/139440
+http://p2reep.xyz:80/15788250777/74943414147/139440
 #EXTINF:-1 tvg-name="CINE SKY 10" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CANAIS",CINE SKY 10
-http://p2reep.xyz:80/983389092/410226384/35432
+http://p2reep.xyz:80/15788250777/74943414147/35432
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 1
-http://p2reep.xyz:80/983389092/410226384/136188
+http://p2reep.xyz:80/15788250777/74943414147/136188
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 2
-http://p2reep.xyz:80/983389092/410226384/136189
+http://p2reep.xyz:80/15788250777/74943414147/136189
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 3
-http://p2reep.xyz:80/983389092/410226384/136190
+http://p2reep.xyz:80/15788250777/74943414147/136190
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 4" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 4
-http://p2reep.xyz:80/983389092/410226384/136191
+http://p2reep.xyz:80/15788250777/74943414147/136191
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 5
-http://p2reep.xyz:80/983389092/410226384/136192
+http://p2reep.xyz:80/15788250777/74943414147/136192
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 6" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 6
-http://p2reep.xyz:80/983389092/410226384/136193
+http://p2reep.xyz:80/15788250777/74943414147/136193
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 7" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 7
-http://p2reep.xyz:80/983389092/410226384/136194
+http://p2reep.xyz:80/15788250777/74943414147/136194
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 8
-http://p2reep.xyz:80/983389092/410226384/136195
+http://p2reep.xyz:80/15788250777/74943414147/136195
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 9" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 9
-http://p2reep.xyz:80/983389092/410226384/136196
+http://p2reep.xyz:80/15788250777/74943414147/136196
 #EXTINF:-1 tvg-name="CINE SKY CINEMA 10" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CANAIS",CINE SKY CINEMA 10
-http://p2reep.xyz:80/983389092/410226384/291534
+http://p2reep.xyz:80/15788250777/74943414147/291534
 #EXTINF:-1 tvg-name="CINE SKY PLAY 1" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 1
-http://p2reep.xyz:80/983389092/410226384/267936
+http://p2reep.xyz:80/15788250777/74943414147/267936
 #EXTINF:-1 tvg-name="CINE SKY PLAY 2" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 2
-http://p2reep.xyz:80/983389092/410226384/267937
+http://p2reep.xyz:80/15788250777/74943414147/267937
 #EXTINF:-1 tvg-name="CINE SKY PLAY 3" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 3
-http://p2reep.xyz:80/983389092/410226384/267938
+http://p2reep.xyz:80/15788250777/74943414147/267938
 #EXTINF:-1 tvg-name="CINE SKY PLAY 4" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 4
-http://p2reep.xyz:80/983389092/410226384/267939
+http://p2reep.xyz:80/15788250777/74943414147/267939
 #EXTINF:-1 tvg-name="CINE SKY PLAY 5" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 5
-http://p2reep.xyz:80/983389092/410226384/267940
+http://p2reep.xyz:80/15788250777/74943414147/267940
 #EXTINF:-1 tvg-name="CINE SKY PLAY 6" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 6
-http://p2reep.xyz:80/983389092/410226384/267941
+http://p2reep.xyz:80/15788250777/74943414147/267941
 #EXTINF:-1 tvg-name="CINE SKY PLAY 7" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 7
-http://p2reep.xyz:80/983389092/410226384/267942
+http://p2reep.xyz:80/15788250777/74943414147/267942
 #EXTINF:-1 tvg-name="CINE SKY PLAY 8" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 8
-http://p2reep.xyz:80/983389092/410226384/267943
+http://p2reep.xyz:80/15788250777/74943414147/267943
 #EXTINF:-1 tvg-name="CINE SKY PLAY 9" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 9
-http://p2reep.xyz:80/983389092/410226384/267944
+http://p2reep.xyz:80/15788250777/74943414147/267944
 #EXTINF:-1 tvg-name="CINE SKY PLAY 10" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CANAIS",CINE SKY PLAY 10
-http://p2reep.xyz:80/983389092/410226384/267945
+http://p2reep.xyz:80/15788250777/74943414147/267945
 #EXTINF:-1 tvg-name="Cineflix 01" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 01
-http://p2reep.xyz:80/983389092/410226384/312132
+http://p2reep.xyz:80/15788250777/74943414147/312132
 #EXTINF:-1 tvg-name="Cineflix 02" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 02
-http://p2reep.xyz:80/983389092/410226384/312133
+http://p2reep.xyz:80/15788250777/74943414147/312133
 #EXTINF:-1 tvg-name="Cineflix 03" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 03
-http://p2reep.xyz:80/983389092/410226384/312134
+http://p2reep.xyz:80/15788250777/74943414147/312134
 #EXTINF:-1 tvg-name="Cineflix 04" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 04
-http://p2reep.xyz:80/983389092/410226384/312135
+http://p2reep.xyz:80/15788250777/74943414147/312135
 #EXTINF:-1 tvg-name="Cineflix 05" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 05
-http://p2reep.xyz:80/983389092/410226384/312136
+http://p2reep.xyz:80/15788250777/74943414147/312136
 #EXTINF:-1 tvg-name="Cineflix 06" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 06
-http://p2reep.xyz:80/983389092/410226384/312137
+http://p2reep.xyz:80/15788250777/74943414147/312137
 #EXTINF:-1 tvg-name="Cineflix 07" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 07
-http://p2reep.xyz:80/983389092/410226384/312138
+http://p2reep.xyz:80/15788250777/74943414147/312138
 #EXTINF:-1 tvg-name="Cineflix 08" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 08
-http://p2reep.xyz:80/983389092/410226384/312139
+http://p2reep.xyz:80/15788250777/74943414147/312139
 #EXTINF:-1 tvg-name="Cineflix 09" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 09
-http://p2reep.xyz:80/983389092/410226384/312140
+http://p2reep.xyz:80/15788250777/74943414147/312140
 #EXTINF:-1 tvg-name="Cineflix 10" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CANAIS",Cineflix 10
-http://p2reep.xyz:80/983389092/410226384/312141
+http://p2reep.xyz:80/15788250777/74943414147/312141
 #EXTINF:-1 tvg-name="CINE 01" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 01
-http://p2reep.xyz:80/983389092/410226384/23395
+http://p2reep.xyz:80/15788250777/74943414147/23395
 #EXTINF:-1 tvg-name="CINE 02" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 02
-http://p2reep.xyz:80/983389092/410226384/43022
+http://p2reep.xyz:80/15788250777/74943414147/43022
 #EXTINF:-1 tvg-name="CINE 03" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 03
-http://p2reep.xyz:80/983389092/410226384/45967
+http://p2reep.xyz:80/15788250777/74943414147/45967
 #EXTINF:-1 tvg-name="CINE 04" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 04
-http://p2reep.xyz:80/983389092/410226384/46445
+http://p2reep.xyz:80/15788250777/74943414147/46445
 #EXTINF:-1 tvg-name="CINE 05" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 05
-http://p2reep.xyz:80/983389092/410226384/47572
+http://p2reep.xyz:80/15788250777/74943414147/47572
 #EXTINF:-1 tvg-name="CINE 06" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 06
-http://p2reep.xyz:80/983389092/410226384/47573
+http://p2reep.xyz:80/15788250777/74943414147/47573
 #EXTINF:-1 tvg-name="CINE 07" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 07
-http://p2reep.xyz:80/983389092/410226384/42013
+http://p2reep.xyz:80/15788250777/74943414147/42013
 #EXTINF:-1 tvg-name="CINE 08" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 08
-http://p2reep.xyz:80/983389092/410226384/48642
+http://p2reep.xyz:80/15788250777/74943414147/48642
 #EXTINF:-1 tvg-name="CINE 09" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 09
-http://p2reep.xyz:80/983389092/410226384/48663
+http://p2reep.xyz:80/15788250777/74943414147/48663
 #EXTINF:-1 tvg-name="CINE 10" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CANAIS",CINE 10
-http://p2reep.xyz:80/983389092/410226384/48665
+http://p2reep.xyz:80/15788250777/74943414147/48665
 #EXTINF:-1 tvg-name="CINE COMEDIA 1" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 1
-http://p2reep.xyz:80/983389092/410226384/87944
+http://p2reep.xyz:80/15788250777/74943414147/87944
 #EXTINF:-1 tvg-name="CINE COMEDIA 2" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 2
-http://p2reep.xyz:80/983389092/410226384/87945
+http://p2reep.xyz:80/15788250777/74943414147/87945
 #EXTINF:-1 tvg-name="CINE COMEDIA 3" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 3
-http://p2reep.xyz:80/983389092/410226384/87946
+http://p2reep.xyz:80/15788250777/74943414147/87946
 #EXTINF:-1 tvg-name="CINE COMEDIA 4" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 4
-http://p2reep.xyz:80/983389092/410226384/87947
+http://p2reep.xyz:80/15788250777/74943414147/87947
 #EXTINF:-1 tvg-name="CINE COMEDIA 5" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 5
-http://p2reep.xyz:80/983389092/410226384/87948
+http://p2reep.xyz:80/15788250777/74943414147/87948
 #EXTINF:-1 tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 6
-http://p2reep.xyz:80/983389092/410226384/87949
+http://p2reep.xyz:80/15788250777/74943414147/87949
 #EXTINF:-1 tvg-name="CINE COMEDIA 7" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 7
-http://p2reep.xyz:80/983389092/410226384/288953
+http://p2reep.xyz:80/15788250777/74943414147/288953
 #EXTINF:-1 tvg-name="CINE COMEDIA 8" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 8
-http://p2reep.xyz:80/983389092/410226384/288954
+http://p2reep.xyz:80/15788250777/74943414147/288954
 #EXTINF:-1 tvg-name="CINE COMEDIA 9" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 9
-http://p2reep.xyz:80/983389092/410226384/288955
+http://p2reep.xyz:80/15788250777/74943414147/288955
 #EXTINF:-1 tvg-name="CINE COMEDIA 10" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS",CINE COMEDIA 10
-http://p2reep.xyz:80/983389092/410226384/288956
+http://p2reep.xyz:80/15788250777/74943414147/288956
 #EXTINF:-1 tvg-name="CINE TERROR" tvg-logo="https://3.bp.blogspot.com/-_kiK6-7GrGg/Xt0w2-0sz-I/AAAAAAAAGMw/nhYDku1wjC8ntnnNghaXYSD3SCVwIUq9wCK4BGAYYCw/s1600/cine%2Bterror.png" group-title="CANAIS",CINE TERROR
-http://p2reep.xyz:80/983389092/410226384/29633
+http://p2reep.xyz:80/15788250777/74943414147/29633
 #EXTINF:-1 tvg-name="CINE TERROR 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFTVbvieMMQOxGJwCQwqeCt2ayeiKnFEfcZ5mFURNGMPbFwWkWEsVaygdA5R8MNGt764JLLCn91_7WCRxU1gkbadqt5Uh_znwsnri6cGSxBi_vmSExh0aLror2Ke09FhZQlH65SG-21rIsHll7N1k8KtHnVzr3rBGPNpLkH-h6vyUhejQW4kdDKD0w" group-title="CANAIS",CINE TERROR 2
-http://p2reep.xyz:80/983389092/410226384/208943
+http://p2reep.xyz:80/15788250777/74943414147/208943
 #EXTINF:-1 tvg-name="tv cine top" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgQqQnhzL-JKs9oAvDsmZzZ8MBsYGN7GjbJ-aQNqMpcLW9wZMVO69FSLCMQ-8vmxXTGQs5f8QG6hNgpTHYgfYXR3NJTENkoZgjU-z1cSmto7HcvKlVlrEzEESX1yVMeRd3OsYFJgFSpi4yYm4v8ZbSWYSnk8CdbrPSaPMwKc32mAU3f6PnKxlHmO9GFXHM" group-title="CANAIS",tv cine top
-http://p2reep.xyz:80/983389092/410226384/294392
+http://p2reep.xyz:80/15788250777/74943414147/294392
 #EXTINF:-1 tvg-name="DC Universe Animated" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpRE5FwYxo_jKv4rqF7Hf9TSYVWjtt7o5s_dG3asQ1tMdP52uyXF94JmAZHeTVtRMm1cWQWH7FhhAJF8Y0aEXqKkF--x0v-Pwy-VLU0okGdhSSPyBAuzZPp-SlB_bnK7Dlks5LiwjeKJSHc8NltrcMSTrHzc404IppKm4sp9i63ok6a3wT7z_UczAiXuU" group-title="CANAIS",DC Universe Animated
-http://p2reep.xyz:80/983389092/410226384/309438
+http://p2reep.xyz:80/15788250777/74943414147/309438
 #EXTINF:-1 tvg-name="Jornada nas Estrelas" tvg-logo="https://lh3.googleusercontent.com/-O50JefRxGKM/X_muGhBOG0I/AAAAAAAAIws/KtYeptOBwt0t66l4AAe129Wf_q28KPBNACLcBGAsYHQ/jornada%2Bnas%2Bestrelas.png" group-title="CANAIS",Jornada nas Estrelas
-http://p2reep.xyz:80/983389092/410226384/62390
+http://p2reep.xyz:80/15788250777/74943414147/62390
 #EXTINF:0 tvg-id="ext" group-title="CANAIS",STAR TREK
-http://p2reep.xyz:80/983389092/410226384/266178
+http://p2reep.xyz:80/15788250777/74943414147/266178
 #EXTINF:-1 tvg-name="Supergirl" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgMfzPTewpSHkN62wzNk4Cy8Pmd9PNOAZua14oziX1tnpi6JIx8-_ukNwUwS4FGELuOD0kLRZsXHTLMR3E7pkMz-3MHBHVS3qH7rjc2b1xi_576HipBv2cm5BWOqOdFk_j9ywbFYZh2kCeuelo9kuIdHtYuTPh8fzTD_I_Tyb61zKoBzs5ZBSRJA0Zc" group-title="CANAIS",Supergirl
-http://p2reep.xyz:80/983389092/410226384/173202
+http://p2reep.xyz:80/15788250777/74943414147/173202
 #EXTINF:-1 tvg-name="Supernatural" tvg-logo="https://lh3.googleusercontent.com/-sQmOrayvRsE/X7hiFz6cyZI/AAAAAAAAHPU/x8COD_loeLQJkamvmdW288MXozlPwy6DgCLcBGAsYHQ/sobrenatural.png" group-title="CANAIS",Supernatural
-http://p2reep.xyz:80/983389092/410226384/53966
+http://p2reep.xyz:80/15788250777/74943414147/53966
 #EXTINF:-1 tvg-name="The Flash" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFE2mltKmfelX0n0GStMAE0xPN3SIudqsQYOUsFKeJajrHMJF1uV1F4C2lChOiBHIkOaadDPfg-tnMwbs0SyAC_z_DtJ9gWPTHYuIyosaXQBP5SdUQOwInI7Yun-mc7bL10Mj7QawtaIF7BS0bRtSYD29lWDlZOMiCc3PDZaClXgx-Q0_2I0fqrNQm" group-title="CANAIS",The Flash
-http://p2reep.xyz:80/983389092/410226384/173192
+http://p2reep.xyz:80/15788250777/74943414147/173192
 #EXTINF:-1 tvg-name="The Mandalorian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiXQgqIQ-vY0s86p6pIQb6y3xUMJOrvGMXxM5Nch7tiLrioDN4pms0JtOmQHDiiXfJVdV9PFUhfprBBumYEZxhElv6vxXTKeYlInglxzKiiulmKjcRLjUDY4gg4gieEQgRkTiscohapXnMxkx-HvzEclFiZj85Bwx52J4riEOTP5KGExtIr5c88WYQH" group-title="CANAIS",The Mandalorian
-http://p2reep.xyz:80/983389092/410226384/173203
+http://p2reep.xyz:80/15788250777/74943414147/173203
 #EXTINF:-1 tvg-name="The Walking Dead" tvg-logo="https://lh3.googleusercontent.com/-dvskGmVJ43w/X5Hsu0jQy5I/AAAAAAAAHM4/IbvMIpm1fgcbnu5dVPe7CjpSFP8rEPsOgCLcBGAsYHQ/the%2Bwalking%2Bdead.png" group-title="CANAIS",The Walking Dead
-http://p2reep.xyz:80/983389092/410226384/53952
+http://p2reep.xyz:80/15788250777/74943414147/53952
 #EXTINF:-1 tvg-name="Arnold Schwarzenegger" tvg-logo="https://lh3.googleusercontent.com/-dGXAfz3Tsvk/YRutLCPz37I/AAAAAAAAKcs/TC2D778ET-cbZXlLA-9oyjEuel7wWh96gCLcBGAsYHQ/arnold%2Bschwarzenegger.png" group-title="CANAIS",Arnold Schwarzenegger
-http://p2reep.xyz:80/983389092/410226384/116507
+http://p2reep.xyz:80/15788250777/74943414147/116507
 #EXTINF:-1 tvg-name="Guerra" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFQsDHDukUqIzFnVwh4AiZn6Tz8BzeZ1NLzJnaDaq7Sv8EUSQNMU6l4Eahlz3lSS8y4yAgHseDhZ0G1RqaSd8j9ziuB4eXrirtJv71P8IZxHi51zv1mYlvssM_XQy7Z16gKMegvnbnVu2rrFbrhVlfGnb5HM27K67QaI8vbZ-5kktcvnvljdWkr3WU" group-title="CANAIS",Guerra
-http://p2reep.xyz:80/983389092/410226384/219090
+http://p2reep.xyz:80/15788250777/74943414147/219090
 #EXTINF:-1 tvg-name="Halloween" tvg-logo="https://lh3.googleusercontent.com/-jmhJMS-5aTM/X5ydGyL3yCI/AAAAAAAAHN4/nbS0PbeaUHALHFNmUInY0qmZ4OZ5bCtpwCLcBGAsYHQ/hxvg3l7r.png" group-title="CANAIS",Halloween
-http://p2reep.xyz:80/983389092/410226384/53946
+http://p2reep.xyz:80/15788250777/74943414147/53946
 #EXTINF:-1 tvg-name="Jason Statham" tvg-logo="https://lh3.googleusercontent.com/-oPvvq0OJanQ/X8l1VRh2hBI/AAAAAAAAHSU/b6gnnVUdYIQ0PwhKt6Qd8oa0R5AFCxnngCLcBGAsYHQ/Jason%2BStatham.png" group-title="CANAIS",Jason Statham
-http://p2reep.xyz:80/983389092/410226384/55240
+http://p2reep.xyz:80/15788250777/74943414147/55240
 #EXTINF:-1 tvg-name="JIM CARREY" tvg-logo="https://lh3.googleusercontent.com/-m7RtTy_LVMg/YPcHpGVNJTI/AAAAAAAAKaI/lp1pVrPISKMBALZq4JsCeDZnHZfACIBFwCLcBGAsYHQ/jim%2Bcerry.png" group-title="CANAIS",JIM CARREY
-http://p2reep.xyz:80/983389092/410226384/113255
+http://p2reep.xyz:80/15788250777/74943414147/113255
 #EXTINF:-1 tvg-name="Sexta Feira 13" tvg-logo="https://lh3.googleusercontent.com/-IJ5gLBtXHjE/X8vWJSBbs3I/AAAAAAAAHTQ/emPVpBMmzsMvwzq3a-8dee2Hr_K6-qGMwCLcBGAsYHQ/Sexta-Feira%2B13.png" group-title="CANAIS",Sexta Feira 13
-http://p2reep.xyz:80/983389092/410226384/55563
+http://p2reep.xyz:80/15788250777/74943414147/55563
 #EXTINF:-1 tvg-name=" OS PINGUINS DE MADAGASCAR" tvg-logo="https://lh3.googleusercontent.com/-AIx_KeDLkUA/YHckRR6R2II/AAAAAAAAKPo/A2Jd4dpLT8gkRN4q7VPCuMyYJeYcuCL3QCLcBGAsYHQ/Os%2BPinguins%2Bde%2BMadagascar.png" group-title="CANAIS", OS PINGUINS DE MADAGASCAR
-http://p2reep.xyz:80/983389092/410226384/89377
+http://p2reep.xyz:80/15788250777/74943414147/89377
 #EXTINF:-1 tvg-name="Justice League Action" tvg-logo="https://lh3.googleusercontent.com/-Uh7f2mQUb4M/YUsk3uUfNFI/AAAAAAAAKl0/ZfHHrZwBdvoMeQYTo_p_GgQBJddqSabPACLcBGAsYHQ/Justice%2BLeague%2BAction.png" group-title="CANAIS",Justice League Action
-http://p2reep.xyz:80/983389092/410226384/124220
+http://p2reep.xyz:80/15788250777/74943414147/124220
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CANAIS",LIGA DA JUSTIÇA 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox1-2uxQV1rfPD/t68364incX/701
 #EXTINF:-1 tvg-name="Liga da Justiça" tvg-logo="https://i.pinimg.com/originals/0f/54/78/0f5478645982b355d7ad56729a6bd8ab.png" group-title="CANAIS",Liga da Justiça
 http://vdk10.life:80/358823736/188451202/10809
 #EXTINF:-1 tvg-name="Justiça Jovem" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj_2shhnzfjONCAFf8OXGFHBCFpdmlBalS92zMfMToF_ezv1zQAj6WdqgfLQh1DOKMb6Vt3du1usQgWfMuHZX_ILRO36gDxNZgqUb_IqWS8yUnHgWqz40EuNSqA6LDD1avucjOxxUB1dvNMLkTEPuW6wYB8rrJaAl5WBVbeQ_t0zVcr69yC4dE82lHK" group-title="CANAIS",Justiça Jovem
-http://p2reep.xyz:80/983389092/410226384/173195
+http://p2reep.xyz:80/15788250777/74943414147/173195
 #EXTINF:-1 tvg-name="Galaxy Trio" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhTwZzZ4IWHsHGOSwwZ35D7XzkMRnwMlQUQJveLZImEnrxxTO8l0v8Z3QThTgPI6o6L4BgDp3zBOBlkvjLfEHgkVN3YYqSpUKUQx0GpfwwMBqetZRL-R7zHLzOlybagYHlIdW2-IUkd01BqCrHDj6M9KS8pPiHdmhl7WJwUZs78aEm6IIrzLHrZoh3" group-title="CANAIS",Galaxy Trio
 http://vdk10.life:80/358823736/188451202/247052
 #EXTINF:-1 tvg-name="Corrida Maluca" tvg-logo="https://3.bp.blogspot.com/-SKsiaXKBgRE/XtbyPRuFsXI/AAAAAAAAGBU/PJXXQ_CtQMQpbzLSxAV_ij_dIzx7hDolACK4BGAYYCw/s1600/Corrida%2BMaluca.png" group-title="CANAIS",Corrida Maluca
-http://p2reep.xyz:80/983389092/410226384/28754
+http://p2reep.xyz:80/15788250777/74943414147/28754
 #EXTINF:-1 tvg-name="Os Herculóides" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhh6aY9tD-gAMJUBPkNYutYMwtH_t5BgHDqFW8nuVKXoNGfUWYuNMIboLmlgZaXv--AjMR_Uk_bLRc-06L91jeJTT25qqrfOnWp7Iw29TArKVxubCk0lY-4vDWhkPKseQjojeK4G7J0XkZWTKMyEQi84RO0uL22ev3arC_xtbUVzfqIyEkXBN6A6NBH" group-title="CANAIS",Os Herculóides
-http://p2reep.xyz:80/983389092/410226384/171994
+http://p2reep.xyz:80/15788250777/74943414147/171994
 #EXTINF:-1 tvg-name="Space Ghost" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh72DTzxuOhZaf6KNE6hxl_d3G2umESCvXiOltrn7-lwSF89bUlyAjpaIdgIWRfBOQiWoaA6ij5hA72NPNFQ9Z4shNSNl2IXXpsRwQ8Po2GLeJar2BYdXS24t6YMN8UCGG5hyAOCgoiYbRD6pkWVpVsPtG5Ts3Rw6wxauS_PsOaen-G2BSqeGXbOwHL" group-title="CANAIS",Space Ghost
-http://p2reep.xyz:80/983389092/410226384/235237
+http://p2reep.xyz:80/15788250777/74943414147/235237
 #EXTINF:-1 tvg-name="vingadores" tvg-logo="https://3.bp.blogspot.com/-UGiQyfGKU4c/XuYlBY6hQnI/AAAAAAAAGRE/PEjTpA88Uos7HIUC0gMvnht11mDRm3XEgCK4BGAYYCw/s1600/os%2Bvingadores.png" group-title="CANAIS",vingadores
-http://p2reep.xyz:80/983389092/410226384/30011
+http://p2reep.xyz:80/15788250777/74943414147/30011
 #EXTINF:-1 tvg-name="a praça e nossa" tvg-logo="https://3.bp.blogspot.com/-zkHRobPK-Cg/Xuzx3N1o23I/AAAAAAAAGas/3eN4EfUNaOgpsoO56lH7mESrQDpYpzwcQCK4BGAYYCw/s1600/a%2Bpra%25C3%25A7a%2Be%2Bnossa.png" group-title="CANAIS",a praça e nossa
-http://p2reep.xyz:80/983389092/410226384/16749
+http://p2reep.xyz:80/15788250777/74943414147/16749
 #EXTINF:-1 tvg-name="Casseta & Planeta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5mgLX66msq6dxIKGAoGR9M56DMNLONx9TFI1cNhB1lIiT7HI3TntnI41llBTtLm8dxn1mxc8moga12dlthKx6MG4M891z3xG8Kc5LzUrRr4FfgPWe4eaYdi-quvYn7Da-bXE2C6Pu4DJH8km-CE8IBjsyVjG3zk7yLwY8H_FFuPnz91RPDn6Zw36M" group-title="CANAIS",Casseta & Planeta
-http://p2reep.xyz:80/983389092/410226384/166908
+http://p2reep.xyz:80/15788250777/74943414147/166908
 #EXTINF:-1 tvg-name="Escolinha do Professo Raimundo" tvg-logo="https://2.bp.blogspot.com/-SZJiXIs-bPw/XoDjEgcZ1YI/AAAAAAAACd4/gdAyIliBslAeixnchAwU00ss6XQPpv8-ACK4BGAYYCw/s320/gtpie6ak.png" group-title="CANAIS",Escolinha do Professo Raimundo
-http://p2reep.xyz:80/983389092/410226384/16946
+http://p2reep.xyz:80/15788250777/74943414147/16946
 #EXTINF:-1 tvg-name="Mr. Bean" tvg-logo="https://1.bp.blogspot.com/-LuEfZYWDJAM/XopBhRxTVtI/AAAAAAAAClY/nwA81W5-I3wO1S2hVN2pbnvWTmMWewQsgCK4BGAYYCw/s320/jex963ft.png" group-title="CANAIS",Mr. Bean
-http://p2reep.xyz:80/983389092/410226384/17711
+http://p2reep.xyz:80/15788250777/74943414147/17711
 #EXTINF:-1 tvg-name="Os 3 Patetas" tvg-logo="https://1.bp.blogspot.com/-9rOs2a6kwzU/Xw8Fr_lMHvI/AAAAAAAAGng/vWfK3F-abksjThy3J2HhQSaZ9BBKV54gQCK4BGAYYCw/s1600/3%2Bpatetas.png" group-title="CANAIS",Os 3 Patetas
-http://p2reep.xyz:80/983389092/410226384/35159
+http://p2reep.xyz:80/15788250777/74943414147/35159
 #EXTINF:-1 tvg-name="Flashback 70 80 90" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEip8lSOaq7W19VaY2JxulCcFuJLoPv_ZONApf86e34s9vyRSVdxF6c6pXvoE9uDx9QcGkx78m3dIFodTu_wId2vMGqY1INr7KESnSEO4n8RIAm-QcIQAmXoqWDZrcqPPCjUh0jGOuymAT4EKNtgXnBYA-cXEvP4gVXPwWQymTNm-oE5qrLG3ZsSdjSJZr4" group-title="CANAIS",Flashback 70 80 90
-http://p2reep.xyz:80/983389092/410226384/289067
+http://p2reep.xyz:80/15788250777/74943414147/289067
 #EXTINF:-1 tvg-name="Show rock 1" tvg-logo="https://lh3.googleusercontent.com/-CvXAp2LwsRE/X_dyX2c894I/AAAAAAAAIuE/qN-YQX_EZewgrOzoz3GtJisYIHJjeqpvgCLcBGAsYHQ/Rock%2BShow.png" group-title="CANAIS",Show rock 1
-http://p2reep.xyz:80/983389092/410226384/62356
+http://p2reep.xyz:80/15788250777/74943414147/62356
 #EXTINF:-1 tvg-name="Show rock 2" tvg-logo="https://lh3.googleusercontent.com/-CvXAp2LwsRE/X_dyX2c894I/AAAAAAAAIuE/qN-YQX_EZewgrOzoz3GtJisYIHJjeqpvgCLcBGAsYHQ/Rock%2BShow.png" group-title="CANAIS",Show rock 2
-http://p2reep.xyz:80/983389092/410226384/62357
+http://p2reep.xyz:80/15788250777/74943414147/62357
 #EXTINF:-1 tvg-name="NOW 70's" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjBPX4rg-7HOEJMzJSbZseOw6TlTBEIbYWQZsdBYIzYyDKT_MlJCmlGd6zQNhtagKis_5Qt0-3-xwxpppMWVhZU5696qJxPBw77H6UGGJOlE4JAcuQqtnANkxcUUXSEt00RrLKhqY1APid1asNWFy1zPNKpB6diitA4gR79eVcBqlgrVMcRoDMBYPuOXIM" group-title="CANAIS",NOW 70's
-http://p2reep.xyz:80/983389092/410226384/313173
+http://p2reep.xyz:80/15788250777/74943414147/313173
 #EXTINF:-1 tvg-name="NOW 80's" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEggPR3FDMXIanHD8ukH3Dgn7KYtV1CJMSCnFp4ue1iz6gRRTgJR3k36aiefUaUGDo3ogD3ccO91bOavltN1RFMo2UnljZync5Sva27eKXB-AMsnfd6TyCezq438vTLRVkM-QuDyZls8f1f7crqRxwi2o2b45wf3EutmwuNIiH8MTyQeG41NF8pUIOr2ocA" group-title="CANAIS",NOW 80's
-http://p2reep.xyz:80/983389092/410226384/315009
+http://p2reep.xyz:80/15788250777/74943414147/315009
 #EXTINF:-1,SPACE 4K
-http://p2reep.xyz:80/983389092/410226384/88433
+http://p2reep.xyz:80/15788250777/74943414147/88433
 #EXTINF:-1,SPACE FHD
-http://p2reep.xyz:80/983389092/410226384/71099
+http://p2reep.xyz:80/15788250777/74943414147/71099
 #EXTINF:-1,Space Ghost
-http://p2reep.xyz:80/983389092/410226384/235237
+http://p2reep.xyz:80/15788250777/74943414147/235237
 #EXTINF:-1,SPACE H265
-http://p2reep.xyz:80/983389092/410226384/88446
+http://p2reep.xyz:80/15788250777/74943414147/88446
 #EXTINF:-1,SPACE HD
-http://p2reep.xyz:80/983389092/410226384/71380
+http://p2reep.xyz:80/15788250777/74943414147/71380
 #EXTINF:-1,SPACE SD
-http://p2reep.xyz:80/983389092/410226384/71262
+http://p2reep.xyz:80/15788250777/74943414147/71262
 #EXTINF:-1,ESPN 2 FHD
-http://p2reep.xyz:80/983389092/410226384/71116
+http://p2reep.xyz:80/15788250777/74943414147/71116
 #EXTINF:-1,ESPN 2 H265
-http://p2reep.xyz:80/983389092/410226384/166845
+http://p2reep.xyz:80/15788250777/74943414147/166845
 #EXTINF:-1,ESPN 2 HD
-http://p2reep.xyz:80/983389092/410226384/71335
+http://p2reep.xyz:80/15788250777/74943414147/71335
 #EXTINF:-1,ESPN 3 FHD
-http://p2reep.xyz:80/983389092/410226384/71117
+http://p2reep.xyz:80/15788250777/74943414147/71117
 #EXTINF:-1,ESPN 3 H265
-http://p2reep.xyz:80/983389092/410226384/166795
+http://p2reep.xyz:80/15788250777/74943414147/166795
 #EXTINF:-1,ESPN 3 HD
-http://p2reep.xyz:80/983389092/410226384/71333
+http://p2reep.xyz:80/15788250777/74943414147/71333
 #EXTINF:-1 tvg-name="FURACAO TV 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEghR9VnOI5gEePSa1NVEVZDWQU4fzRMlWDgtPyakiZkaEYBnv9zwhkAcZ22dC_V3XXYQPpyQJGn6433t2ZKoH1EKMR2_ILIxNFa_CbLyd2bT0ewETKuEMx-_M0TRCtO3UmJ3tSvxPPINDDjS2uRRhqXKKRwQYBT2uEF92UBRtRFNWPhtpINyh5BfwxN" group-title="PAY-PER-VIEW",FURACAO TV 1
-http://p2reep.xyz:80/983389092/410226384/173135
+http://p2reep.xyz:80/15788250777/74943414147/173135
 #EXTINF:-1 tvg-name="FURACAO TV 1¹" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEghR9VnOI5gEePSa1NVEVZDWQU4fzRMlWDgtPyakiZkaEYBnv9zwhkAcZ22dC_V3XXYQPpyQJGn6433t2ZKoH1EKMR2_ILIxNFa_CbLyd2bT0ewETKuEMx-_M0TRCtO3UmJ3tSvxPPINDDjS2uRRhqXKKRwQYBT2uEF92UBRtRFNWPhtpINyh5BfwxN" group-title="PAY-PER-VIEW",FURACAO TV 1¹
-http://p2reep.xyz:80/983389092/410226384/173134
+http://p2reep.xyz:80/15788250777/74943414147/173134
 #EXTINF:-1 tvg-name="HBO MAX 1" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="PAY-PER-VIEW",HBO MAX 1
-http://p2reep.xyz:80/983389092/410226384/122065
+http://p2reep.xyz:80/15788250777/74943414147/122065
 #EXTINF:-1 tvg-name="HBO MAX 2" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="PAY-PER-VIEW",HBO MAX 2
-http://p2reep.xyz:80/983389092/410226384/123222
+http://p2reep.xyz:80/15788250777/74943414147/123222
 #EXTINF:-1 tvg-name="HBO MAX 3" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="PAY-PER-VIEW",HBO MAX 3
-http://p2reep.xyz:80/983389092/410226384/123221
+http://p2reep.xyz:80/15788250777/74943414147/123221
 #EXTINF:-1 tvg-name="HBO MAX 4" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="PAY-PER-VIEW",HBO MAX 4
-http://p2reep.xyz:80/983389092/410226384/123223
+http://p2reep.xyz:80/15788250777/74943414147/123223
 #EXTINF:-1 tvg-name="HBO MAX 5" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="PAY-PER-VIEW",HBO MAX 5
-http://p2reep.xyz:80/983389092/410226384/123224
+http://p2reep.xyz:80/15788250777/74943414147/123224
 #EXTINF:-1 tvg-name="HBO MAX 6 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="PAY-PER-VIEW",HBO MAX 6 HD
-http://p2reep.xyz:80/983389092/410226384/136164
+http://p2reep.xyz:80/15788250777/74943414147/136164
 #EXTINF:-1 tvg-name="PRIME VIDEO 01 HD" tvg-logo="https://i.imgur.com/aKZ3Vjf.png" group-title="PAY-PER-VIEW",PRIME VIDEO 01 HD
-http://p2reep.xyz:80/983389092/410226384/168753
+http://p2reep.xyz:80/15788250777/74943414147/168753
 #EXTINF:-1 tvg-name="PRIME VIDEO 02 HD" tvg-logo="https://i.imgur.com/aKZ3Vjf.png" group-title="PAY-PER-VIEW",PRIME VIDEO 02 HD
-http://p2reep.xyz:80/983389092/410226384/168754
+http://p2reep.xyz:80/15788250777/74943414147/168754
 #EXTINF:-1 tvg-name="STAR+ 1" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png" group-title="PAY-PER-VIEW",STAR+ 1
-http://p2reep.xyz:80/983389092/410226384/122062
+http://p2reep.xyz:80/15788250777/74943414147/122062
 #EXTINF:-1 tvg-name="STAR+ 2" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png" group-title="PAY-PER-VIEW",STAR+ 2
-http://p2reep.xyz:80/983389092/410226384/136165
+http://p2reep.xyz:80/15788250777/74943414147/136165
 #EXTINF:-1 tvg-name="STAR+ 3" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png" group-title="PAY-PER-VIEW",STAR+ 3
-http://p2reep.xyz:80/983389092/410226384/136166
+http://p2reep.xyz:80/15788250777/74943414147/136166
 #EXTINF:-1 tvg-name="STAR+ 4" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png" group-title="PAY-PER-VIEW",STAR+ 4
-http://p2reep.xyz:80/983389092/410226384/136167
+http://p2reep.xyz:80/15788250777/74943414147/136167
 #EXTINF:-1 tvg-name="STAR+ 5" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png" group-title="PAY-PER-VIEW",STAR+ 5
-http://p2reep.xyz:80/983389092/410226384/136168
+http://p2reep.xyz:80/15788250777/74943414147/136168
 #EXTINF:-1 tvg-name="STAR+ 6" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png" group-title="PAY-PER-VIEW",STAR+ 6
-http://p2reep.xyz:80/983389092/410226384/136169
+http://p2reep.xyz:80/15788250777/74943414147/136169
 #EXTINF:-1 tvg-name="UEFA CHAMPION LEAGUE HD" tvg-logo="https://i.imgur.com/qvcB0P8.png" group-title="PAY-PER-VIEW",UEFA CHAMPION LEAGUE HD
-http://p2reep.xyz:80/983389092/410226384/167166
+http://p2reep.xyz:80/15788250777/74943414147/167166
 #EXTINF:-1 tvg-name="DAZN 01 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="PAY-PER-VIEW",DAZN 01 HD
-http://p2reep.xyz:80/983389092/410226384/71481
+http://p2reep.xyz:80/15788250777/74943414147/71481
 #EXTINF:-1 tvg-name="DAZN 02 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="PAY-PER-VIEW",DAZN 02 HD
-http://p2reep.xyz:80/983389092/410226384/71482
+http://p2reep.xyz:80/15788250777/74943414147/71482
 #EXTINF:-1 tvg-name="DAZN 03 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="PAY-PER-VIEW",DAZN 03 HD
-http://p2reep.xyz:80/983389092/410226384/71483
+http://p2reep.xyz:80/15788250777/74943414147/71483
 #EXTINF:-1 tvg-name="DAZN 04 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="PAY-PER-VIEW",DAZN 04 HD
-http://p2reep.xyz:80/983389092/410226384/71446
+http://p2reep.xyz:80/15788250777/74943414147/71446
 #EXTINF:-1 tvg-name="RAI INTERNACIONAL HD" tvg-logo="https://lh3.googleusercontent.com/-wYZrFITxkpc/YB6hrV50FKI/AAAAAAAAJ-M/_jA9-rURY-g50o8YnkEiNYxXmWv1KXLQQCLcBGAsYHQ/RAI%2BINTERNACIONAL.png" group-title="PAY-PER-VIEW",RAI INTERNACIONAL HD
-http://p2reep.xyz:80/983389092/410226384/71473
+http://p2reep.xyz:80/15788250777/74943414147/71473
 #EXTINF:-1 tvg-name="ARG: CNN News" group-title="USA/ARGENTINA",ARG: CNN News
-http://p2reep.xyz:80/983389092/410226384/48703
+http://p2reep.xyz:80/15788250777/74943414147/48703
 #EXTINF:-1 tvg-name="ARG: ESPN 2 HD" group-title="USA/ARGENTINA",ARG: ESPN 2 HD
-http://p2reep.xyz:80/983389092/410226384/48772
+http://p2reep.xyz:80/15788250777/74943414147/48772
 #EXTINF:-1 tvg-name="ARG: ESPN 3" group-title="USA/ARGENTINA",ARG: ESPN 3
-http://p2reep.xyz:80/983389092/410226384/48738
+http://p2reep.xyz:80/15788250777/74943414147/48738
 #EXTINF:-1 tvg-name="ARG: ESPN Extra" group-title="USA/ARGENTINA",ARG: ESPN Extra
-http://p2reep.xyz:80/983389092/410226384/48827
+http://p2reep.xyz:80/15788250777/74943414147/48827
 #EXTINF:-1 tvg-name="ARG: ESPN HD" group-title="USA/ARGENTINA",ARG: ESPN HD
-http://p2reep.xyz:80/983389092/410226384/48804
+http://p2reep.xyz:80/15788250777/74943414147/48804
 #EXTINF:-1 tvg-name="ARG: FOX NEWS Channel" group-title="USA/ARGENTINA",ARG: FOX NEWS Channel
-http://p2reep.xyz:80/983389092/410226384/48749
+http://p2reep.xyz:80/15788250777/74943414147/48749
 #EXTINF:-1 tvg-name="ARG: TNT Sports HD" group-title="USA/ARGENTINA",ARG: TNT Sports HD
-http://p2reep.xyz:80/983389092/410226384/48800
+http://p2reep.xyz:80/15788250777/74943414147/48800
 #EXTINF:-1 tvg-name="ARG: TV Pública HD" group-title="USA/ARGENTINA",ARG: TV Pública HD
-http://p2reep.xyz:80/983389092/410226384/48831
+http://p2reep.xyz:80/15788250777/74943414147/48831
 #EXTINF:-1 tvg-name="ARG: TyC Sports FHD" group-title="USA/ARGENTINA",ARG: TyC Sports FHD
-http://p2reep.xyz:80/983389092/410226384/48762
+http://p2reep.xyz:80/15788250777/74943414147/48762
 #EXTINF:-1 tvg-name="FOX SPORTS PREMIUM FHD" group-title="USA/ARGENTINA",FOX SPORTS PREMIUM FHD
-http://p2reep.xyz:80/983389092/410226384/167149
+http://p2reep.xyz:80/15788250777/74943414147/167149
 #EXTINF:-1 tvg-name="NBA HD" group-title="USA/ARGENTINA",NBA HD
-http://p2reep.xyz:80/983389092/410226384/72240
+http://p2reep.xyz:80/15788250777/74943414147/72240
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 01" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 01
-http://p2reep.xyz:80/983389092/410226384/166762
+http://p2reep.xyz:80/15788250777/74943414147/166762
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 02" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 02
-http://p2reep.xyz:80/983389092/410226384/166763
+http://p2reep.xyz:80/15788250777/74943414147/166763
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 03" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 03
-http://p2reep.xyz:80/983389092/410226384/166764
+http://p2reep.xyz:80/15788250777/74943414147/166764
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 04" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 04
-http://p2reep.xyz:80/983389092/410226384/166765
+http://p2reep.xyz:80/15788250777/74943414147/166765
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 05" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 05
-http://p2reep.xyz:80/983389092/410226384/166766
+http://p2reep.xyz:80/15788250777/74943414147/166766
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 06" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 06
-http://p2reep.xyz:80/983389092/410226384/166767
+http://p2reep.xyz:80/15788250777/74943414147/166767
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 07" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 07
-http://p2reep.xyz:80/983389092/410226384/166768
+http://p2reep.xyz:80/15788250777/74943414147/166768
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 08" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 08
-http://p2reep.xyz:80/983389092/410226384/166769
+http://p2reep.xyz:80/15788250777/74943414147/166769
 #EXTINF:-1 tvg-name="NBA | LEAGUE PASS 09" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/05/league_pass.jpg" group-title="USA/ARGENTINA",NBA | LEAGUE PASS 09
-http://p2reep.xyz:80/983389092/410226384/166770
+http://p2reep.xyz:80/15788250777/74943414147/166770
 #EXTINF:-1 tvg-name="TODO NOTICIAS FHD" group-title="USA/ARGENTINA",TODO NOTICIAS FHD
-http://p2reep.xyz:80/983389092/410226384/167150
+http://p2reep.xyz:80/15788250777/74943414147/167150
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://pbs.twimg.com/profile_images/1075159224257261568/p6Ic7gX__400x400.jpg" group-title="PT PORTUGAL",NBA TV
-http://p2reep.xyz:80/983389092/410226384/72239
+http://p2reep.xyz:80/15788250777/74943414147/72239
 #EXTINF:-1 tvg-name="PT: A BOLA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="PT PORTUGAL",PT: A BOLA TV FHD
-http://p2reep.xyz:80/983389092/410226384/23418
+http://p2reep.xyz:80/15788250777/74943414147/23418
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1 FHD" group-title="PT PORTUGAL",PT: ELEVEN SPORTS 1 FHD
-http://p2reep.xyz:80/983389092/410226384/73829
+http://p2reep.xyz:80/15788250777/74943414147/73829
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2 FHD" group-title="PT PORTUGAL",PT: ELEVEN SPORTS 2 FHD
-http://p2reep.xyz:80/983389092/410226384/73830
+http://p2reep.xyz:80/15788250777/74943414147/73830
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3 FHD" group-title="PT PORTUGAL",PT: ELEVEN SPORTS 3 FHD
-http://p2reep.xyz:80/983389092/410226384/73831
+http://p2reep.xyz:80/15788250777/74943414147/73831
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 FHD" group-title="PT PORTUGAL",PT: ELEVEN SPORTS 4 FHD
-http://p2reep.xyz:80/983389092/410226384/73832
+http://p2reep.xyz:80/15788250777/74943414147/73832
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 FHD" group-title="PT PORTUGAL",PT: ELEVEN SPORTS 5 FHD
-http://p2reep.xyz:80/983389092/410226384/73833
+http://p2reep.xyz:80/15788250777/74943414147/73833
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 FHD" group-title="PT PORTUGAL",PT: ELEVEN SPORTS 6 FHD
-http://p2reep.xyz:80/983389092/410226384/73834
+http://p2reep.xyz:80/15788250777/74943414147/73834
 #EXTINF:-1 tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="PT PORTUGAL",PT: EUROSPORT 2 FHD
-http://p2reep.xyz:80/983389092/410226384/33987
+http://p2reep.xyz:80/15788250777/74943414147/33987
 #EXTINF:-1 tvg-name="PT: EUROSPORT HD" tvg-logo="https://img2.gratispng.com/20180628/rgw/kisspng-eurosport-2-logo-television-eurosport-1-bein-sports-1-5b3583a659f9e5.7369616915302337663686.jpg" group-title="PT PORTUGAL",PT: EUROSPORT HD
-http://p2reep.xyz:80/983389092/410226384/33988
+http://p2reep.xyz:80/15788250777/74943414147/33988
 #EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="https://4.bp.blogspot.com/-wvc-EwwkOlQ/Xv5002x0JWI/AAAAAAAAGhg/eNscRZ4W0i4HTYDVbafsWtSn_5WBUOx-wCK4BGAYYCw/s1600/SPORT%2BTV%2B1.png" group-title="PT PORTUGAL",SPORT TV 1 FHD
-http://p2reep.xyz:80/983389092/410226384/32616
+http://p2reep.xyz:80/15788250777/74943414147/32616
 #EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="https://4.bp.blogspot.com/-wvc-EwwkOlQ/Xv5002x0JWI/AAAAAAAAGhg/eNscRZ4W0i4HTYDVbafsWtSn_5WBUOx-wCK4BGAYYCw/s1600/SPORT%2BTV%2B1.png" group-title="PT PORTUGAL",SPORT TV 1 FHD
-http://p2reep.xyz:80/983389092/410226384/39984
+http://p2reep.xyz:80/15788250777/74943414147/39984
 #EXTINF:-1 tvg-name="SPORT TV 2 FHD" tvg-logo="https://2.bp.blogspot.com/-8MDD_LlrW8Q/Xv500096YuI/AAAAAAAAGhs/iiOwdOxdL68XkJNIJd5MhQDnHAv4NmQEwCK4BGAYYCw/s1600/SPORT%2BTV%2B2.png" group-title="PT PORTUGAL",SPORT TV 2 FHD
-http://p2reep.xyz:80/983389092/410226384/39986
+http://p2reep.xyz:80/15788250777/74943414147/39986
 #EXTINF:-1 tvg-id="Example" tvg-name="SPORT TV 3 FHD" tvg-logo="https://3.bp.blogspot.com/-Np9DoMo-5uE/Xv500wVbVwI/AAAAAAAAGhk/glZXLX-6m6cRHtSQ9bfoAblwO7LXzoQSQCK4BGAYYCw/s1600/SPORT%2BTV%2B3.png" group-title="PT PORTUGAL",SPORT TV 3 FHD
-http://p2reep.xyz:80/983389092/410226384/32618
+http://p2reep.xyz:80/15788250777/74943414147/32618
 #EXTINF:-1 tvg-name="SPORT TV 4 FHD" tvg-logo="https://1.bp.blogspot.com/-r4Wvts4p2Ok/Xv500wFVd5I/AAAAAAAAGho/KRsSYSPJjqIW6BSJ_W3um9PoiPP5jKvJACK4BGAYYCw/s1600/SPORT%2BTV%2B4.png" group-title="PT PORTUGAL",SPORT TV 4 FHD
-http://p2reep.xyz:80/983389092/410226384/39990
+http://p2reep.xyz:80/15788250777/74943414147/39990
 #EXTINF:-1 tvg-name="SPORT TV 4 HD" tvg-logo="https://1.bp.blogspot.com/-r4Wvts4p2Ok/Xv500wFVd5I/AAAAAAAAGho/KRsSYSPJjqIW6BSJ_W3um9PoiPP5jKvJACK4BGAYYCw/s1600/SPORT%2BTV%2B4.png" group-title="PT PORTUGAL",SPORT TV 4 HD
-http://p2reep.xyz:80/983389092/410226384/39991
+http://p2reep.xyz:80/15788250777/74943414147/39991
 #EXTINF:-1 tvg-name="SPORT TV 5 HD" tvg-logo="https://1.bp.blogspot.com/-Go9iV0iEIU4/Xv5006XVhuI/AAAAAAAAGhw/WFvJ0dY80Bo_3dlh3yYAvtHbi9_Af6INQCK4BGAYYCw/s1600/SPORT%2BTV%2B5.png" group-title="PT PORTUGAL",SPORT TV 5 HD
-http://p2reep.xyz:80/983389092/410226384/39993
+http://p2reep.xyz:80/15788250777/74943414147/39993
 #EXTINF:-1 tvg-name="UY: VTV FHD" group-title="PT PORTUGAL",UY: VTV FHD
-http://p2reep.xyz:80/983389092/410226384/86081
+http://p2reep.xyz:80/15788250777/74943414147/86081
 #EXTINF:-1 tvg-name="CONMEBOL 1" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL TV",CONMEBOL 1
-http://p2reep.xyz:80/983389092/410226384/71127
+http://p2reep.xyz:80/15788250777/74943414147/71127
 #EXTINF:-1 tvg-name="CONMEBOL 1¹" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL TV",CONMEBOL 1¹
-http://p2reep.xyz:80/983389092/410226384/71157
+http://p2reep.xyz:80/15788250777/74943414147/71157
 #EXTINF:-1 tvg-name="CONMEBOL 2" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL TV",CONMEBOL 2
-http://p2reep.xyz:80/983389092/410226384/71128
+http://p2reep.xyz:80/15788250777/74943414147/71128
 #EXTINF:-1 tvg-name="CONMEBOL 3" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL TV",CONMEBOL 3
-http://p2reep.xyz:80/983389092/410226384/71129
+http://p2reep.xyz:80/15788250777/74943414147/71129
 #EXTINF:-1 tvg-name="CONMEBOL 4" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL TV",CONMEBOL 4
-http://p2reep.xyz:80/983389092/410226384/71123
-#EXTINF:-1 tvg-name="24H BISEXUAL" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H BISEXUAL
-http://p2reep.xyz:80/983389092/410226384/2294
-#EXTINF:-1 tvg-name="24H REDTRAFFIC TV GANGBANG" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H REDTRAFFIC TV GANGBANG
-http://p2reep.xyz:80/983389092/410226384/2292
-#EXTINF:-1 tvg-name="As Brasileirinhas 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",As Brasileirinhas 1
-http://p2reep.xyz:80/983389092/410226384/44882
-#EXTINF:-1 tvg-name="As Brasileirinhas 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",As Brasileirinhas 2
-http://p2reep.xyz:80/983389092/410226384/44883
-#EXTINF:-1 tvg-name="As Brasileirinhas 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",As Brasileirinhas 3
-http://p2reep.xyz:80/983389092/410226384/44884
-#EXTINF:-1 tvg-name="As Brasileirinhas 4" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",As Brasileirinhas 4
-http://p2reep.xyz:80/983389092/410226384/44885
-#EXTINF:-1 tvg-name="As Brasileirinhas 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",As Brasileirinhas 5
-http://p2reep.xyz:80/983389092/410226384/44886
-#EXTINF:-1 tvg-name="BRASILEIRINHAS CAM 1" tvg-logo="https://64.media.tumblr.com/d90bad3f67f670bdbbbf04591e56430c/tumblr_o4tlhbNSJV1swfrk6o1_250.gifv" group-title="Z18+  ADULTOS",BRASILEIRINHAS CAM 1
-http://p2reep.xyz:80/983389092/410226384/113261
-#EXTINF:-1 tvg-name="Brasileirinhas kid" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",Brasileirinhas kid
-http://p2reep.xyz:80/983389092/410226384/143036
-#EXTINF:-1 tvg-name="CINE PRIVE 1" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 1
-http://p2reep.xyz:80/983389092/410226384/43365
-#EXTINF:-1 tvg-name="CINE PRIVE 2" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1006/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 2
-http://p2reep.xyz:80/983389092/410226384/43366
-#EXTINF:-1 tvg-name="CINE PRIVE 3" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1006/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 3
-http://p2reep.xyz:80/983389092/410226384/43367
-#EXTINF:-1 tvg-name="CINE PRIVE 4" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 4
-http://p2reep.xyz:80/983389092/410226384/143037
-#EXTINF:-1 tvg-name="CINE PRIVE 5" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 5
-http://p2reep.xyz:80/983389092/410226384/143038
-#EXTINF:-1 tvg-name="CINE PRIVE 6" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 6
-http://p2reep.xyz:80/983389092/410226384/143039
-#EXTINF:-1 tvg-name="CINE PRIVE 7" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 7
-http://p2reep.xyz:80/983389092/410226384/143040
-#EXTINF:-1 tvg-name="CINE PRIVE 8" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 8
-http://p2reep.xyz:80/983389092/410226384/143041
-#EXTINF:-1 tvg-name="CINE PRIVE 9" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",CINE PRIVE 9
-http://p2reep.xyz:80/983389092/410226384/143042
-#EXTINF:-1 tvg-name="PLAYBOY TV" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",PLAYBOY TV
-http://p2reep.xyz:80/983389092/410226384/71238
-#EXTINF:-1 tvg-name="SEX HOT HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",SEX HOT HD
-http://p2reep.xyz:80/983389092/410226384/71462
-#EXTINF:-1 tvg-name="SEX PRIVE HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",SEX PRIVE HD
-http://p2reep.xyz:80/983389092/410226384/71463
-#EXTINF:-1 tvg-name="SEXTREME HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",SEXTREME HD
-http://p2reep.xyz:80/983389092/410226384/166879
-#EXTINF:-1 tvg-name="VENUS HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",VENUS HD
-http://p2reep.xyz:80/983389092/410226384/166858
-#EXTINF:-1 tvg-name="XXX - VENUS HD " tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX - VENUS HD 
-http://p2reep.xyz:80/983389092/410226384/2293
-#EXTINF:-1 tvg-name="XXX Adulte FULL 11 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX Adulte FULL 11 HD
-http://p2reep.xyz:80/983389092/410226384/32646
-#EXTINF:-1 tvg-name="XXX Adulte FULL 3 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX Adulte FULL 3 HD
-http://p2reep.xyz:80/983389092/410226384/32639
-#EXTINF:-1 tvg-name="XXX Adulte FULL 4 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX Adulte FULL 4 HD
-http://p2reep.xyz:80/983389092/410226384/32640
-#EXTINF:-1 tvg-name="XXX ADULTO 1" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 1
-http://p2reep.xyz:80/983389092/410226384/71442
-#EXTINF:-1 tvg-name="XXX ADULTO 10" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 10
-http://p2reep.xyz:80/983389092/410226384/71436
-#EXTINF:-1 tvg-name="XXX ADULTO 2" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 2
-http://p2reep.xyz:80/983389092/410226384/71445
-#EXTINF:-1 tvg-name="XXX ADULTO 3" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 3
-http://p2reep.xyz:80/983389092/410226384/71444
-#EXTINF:-1 tvg-name="XXX ADULTO 4" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 4
-http://p2reep.xyz:80/983389092/410226384/71443
-#EXTINF:-1 tvg-name="XXX ADULTO 5" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 5
-http://p2reep.xyz:80/983389092/410226384/71441
-#EXTINF:-1 tvg-name="XXX ADULTO 6" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 6
-http://p2reep.xyz:80/983389092/410226384/71440
-#EXTINF:-1 tvg-name="XXX ADULTO 7" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 7
-http://p2reep.xyz:80/983389092/410226384/71439
-#EXTINF:-1 tvg-name="XXX ADULTO 9" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX ADULTO 9
-http://p2reep.xyz:80/983389092/410226384/71437
-#EXTINF:-1 tvg-name="XXX Black of Blondes 7 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX Black of Blondes 7 FHD
-http://p2reep.xyz:80/983389092/410226384/32628
-#EXTINF:-1 tvg-name="XXX Black of Blondes 8 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX Black of Blondes 8 FHD
-http://p2reep.xyz:80/983389092/410226384/32629
-#EXTINF:-1 tvg-name="XXX BRAZZERS EUROPE" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX BRAZZERS EUROPE
-http://p2reep.xyz:80/983389092/410226384/71403
-#EXTINF:-1 tvg-name="XXX CENTOXCENTO" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX CENTOXCENTO
-http://p2reep.xyz:80/983389092/410226384/71404
-#EXTINF:-1 tvg-name="XXX DORCEL TV" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX DORCEL TV
-http://p2reep.xyz:80/983389092/410226384/71405
-#EXTINF:-1 tvg-name="XXX PASSION" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX PASSION
-http://p2reep.xyz:80/983389092/410226384/71406
-#EXTINF:-1 tvg-name="XXX PENTHOUSE QUICKIES" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX PENTHOUSE QUICKIES
-http://p2reep.xyz:80/983389092/410226384/71407
-#EXTINF:-1 tvg-name="XXX PINK O" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX PINK O
-http://p2reep.xyz:80/983389092/410226384/71408
-#EXTINF:-1 tvg-name="XXX PLAYBOY HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX PLAYBOY HD
-http://p2reep.xyz:80/983389092/410226384/71409
-#EXTINF:-1 tvg-name="XXX PRIVATE HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX PRIVATE HD
-http://p2reep.xyz:80/983389092/410226384/71410
-#EXTINF:-1 tvg-name="XXX REDLIGHT" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX REDLIGHT
-http://p2reep.xyz:80/983389092/410226384/71411
-#EXTINF:-1 tvg-name="XXX RUSNOCH" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX RUSNOCH
-http://p2reep.xyz:80/983389092/410226384/71412
-#EXTINF:-1 tvg-name="XXX SCT" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX SCT
-http://p2reep.xyz:80/983389092/410226384/71413
-#EXTINF:-1 tvg-name="XXX SEXT6SENSO" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX SEXT6SENSO
-http://p2reep.xyz:80/983389092/410226384/71414
-#EXTINF:-1 tvg-name="XXX VENUS" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX VENUS
-http://p2reep.xyz:80/983389092/410226384/71416
-#EXTINF:-1 tvg-name="XXX VIVID RED" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX VIVID RED
-http://p2reep.xyz:80/983389092/410226384/71417
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 1 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 1 HD
-http://p2reep.xyz:80/983389092/410226384/32637
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 10 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 10 HD
-http://p2reep.xyz:80/983389092/410226384/32645
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 12 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 12 HD
-http://p2reep.xyz:80/983389092/410226384/32647
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 13 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 13 HD
-http://p2reep.xyz:80/983389092/410226384/32648
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 14 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 14 HD
-http://p2reep.xyz:80/983389092/410226384/32649
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 15 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 15 HD
-http://p2reep.xyz:80/983389092/410226384/32650
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 16 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 16 HD
-http://p2reep.xyz:80/983389092/410226384/32651
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 17 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 17 HD
-http://p2reep.xyz:80/983389092/410226384/32652
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 2 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 2 HD
-http://p2reep.xyz:80/983389092/410226384/32638
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 6 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 6 HD
-http://p2reep.xyz:80/983389092/410226384/32641
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 7 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 7 HD
-http://p2reep.xyz:80/983389092/410226384/32642
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 8 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 8 HD
-http://p2reep.xyz:80/983389092/410226384/32643
-#EXTINF:-1 tvg-name="XXX: Adulte FULL 9 HD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Adulte FULL 9 HD
-http://p2reep.xyz:80/983389092/410226384/32644
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 1 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 1 FHD
-http://p2reep.xyz:80/983389092/410226384/32622
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 10 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 10 FHD
-http://p2reep.xyz:80/983389092/410226384/32631
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 11 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 11 FHD
-http://p2reep.xyz:80/983389092/410226384/32632
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 12 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 12 FHD
-http://p2reep.xyz:80/983389092/410226384/32633
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 13 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 13 FHD
-http://p2reep.xyz:80/983389092/410226384/32634
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 14 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 14 FHD
-http://p2reep.xyz:80/983389092/410226384/32635
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 15 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 15 FHD
-http://p2reep.xyz:80/983389092/410226384/32636
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 2 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 2 FHD
-http://p2reep.xyz:80/983389092/410226384/32623
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 3 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 3 FHD
-http://p2reep.xyz:80/983389092/410226384/32624
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 4 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 4 FHD
-http://p2reep.xyz:80/983389092/410226384/32625
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 5 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 5 FHD
-http://p2reep.xyz:80/983389092/410226384/32626
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 6 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 6 FHD
-http://p2reep.xyz:80/983389092/410226384/32627
-#EXTINF:-1 tvg-name="XXX: Black of Blondes 9 FHD" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="Z18+  ADULTOS",XXX: Black of Blondes 9 FHD
-http://p2reep.xyz:80/983389092/410226384/32630
-#EXTINF:-1 tvg-name="24H Gay 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuKA0bEHzrN9kmFalh0tHW42Q_2FIgfXhbWgFuhCvwQaSj6zoa5b4oRvNqy65qTEMnVqyU8gRABXksJvsDjlwO4mPkAANqJVDVuF0MdnTksOoxJf0PCMyJSIuJTUE9W_p_wduyVFIf0fLkwU2FqkTLCLhyMAZXBdFqKgqmoFXBtJmrCUGAmyKs6fE1" group-title="Z18+  ADULTOS",24H Gay 3
-http://p2reep.xyz:80/983389092/410226384/173290
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 13" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 13
-http://p2reep.xyz:80/983389092/410226384/198987
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 31" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 31
-http://p2reep.xyz:80/983389092/410226384/198945
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 32" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 32
-http://p2reep.xyz:80/983389092/410226384/198946
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 33" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 33
-http://p2reep.xyz:80/983389092/410226384/198947
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 34" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 34
-http://p2reep.xyz:80/983389092/410226384/198948
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 35" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 35
-http://p2reep.xyz:80/983389092/410226384/198949
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 36" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 36
-http://p2reep.xyz:80/983389092/410226384/198950
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 37" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 37
-http://p2reep.xyz:80/983389092/410226384/198951
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 38" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 38
-http://p2reep.xyz:80/983389092/410226384/198952
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 39" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 39
-http://p2reep.xyz:80/983389092/410226384/198953
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 40" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 40
-http://p2reep.xyz:80/983389092/410226384/198954
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 01" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 01
-http://p2reep.xyz:80/983389092/410226384/198955
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 02" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 02
-http://p2reep.xyz:80/983389092/410226384/198956
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 03" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 03
-http://p2reep.xyz:80/983389092/410226384/198957
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 04" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 04
-http://p2reep.xyz:80/983389092/410226384/198958
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 05" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 05
-http://p2reep.xyz:80/983389092/410226384/198959
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 06" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 06
-http://p2reep.xyz:80/983389092/410226384/198960
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 07" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 07
-http://p2reep.xyz:80/983389092/410226384/198961
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 08" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 08
-http://p2reep.xyz:80/983389092/410226384/198962
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 09" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 09
-http://p2reep.xyz:80/983389092/410226384/198963
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 10" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 10
-http://p2reep.xyz:80/983389092/410226384/198964
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 11" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 11
-http://p2reep.xyz:80/983389092/410226384/198965
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 12" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 12
-http://p2reep.xyz:80/983389092/410226384/198966
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 13" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 13
-http://p2reep.xyz:80/983389092/410226384/198967
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 14" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 14
-http://p2reep.xyz:80/983389092/410226384/198968
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 15" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 15
-http://p2reep.xyz:80/983389092/410226384/198969
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 16" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 16
-http://p2reep.xyz:80/983389092/410226384/198970
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 17" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 17
-http://p2reep.xyz:80/983389092/410226384/198971
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 18" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 18
-http://p2reep.xyz:80/983389092/410226384/198972
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 19" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 19
-http://p2reep.xyz:80/983389092/410226384/198973
-#EXTINF:-1 tvg-name="24H-XXX ADULTO GAY 20" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO GAY 20
-http://p2reep.xyz:80/983389092/410226384/198974
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 01" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 01
-http://p2reep.xyz:80/983389092/410226384/198975
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 02" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 02
-http://p2reep.xyz:80/983389092/410226384/198976
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 03" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 03
-http://p2reep.xyz:80/983389092/410226384/198977
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 04" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 04
-http://p2reep.xyz:80/983389092/410226384/198978
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 05" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 05
-http://p2reep.xyz:80/983389092/410226384/198979
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 06" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 06
-http://p2reep.xyz:80/983389092/410226384/198980
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 07" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 07
-http://p2reep.xyz:80/983389092/410226384/198981
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 08" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 08
-http://p2reep.xyz:80/983389092/410226384/198982
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 09" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 09
-http://p2reep.xyz:80/983389092/410226384/198983
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 10" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 10
-http://p2reep.xyz:80/983389092/410226384/198984
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 11" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 11
-http://p2reep.xyz:80/983389092/410226384/198985
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 12" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 12
-http://p2reep.xyz:80/983389092/410226384/198986
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 14" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 14
-http://p2reep.xyz:80/983389092/410226384/198988
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 15" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 15
-http://p2reep.xyz:80/983389092/410226384/198989
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 16" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 16
-http://p2reep.xyz:80/983389092/410226384/198990
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 17" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 17
-http://p2reep.xyz:80/983389092/410226384/198991
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 19" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 19
-http://p2reep.xyz:80/983389092/410226384/198993
-#EXTINF:-1 tvg-name="24H-XXX ADULTO TRANS 20" tvg-logo="https://i.imgur.com/qbR7Vg2.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO TRANS 20
-http://p2reep.xyz:80/983389092/410226384/198994
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 02" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 02
-http://p2reep.xyz:80/983389092/410226384/198919
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 05" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 05
-http://p2reep.xyz:80/983389092/410226384/198920
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 06" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 06
-http://p2reep.xyz:80/983389092/410226384/198921
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 07" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 07
-http://p2reep.xyz:80/983389092/410226384/198922
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 08" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 08
-http://p2reep.xyz:80/983389092/410226384/198923
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 09" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 09
-http://p2reep.xyz:80/983389092/410226384/198924
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 10" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 10
-http://p2reep.xyz:80/983389092/410226384/198925
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 12" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 12
-http://p2reep.xyz:80/983389092/410226384/198926
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 13" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 13
-http://p2reep.xyz:80/983389092/410226384/198927
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 14" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 14
-http://p2reep.xyz:80/983389092/410226384/198928
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 15" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 15
-http://p2reep.xyz:80/983389092/410226384/198929
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 16" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 16
-http://p2reep.xyz:80/983389092/410226384/198930
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 17" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 17
-http://p2reep.xyz:80/983389092/410226384/198931
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 18" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 18
-http://p2reep.xyz:80/983389092/410226384/198932
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 19" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 19
-http://p2reep.xyz:80/983389092/410226384/198933
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 20" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 20
-http://p2reep.xyz:80/983389092/410226384/198934
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 21" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 21
-http://p2reep.xyz:80/983389092/410226384/198935
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 22" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 22
-http://p2reep.xyz:80/983389092/410226384/198936
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 23" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 23
-http://p2reep.xyz:80/983389092/410226384/198937
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 24" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 24
-http://p2reep.xyz:80/983389092/410226384/198938
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 25" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 25
-http://p2reep.xyz:80/983389092/410226384/198939
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 26" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 26
-http://p2reep.xyz:80/983389092/410226384/198940
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 27" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 27
-http://p2reep.xyz:80/983389092/410226384/198941
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 28" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 28
-http://p2reep.xyz:80/983389092/410226384/198942
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 29" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 29
-http://p2reep.xyz:80/983389092/410226384/198943
-#EXTINF:-1 tvg-name="24H-XXX ADULTO 30" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="Z18+  ADULTOS",24H-XXX ADULTO 30
-http://p2reep.xyz:80/983389092/410226384/198944
-#EXTINF:-1 tvg-name="xviders red" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",xviders red
-http://p2reep.xyz:80/983389092/410226384/208314
-#EXTINF:-1 tvg-name="ELISA SANCHES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",ELISA SANCHES
-http://p2reep.xyz:80/983389092/410226384/208946
-#EXTINF:-1 tvg-name="FIT18 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",FIT18 1
-http://p2reep.xyz:80/983389092/410226384/219091
-#EXTINF:-1 tvg-name="POV 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 1
-http://p2reep.xyz:80/983389092/410226384/219092
-#EXTINF:-1 tvg-name="POV 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 2
-http://p2reep.xyz:80/983389092/410226384/219093
-#EXTINF:-1 tvg-name="POV 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 3
-http://p2reep.xyz:80/983389092/410226384/219094
-#EXTINF:-1 tvg-name="Teste De Fudelidade" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",Teste De Fudelidade
-http://p2reep.xyz:80/983389092/410226384/219095
-#EXTINF:-1 tvg-name="POV 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 1
-http://p2reep.xyz:80/29060114143/53753173467/219092
-#EXTINF:-1 tvg-name="POV 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 3
-http://p2reep.xyz:80/29060114143/53753173467/219094
-#EXTINF:-1 tvg-name="Teste De Fudelidade" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",Teste De Fudelidade
-http://p2reep.xyz:80/29060114143/53753173467/219095
-#EXTINF:-1 tvg-name="POV 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 1
-http://p2reep.xyz:80/29060114143/53753173467/219092
-#EXTINF:-1 tvg-name="POV 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 2
-http://p2reep.xyz:80/29060114143/53753173467/219093
-#EXTINF:-1 tvg-name="POV 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 3
-http://p2reep.xyz:80/29060114143/53753173467/219094
-#EXTINF:-1 tvg-name="Teste De Fudelidade" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",Teste De Fudelidade
-http://p2reep.xyz:80/29060114143/53753173467/219095
-#EXTINF:-1 tvg-name="POV 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 1
-http://p2reep.xyz:80/29060114143/53753173467/219092
-#EXTINF:-1 tvg-name="POV 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 2
-http://p2reep.xyz:80/29060114143/53753173467/219093
-#EXTINF:-1 tvg-name="POV 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",POV 3
-http://p2reep.xyz:80/29060114143/53753173467/219094
-#EXTINF:-1 tvg-name="Teste De Fudelidade" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0Gc-taPrl8CIWwlsaUFWY0Q6lPoJSkOZBZxvXAioRfI2wnaYQ1Fh2LAnk1MWnJxP26inQsAqytATFveEcbcpV6eYaEArmLEW2fFkr7QZZrwQB2KZrn1KJwejnLWz3UrG4PbK6O8SNMNWjXwPeJadBIUAdX35skSP1AmAviBKWbk3_Ux2nJNoZimq2" group-title="Z18+  ADULTOS",Teste De Fudelidade
-http://p2reep.xyz:80/29060114143/53753173467/219095
+http://p2reep.xyz:80/15788250777/74943414147/71123
