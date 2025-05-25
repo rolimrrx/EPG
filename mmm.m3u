@@ -183,6 +183,16 @@ http://mix4on.net:80/201300009/V637A1836s/671
 http://mix4on.net:80/201300009/V637A1836s/740
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="São Paulo/SP SYFY HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="CANAIS",SYFY HD
 http://mix4on.net:80/201300009/V637A1836s/718
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID FHD
+http://mix4on.net:80/201300009/V637A1836s/2632
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID UHD
+http://mix4on.net:80/201300009/V637A1836s/21323
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD
+http://mix4on.net:80/201300009/V637A1836s/2630
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD²
+http://mix4on.net:80/201300009/V637A1836s/2631
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID SD
+http://mix4on.net:80/201300009/V637A1836s/2629
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="São Paulo/SP Batman - Trilogia" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png" group-title="CANAIS",Batman - Trilogia
 http://mix4on.net:80/201300009/V637A1836s/271594
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="São Paulo/SP X-Men 02" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png" group-title="CANAIS",X-Men 02
