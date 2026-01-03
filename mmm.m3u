@@ -71,11 +71,11 @@ http://nexusp.xyz:80/664386299/d589y9525S/676
 http://nexusp.xyz:80/664386299/d589y9525S/552457
 #EXTINF:-1 tvg-id="São.Paulo/SP..viva.br" tvg-name="Viva" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="CANAIS | CANAIS",Viva 
 http://nexusp.xyz:80/664386299/d589y9525S/2537
-#EXTINF:-1 tvg-id="São.Paulo/SP..Sportv.3;.br" tvg-name="SporTV 3" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="CANAIS | CANAIS",SporTV 3 
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3.br" tvg-name="SporTV 3" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="CANAIS | CANAIS",SporTV 3 
 http://nexusp.xyz:80/664386299/d589y9525S/559
-#EXTINF:-1 tvg-id="São.Paulo/SP..Sportv.2.br" tvg-name="SporTV 2" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="CANAIS | CANAIS",SporTV 2 
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SporTV 2" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="CANAIS | CANAIS",SporTV 2 
 http://nexusp.xyz:80/664386299/d589y9525S/554
-#EXTINF:-1 tvg-id="São.Paulo/SP..Sportv.br" tvg-name="SporTV" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="CANAIS | CANAIS",SporTV 
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SporTV" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="CANAIS | CANAIS",SporTV 
 http://nexusp.xyz:80/664386299/d589y9525S/118881
 #EXTINF:-1 tvg-id="São.Paulo/SP..GloboNews.br" tvg-name="GloboNews" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="CANAIS | CANAIS",GloboNews 
 http://nexusp.xyz:80/664386299/d589y9525S/479
@@ -85,11 +85,11 @@ http://nexusp.xyz:80/664386299/d589y9525S/376504
 http://nexusp.xyz:80/664386299/d589y9525S/377241
 #EXTINF:-1 tvg-id="São.Paulo/SP..Universal.TV.br" tvg-name="Universal TV" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="CANAIS | CANAIS",Universal TV 
 http://nexusp.xyz:80/664386299/d589y9525S/743
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.br" tvg-name="Cartoonito" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONITO.png" group-title="CANAIS | CANAIS",Cartoonito 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="Cartoonito" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONITO.png" group-title="CANAIS | CANAIS",Cartoonito 
 http://nexusp.xyz:80/664386299/d589y9525S/110683
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.br" tvg-name="Cartoon Network " tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="CANAIS | CANAIS",Cartoon Network 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="Cartoon Network " tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="CANAIS | CANAIS",Cartoon Network 
 http://nexusp.xyz:80/664386299/d589y9525S/352
-#EXTINF:-1 tvg-id="São.Paulo/SP..Nick.br" tvg-name="Nickelodeon " tvg-logo="http://beststorage4you.com:80/logoscanais/NICKELODEON.png" group-title="CANAIS | CANAIS",Nickelodeon 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Nickelodeon.HD.br" tvg-name="Nickelodeon " tvg-logo="http://beststorage4you.com:80/logoscanais/NICKELODEON.png" group-title="CANAIS | CANAIS",Nickelodeon 
 http://nexusp.xyz:80/664386299/d589y9525S/372
 #EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.br" tvg-name="Warner Channel " tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="CANAIS | CANAIS",Warner Channel 
 http://nexusp.xyz:80/664386299/d589y9525S/749
@@ -113,25 +113,25 @@ http://nexusp.xyz:80/664386299/d589y9525S/235
 http://nexusp.xyz:80/664386299/d589y9525S/240
 #EXTINF:-1 tvg-id="São.Paulo/SP..Espn.5.br" tvg-name="ESPN 5 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 5 
 http://nexusp.xyz:80/664386299/d589y9525S/563030
-#EXTINF:-1 tvg-id="São.Paulo/SP..Espn.4.br" tvg-name="ESPN 4 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 4 
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 4 
 http://nexusp.xyz:80/664386299/d589y9525S/225
-#EXTINF:-1 tvg-id="São.Paulo/SP..Espn.3.br" tvg-name="ESPN 3 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 3 
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 3 
 http://nexusp.xyz:80/664386299/d589y9525S/220
 #EXTINF:-1 tvg-id="São.Paulo/SP..Espn.2.br" tvg-name="ESPN 2 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 2 
 http://nexusp.xyz:80/664386299/d589y9525S/215
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine Premium.br" tvg-name="Telecine Premium " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Premium 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Premium.br" tvg-name="Telecine Premium " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Premium 
 http://nexusp.xyz:80/664386299/d589y9525S/635
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine Action.br" tvg-name="Telecine Action " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Action 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Action.br" tvg-name="Telecine Action " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Action 
 http://nexusp.xyz:80/664386299/d589y9525S/615
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine Fun.br" tvg-name="Telecine Fun " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Fun 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.br" tvg-name="Telecine Fun " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Fun 
 http://nexusp.xyz:80/664386299/d589y9525S/625
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine Pipoca.br" tvg-name="Telecine Pipoca " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Pipoca 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Pipoca.br" tvg-name="Telecine Pipoca " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Pipoca 
 http://nexusp.xyz:80/664386299/d589y9525S/630
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine Touch.br" tvg-name="Telecine Touch " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Touch 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.br" tvg-name="Telecine Touch " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Touch 
 http://nexusp.xyz:80/664386299/d589y9525S/21284
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine Cult.br" tvg-name="Telecine Cult " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Cult 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.br" tvg-name="Telecine Cult " tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="CANAIS | CANAIS",Telecine Cult 
 http://nexusp.xyz:80/664386299/d589y9525S/620
-#EXTINF:-1 tvg-id="São.Paulo/SP..Ae.br" tvg-name="A&E " tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="CANAIS | CANAIS",A&E 
+#EXTINF:-1 tvg-id="São.Paulo/SP..A.and.E.HD.br" tvg-name="A&E " tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="CANAIS | CANAIS",A&E 
 http://nexusp.xyz:80/664386299/d589y9525S/666
 #EXTINF:-1 tvg-name="Disney + 1 " tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="CANAIS | CANAIS",Disney + 1 
 http://nexusp.xyz:80/664386299/d589y9525S/232230
@@ -139,25 +139,25 @@ http://nexusp.xyz:80/664386299/d589y9525S/232230
 http://nexusp.xyz:80/664386299/d589y9525S/563035
 #EXTINF:-1 tvg-id="São.Paulo/SP..Espn.br" tvg-name="ESPN " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="CANAIS | CANAIS",ESPN 
 http://nexusp.xyz:80/664386299/d589y9525S/309458
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.br" tvg-name="HBO " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.br" tvg-name="HBO " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO 
 http://nexusp.xyz:80/664386299/d589y9525S/18751
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.2.br" tvg-name="HBO 2 " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO 2 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.2.br" tvg-name="HBO.2.br" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO 2 
 http://nexusp.xyz:80/664386299/d589y9525S/18755
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo+.br" tvg-name="HBO Plus " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO Plus 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO+.br" tvg-name="HBO Plus " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO Plus 
 http://nexusp.xyz:80/664386299/d589y9525S/21249
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.Family.br" tvg-name="HBO FAMILY " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO FAMILY 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Family.br" tvg-name="HBO FAMILY " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO FAMILY 
 http://nexusp.xyz:80/664386299/d589y9525S/18759
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.Signature.br" tvg-name="HBO SIGNATURE " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO SIGNATURE 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Signature.br" tvg-name="HBO SIGNATURE " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO SIGNATURE 
 http://nexusp.xyz:80/664386299/d589y9525S/18767
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.Xtreme.br" tvg-name="HBO XTREME " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO XTREME 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO XTREME 
 http://nexusp.xyz:80/664386299/d589y9525S/18775
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo Pop.br" tvg-name="HBO POP " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO POP 
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO POP 
 http://nexusp.xyz:80/664386299/d589y9525S/18779
-#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo Mundi.br" tvg-name="HBO MUNDI " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO MUNDI 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Hbo.Mundi.br" tvg-name="HBO MUNDI " tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="CANAIS | CANAIS",HBO MUNDI 
 http://nexusp.xyz:80/664386299/d589y9525S/18771
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cinemax.br" tvg-name="Cinemax " tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="CANAIS | CANAIS",Cinemax 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cinemax.br" tvg-name=".Cinemax.br" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="CANAIS | CANAIS",Cinemax 
 http://nexusp.xyz:80/664386299/d589y9525S/682
-#EXTINF:-1 tvg-id="São.Paulo/SP..Canal.Brasil.br" tvg-name="Canal Brasil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="CANAIS | CANAIS",Canal Brasil 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Canal.Brasil.br" tvg-name="Canal.Brasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="CANAIS | CANAIS",Canal Brasil 
 http://nexusp.xyz:80/664386299/d589y9525S/146
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cineskyplay.br" tvg-name="Cine Sky 11" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="CANAIS | CANAIS",Cine Sky 11
 http://nexusp.xyz:80/664386299/d589y9525S/560376
@@ -177,11 +177,11 @@ http://nexusp.xyz:80/664386299/d589y9525S/514
 http://nexusp.xyz:80/664386299/d589y9525S/519
 #EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="Premiere 7 " tvg-logo="http://beststorage4you.com:80/logoscanais/PREMIERE.png" group-title="CANAIS | CANAIS",Premiere 7 
 http://nexusp.xyz:80/664386299/d589y9525S/524
-#EXTINF:-1 tvg-id="São.Paulo/SP..Amc.br" tvg-name="AMC " tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="CANAIS | CANAIS",AMC 
+#EXTINF:-1 tvg-id="São.Paulo/SP..AMC.br" tvg-name="AMC.br" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="CANAIS | CANAIS",AMC 
 http://nexusp.xyz:80/664386299/d589y9525S/671
-#EXTINF:-1 tvg-id="São.Paulo/SP..Tcm.br" tvg-name="TCM  " tvg-logo="http://beststorage4you.com:80/logoscanais/TCM.png" group-title="CANAIS | CANAIS",TCM  
+#EXTINF:-1 tvg-id="São.Paulo/SP..TCM.br" tvg-name="TCM.br" tvg-logo="http://beststorage4you.com:80/logoscanais/TCM.png" group-title="CANAIS | CANAIS",TCM  
 http://nexusp.xyz:80/664386299/d589y9525S/740
-#EXTINF:-1 tvg-id="São.Paulo/SP..Syfy.br" tvg-name="USA " tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="CANAIS | CANAIS",USA 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Syfy.HD.br" tvg-name="Syfy.HD.br" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="CANAIS | CANAIS",USA 
 http://nexusp.xyz:80/664386299/d589y9525S/718
 #EXTINF:-1 tvg-name="Cine Mundo " tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title="Canais | Portugal",Cine Mundo 
 http://nexusp.xyz:80/664386299/d589y9525S/111971
