@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rolimrrx/EPG/master/guide.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rolimrrx/EPG/master/guide.xml"
 #EXTINF:-1 tvg-id="SerieseProgramas.br" tvg-name="Marvel 01" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png" group-title="CANAIS | CANAIS",Marvel 01
 http://nexusp.xyz:80/360121095/Q360z4362q/271595
 #EXTINF:-1 tvg-id="SerieseProgramas.br" tvg-name="Marvel 02" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png" group-title="CANAIS | CANAIS",Marvel 02
@@ -183,6 +183,20 @@ http://nexusp.xyz:80/360121095/Q360z4362q/671
 http://nexusp.xyz:80/360121095/Q360z4362q/740
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="USA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="CANAIS | CANAIS",USA HD
 http://nexusp.xyz:80/360121095/Q360z4362q/718
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 2" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 2
+http://nexusp.xyz:80/360121095/Q360z4362q/651081
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 3" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 3
+http://nexusp.xyz:80/360121095/Q360z4362q/651082
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 4" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 4
+http://nexusp.xyz:80/360121095/Q360z4362q/651083
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 5" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 5
+http://nexusp.xyz:80/360121095/Q360z4362q/651084
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 6" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 6
+http://nexusp.xyz:80/360121095/Q360z4362q/651085
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 7" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 7
+http://nexusp.xyz:80/360121095/Q360z4362q/651086
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 18 Sinal 1" tvg-logo="http://beststorage4you.com/logoscanais/fazenda.png" group-title="Canais | A Fazenda",A Fazenda 18 Sinal 1
+http://nexusp.xyz:80/360121095/Q360z4362q/651080
 #EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB 2026 Acompanhe a Casa 1 FHD" group-title=" Canais | BBB 2026",BBB 2026 Acompanhe a Casa 1 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/602966
 #EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB 2026 Acompanhe a Casa 1 HD" group-title=" Canais | BBB 2026",BBB 2026 Acompanhe a Casa 1 HD
@@ -291,6 +305,8 @@ http://nexusp.xyz:80/360121095/Q360z4362q/111961
 http://nexusp.xyz:80/360121095/Q360z4362q/111956
 #EXTINF:-1 tvg-name="TVCine + HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title="Canais | Portugal",TVCine + HD
 http://nexusp.xyz:80/360121095/Q360z4362q/111955
+#EXTINF:-1 tvg-name="USL- ABC  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC  HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285537
 #EXTINF:-1 tvg-name="USL- ABC ATLANTA" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC ATLANTA
 http://nexusp.xyz:80/360121095/Q360z4362q/285661
 #EXTINF:-1 tvg-name="USL- ABC CHICAGO" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC CHICAGO
@@ -301,16 +317,24 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285565
 http://nexusp.xyz:80/360121095/Q360z4362q/285566
 #EXTINF:-1 tvg-name="USL- ABC NEW YORK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC NEW YORK HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285568
+#EXTINF:-1 tvg-name="USL- ABC NEWS LIVE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC NEWS LIVE HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285572
+#EXTINF:-1 tvg-name="USL- ABC NEWS | HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC NEWS | HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285538
 #EXTINF:-1 tvg-name="USL- ABC PHILADELPHIA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC PHILADELPHIA HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285569
 #EXTINF:-1 tvg-name="USL- ABC SAN DIEGO" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC SAN DIEGO
 http://nexusp.xyz:80/360121095/Q360z4362q/285570
 #EXTINF:-1 tvg-name="USL- ABC SAN FRANCISCO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC SAN FRANCISCO HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285571
+#EXTINF:-1 tvg-name="USL- ALTITUDE SPORTS ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ALTITUDE SPORTS ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285761
 #EXTINF:-1 tvg-name="USL- BALLY SPORTS FLORIDA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- BALLY SPORTS FLORIDA HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285680
 #EXTINF:-1 tvg-name="USL- BALLY SPORTS OKLAHOMA" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- BALLY SPORTS OKLAHOMA
 http://nexusp.xyz:80/360121095/Q360z4362q/285683
+#EXTINF:-1 tvg-name="USL- BBC AMERICA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- BBC AMERICA HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285580
 #EXTINF:-1 tvg-name="USL- CBS 2 CHICAGO" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS 2 CHICAGO
 http://nexusp.xyz:80/360121095/Q360z4362q/285594
 #EXTINF:-1 tvg-name="USL- CBS 5 SAN FRANCISCO" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS 5 SAN FRANCISCO
@@ -325,30 +349,52 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285599
 http://nexusp.xyz:80/360121095/Q360z4362q/285600
 #EXTINF:-1 tvg-name="USL- CBS MIAMI HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS MIAMI HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285601
+#EXTINF:-1 tvg-name="USL- CBS MONTEREY CA KION" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS MONTEREY CA KION
+http://nexusp.xyz:80/360121095/Q360z4362q/285645
+#EXTINF:-1 tvg-name="USL- CBS NEW YORK" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS NEW YORK
+http://nexusp.xyz:80/360121095/Q360z4362q/285602
 #EXTINF:-1 tvg-name="USL- CBS NEWS NEW YORK" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS NEWS NEW YORK
 http://nexusp.xyz:80/360121095/Q360z4362q/285597
+#EXTINF:-1 tvg-name="USL- CBS REALITY HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS REALITY HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285603
 #EXTINF:-1 tvg-name="USL- CBS SAN DIEGO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS SAN DIEGO HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285604
 #EXTINF:-1 tvg-name="USL- CBS TEXAS" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- CBS TEXAS
 http://nexusp.xyz:80/360121095/Q360z4362q/285605
+#EXTINF:-1 tvg-name="USL- DEPORTES| BEIN SPORTS EXTRA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- DEPORTES| BEIN SPORTS EXTRA HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285623
+#EXTINF:-1 tvg-name="USL- EPIX HITS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- EPIX HITS HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285646
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="USL- ESPN 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN 2 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285648
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="USL- ESPN 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285656
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="USL- ESPN 2 ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN 2 ᴴᴰ
 http://nexusp.xyz:80/360121095/Q360z4362q/285647
-#EXTINF:-1 tvg-name="USL- ESPN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN HD
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="USL- ESPN 2 ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN 2 ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285649
+#EXTINF:-1 tvg-name="USL- ESPN FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/285544
+#EXTINF:-1 tvg-name="USL- ESPN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285651
 #EXTINF:-1 tvg-name="USL- ESPN LONG HORN" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN LONG HORN
 http://nexusp.xyz:80/360121095/Q360z4362q/285652
 #EXTINF:-1 tvg-name="USL- ESPN LONG HORN NETWORK ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN LONG HORN NETWORK ᴴᴰ
 http://nexusp.xyz:80/360121095/Q360z4362q/285654
 #EXTINF:-1 tvg-name="USL- ESPN NEWS ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN NEWS ᴴᴰ
 http://nexusp.xyz:80/360121095/Q360z4362q/285650
+#EXTINF:-1 tvg-name="USL- ESPN NEWS ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN NEWS ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285653
 #EXTINF:-1 tvg-name="USL- ESPN U ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ESPN U ᴴᴰ
 http://nexusp.xyz:80/360121095/Q360z4362q/285655
 #EXTINF:-1 tvg-name="USL- FOX 32 CHICAGO" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX 32 CHICAGO
 http://nexusp.xyz:80/360121095/Q360z4362q/285659
+#EXTINF:-1 tvg-name="USL- FOX BUSINESS FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX BUSINESS FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/285663
 #EXTINF:-1 tvg-name="USL- FOX DALLAS" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX DALLAS
 http://nexusp.xyz:80/360121095/Q360z4362q/285660
+#EXTINF:-1 tvg-name="USL- FOX DEPORTES FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX DEPORTES FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/285669
 #EXTINF:-1 tvg-name="USL- FOX LOS ANGELES HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX LOS ANGELES HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285667
 #EXTINF:-1 tvg-name="USL- FOX MIAMI HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX MIAMI HD
@@ -357,6 +403,8 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285668
 http://nexusp.xyz:80/360121095/Q360z4362q/285670
 #EXTINF:-1 tvg-name="USL- FOX ORLANDO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX ORLANDO HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285672
+#EXTINF:-1 tvg-name="USL- FOX SOCCER PLUS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SOCCER PLUS HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285662
 #EXTINF:-1 tvg-name="USL- FOX SOUL" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SOUL
 http://nexusp.xyz:80/360121095/Q360z4362q/285673
 #EXTINF:-1 tvg-name="USL- FOX SPORTS 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SPORTS 1 HD
@@ -376,8 +424,6 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285678
 #EXTINF:-1 tvg-name="USL- FOX SPORTS NORTH CAROLINA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SPORTS NORTH CAROLINA HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285681
 #EXTINF:-1 tvg-name="USL- FOX SPORTS OHIO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SPORTS OHIO HD
-http://nexusp.xyz:80/360121095/Q360z4362q/285692
-#EXTINF:-1 tvg-name="USL- FOX SPORTS OHIO HD**" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SPORTS OHIO HD**
 http://nexusp.xyz:80/360121095/Q360z4362q/285682
 #EXTINF:-1 tvg-name="USL- FOX SPORTS PRIME TICKET  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX SPORTS PRIME TICKET  HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285684
@@ -403,6 +449,12 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285694
 http://nexusp.xyz:80/360121095/Q360z4362q/285695
 #EXTINF:-1 tvg-name="USL- MLB NETWORK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- MLB NETWORK HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285848
+#EXTINF:-1 tvg-name="USL- MSG + 2 ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- MSG + 2 ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285737
+#EXTINF:-1 tvg-name="USL- MSG PLUS ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- MSG PLUS ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285738
+#EXTINF:-1 tvg-name="USL- MSG ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- MSG ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285739
 #EXTINF:-1 tvg-name="USL- NBC GOLF HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NBC GOLF HD
 http://nexusp.xyz:80/360121095/Q360z4362q/237176
 #EXTINF:-1 tvg-name="USL- NBC GOLF HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NBC GOLF HD
@@ -413,8 +465,16 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285751
 http://nexusp.xyz:80/360121095/Q360z4362q/285752
 #EXTINF:-1 tvg-name="USL- NBC NEW YORK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NBC NEW YORK HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285753
-#EXTINF:-1 tvg-name="USL- NBC PHILADELFPHIA*" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NBC PHILADELFPHIA*
+#EXTINF:-1 tvg-name="USL- NBC PHILADELFPHIA" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NBC PHILADELFPHIA
 http://nexusp.xyz:80/360121095/Q360z4362q/285749
+#EXTINF:-1 tvg-name="USL- NESN PLUS ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NESN PLUS ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285754
+#EXTINF:-1 tvg-name="USL- NESN SPORTS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NESN SPORTS HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285755
+#EXTINF:-1 tvg-name="USL- NESN ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NESN ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285756
+#EXTINF:-1 tvg-name="USL- NFL NETWORK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NFL NETWORK HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285757
 #EXTINF:-1 tvg-name="USL- PAC ARIZONA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- PAC ARIZONA HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285765
 #EXTINF:-1 tvg-name="USL- PAC BAY AREA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- PAC BAY AREA HD
@@ -429,46 +489,88 @@ http://nexusp.xyz:80/360121095/Q360z4362q/285769
 http://nexusp.xyz:80/360121095/Q360z4362q/285770
 #EXTINF:-1 tvg-name="USL- PAC-12 WASHINGTON HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- PAC-12 WASHINGTON HD
 http://nexusp.xyz:80/360121095/Q360z4362q/285771
+#EXTINF:-1 tvg-name="USL- SEC NETWORK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- SEC NETWORK HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285779
+#EXTINF:-1 tvg-name="USL- SPORTSNET NYC ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- SPORTSNET NYC ᴴᴰ
+http://nexusp.xyz:80/360121095/Q360z4362q/285788
 #EXTINF:-1 tvg-name="USL- YES NETWORK ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- YES NETWORK ᴴᴰ
 http://nexusp.xyz:80/360121095/Q360z4362q/285841
-#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 1 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="USL-CBS SPORTS NETWORK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL-CBS SPORTS NETWORK HD
+http://nexusp.xyz:80/360121095/Q360z4362q/285540
+#EXTINF:-1 tvg-name="USL-DEPORTES| BEIN SPORTS ENGLISH  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL-DEPORTES| BEIN SPORTS ENGLISH  HD
+http://nexusp.xyz:80/360121095/Q360z4362q/376499
+#EXTINF:-1 tvg-name="USL- DEPORTES| BEIN SPORTS EN ESPANOL HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- DEPORTES| BEIN SPORTS EN ESPANOL HD
+http://nexusp.xyz:80/360121095/Q360z4362q/376500
+#EXTINF:-1 tvg-name="Disney+ 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/232230
+#EXTINF:-1 tvg-name="Disney+ 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 1 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/232232
-#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 2 HD
+#EXTINF:-1 tvg-name="Disney+ 1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/612866
+#EXTINF:-1 tvg-name="Disney+ 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 2 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/232234
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 2 HD
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 2 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/232235
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 2 SD
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 2 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/232237
-#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 HD
+#EXTINF:-1 tvg-name="Disney+ 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 3 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/232238
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 HD
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 3 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/232239
-#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/232240
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 3 SD
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 3 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/232241
-#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 4 HD
+#EXTINF:-1 tvg-name="Disney+ 4 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 4 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/232242
-#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 4 HD
+#EXTINF:-1 tvg-name="Disney+ 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 4 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/232243
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 4 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 4 SD
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 4 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 4 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/232244
-#EXTINF:-1 tvg-name="Disney + 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 5 HD
+#EXTINF:-1 tvg-name="Disney+ 5 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 5 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/232246
-#EXTINF:-1 tvg-name="Disney + 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 6 HD
+#EXTINF:-1 tvg-name="Disney+ 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 5 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612867
+#EXTINF:-1 tvg-name="Disney+ 5 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 5 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613878
+#EXTINF:-1 tvg-name="Disney+ 6 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 6 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/232247
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 7 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 7 HD
+#EXTINF:-1 tvg-name="Disney+ 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 6 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613879
+#EXTINF:-1 tvg-name="Disney+ 6 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 6 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613880
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 7 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 7 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/253330
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney + 8 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney + 8 HD
+#EXTINF:-1 tvg-name="Disney+ 7 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 7 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613881
+#EXTINF:-1 tvg-name="Disney+ 7 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 7 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613882
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disney+ 8 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 8 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/253331
-#EXTINF:-1 tvg-id="Disneyplus.br" tvg-name="Disney+ 10 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 10 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/538848
+#EXTINF:-1 tvg-name="Disney+ 8 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 8 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613883
+#EXTINF:-1 tvg-name="Disney+ 8 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 8 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613884
+#EXTINF:-1 tvg-name="Disney+ 9 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 9 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613885
 #EXTINF:-1 tvg-id="Disneyplus.br" tvg-name="Disney+ 9 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 9 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/538847
+#EXTINF:-1 tvg-name="Disney+ 9 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 9 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613886
+#EXTINF:-1 tvg-name="Disney+ 10 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 10 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613887
+#EXTINF:-1 tvg-id="Disneyplus.br" tvg-name="Disney+ 10 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 10 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/538848
+#EXTINF:-1 tvg-name="Disney+ 10 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 10 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613888
 #EXTINF:-1 tvg-id="Disneyplus.br" tvg-name="Disney+ 11 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 11 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/538849
 #EXTINF:-1 tvg-id="Disneyplus.br" tvg-name="Disney+ 12 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 12 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/538850
+#EXTINF:-1 tvg-name="Disney+ 13 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 13 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613889
+#EXTINF:-1 tvg-name="Disney+ 14 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 14 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613890
+#EXTINF:-1 tvg-name="Disney+ 15 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="Canais | Disney Sports",Disney+ 15 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613891
 #EXTINF:-1 tvg-name="HBO Max 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/121598
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO Max 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 HD
@@ -609,6 +711,30 @@ http://nexusp.xyz:80/360121095/Q360z4362q/234286
 http://nexusp.xyz:80/360121095/Q360z4362q/234288
 #EXTINF:-1 tvg-id="Golf.br" tvg-name="[CA] GOLF CHANNEL HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GOLFCHANNEL.png" group-title="Canais | Sport World",[CA] GOLF CHANNEL HD
 http://nexusp.xyz:80/360121095/Q360z4362q/237177
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 1" tvg-logo="http://beststorage4you.com:/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 1
+http://nexusp.xyz:80/360121095/Q360z4362q/18253
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 2" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 2
+http://nexusp.xyz:80/360121095/Q360z4362q/18254
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 3" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 3
+http://nexusp.xyz:80/360121095/Q360z4362q/18255
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 4" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 4
+http://nexusp.xyz:80/360121095/Q360z4362q/18256
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 5" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 5
+http://nexusp.xyz:80/360121095/Q360z4362q/18257
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 6" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 6
+http://nexusp.xyz:80/360121095/Q360z4362q/18258
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 7" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 7
+http://nexusp.xyz:80/360121095/Q360z4362q/18259
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 8" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 8
+http://nexusp.xyz:80/360121095/Q360z4362q/18260
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 9" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 9
+http://nexusp.xyz:80/360121095/Q360z4362q/18261
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 10" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 10
+http://nexusp.xyz:80/360121095/Q360z4362q/560375
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 11" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 11
+http://nexusp.xyz:80/360121095/Q360z4362q/560376
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 12" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 12
+http://nexusp.xyz:80/360121095/Q360z4362q/560377
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 13" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 13
 http://nexusp.xyz:80/360121095/Q360z4362q/560378
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 14" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 14
@@ -889,132 +1015,308 @@ http://nexusp.xyz:80/360121095/Q360z4362q/255508
 http://nexusp.xyz:80/360121095/Q360z4362q/255505
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band Uberlandia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Uberlandia HD
 http://nexusp.xyz:80/360121095/Q360z4362q/255506
-#EXTINF:-1 tvg-name="FLOGRAPPLING 01 " tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 01 
-http://nexusp.xyz:80/360121095/Q360z4362q/559213
-#EXTINF:-1 tvg-name="FLOGRAPPLING 03 (REPRISES)" tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 03 (REPRISES)
-http://nexusp.xyz:80/360121095/Q360z4362q/559214
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Eventos Extras HD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Eventos Extras HD
-http://nexusp.xyz:80/360121095/Q360z4362q/289716
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Olympia TV HD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV HD
-http://nexusp.xyz:80/360121095/Q360z4362q/289717
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Olympia TV HD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV HD
-http://nexusp.xyz:80/360121095/Q360z4362q/289718
-#EXTINF:-1 tvg-name="Olympia TV 01" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV 01
-http://nexusp.xyz:80/360121095/Q360z4362q/517159
-#EXTINF:-1 tvg-name="Olympia TV 02 " tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV 02 
-http://nexusp.xyz:80/360121095/Q360z4362q/517160
-#EXTINF:-1 tvg-name="Olympia TV 03 " tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV 03 
-http://nexusp.xyz:80/360121095/Q360z4362q/517161
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="FIFA+ HD" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="Canais | Pay-per-view",FIFA+ HD
-http://nexusp.xyz:80/360121095/Q360z4362q/250892
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live HD
-http://nexusp.xyz:80/360121095/Q360z4362q/254096
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live HD
-http://nexusp.xyz:80/360121095/Q360z4362q/254098
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacão Brasileirão HD [Casimito]" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacão Brasileirão HD [Casimito]
-http://nexusp.xyz:80/360121095/Q360z4362q/254099
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Kingpyn Boxing HD" tvg-logo="https://pbs.twimg.com/media/FrcKkJ7WAAA6-Er.jpg" group-title="Canais | Pay-per-view",Kingpyn Boxing HD
-http://nexusp.xyz:80/360121095/Q360z4362q/250915
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 1" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",APPLE TV 1
-http://nexusp.xyz:80/360121095/Q360z4362q/274649
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 2" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",APPLE TV 2
-http://nexusp.xyz:80/360121095/Q360z4362q/274650
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 3" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",APPLE TV 3
-http://nexusp.xyz:80/360121095/Q360z4362q/274651
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 4" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",APPLE TV 4
-http://nexusp.xyz:80/360121095/Q360z4362q/555762
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ STARS UHD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS UHD
-http://nexusp.xyz:80/360121095/Q360z4362q/250890
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ STARS HD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS HD
-http://nexusp.xyz:80/360121095/Q360z4362q/369565
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ STARS SD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS SD
-http://nexusp.xyz:80/360121095/Q360z4362q/369566
-#EXTINF:-1 tvg-id="Bandce.br" tvg-name="Brasileirao Serie D 1 HD" tvg-logo="https://fcf-sc.s3.sa-east-1.amazonaws.com/wp-content/uploads/2023/05/08221144/Brasileiro-Serie-C.jpeg" group-title="Canais | Pay-per-view",Brasileirao Serie D 1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/283044
-#EXTINF:-1 tvg-id="Bandce.br" tvg-name="Brasileirao Serie C 2 HD" tvg-logo="https://fcf-sc.s3.sa-east-1.amazonaws.com/wp-content/uploads/2023/05/08221144/Brasileiro-Serie-C.jpeg" group-title="Canais | Pay-per-view",Brasileirao Serie C 2 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/283045
-#EXTINF:-1 tvg-name="Brtvmax 01" tvg-logo="http://beststorage4you.com:80/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax 01
-http://nexusp.xyz:80/360121095/Q360z4362q/385617
-#EXTINF:-1 tvg-name="Canal Rodeio 01" tvg-logo="http://beststorage4you.com:80/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Canal Rodeio 01
-http://nexusp.xyz:80/360121095/Q360z4362q/385618
-#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 1 HD" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="Canais | Pay-per-view",Canal Goat 1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/274647
-#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 2 HD" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="Canais | Pay-per-view",Canal Goat 2 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/232222
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV HD
-http://nexusp.xyz:80/360121095/Q360z4362q/254102
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV UHD
-http://nexusp.xyz:80/360121095/Q360z4362q/254103
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV HD
-http://nexusp.xyz:80/360121095/Q360z4362q/254104
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 2" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 2
-http://nexusp.xyz:80/360121095/Q360z4362q/311744
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 3" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 3
-http://nexusp.xyz:80/360121095/Q360z4362q/311745
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/229981
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/229982
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 2 " tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 
-http://nexusp.xyz:80/360121095/Q360z4362q/229984
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 3" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 3
-http://nexusp.xyz:80/360121095/Q360z4362q/229988
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 4" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 4
-http://nexusp.xyz:80/360121095/Q360z4362q/229989
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 5" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 5
-http://nexusp.xyz:80/360121095/Q360z4362q/229990
-#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 6" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 6
-http://nexusp.xyz:80/360121095/Q360z4362q/229991
-#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="GOAT 1 HD" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="Canais | Pay-per-view",GOAT 1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/233913
-#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="GOAT2 HD" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="Canais | Pay-per-view",GOAT2 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/233914
-#EXTINF:-1 tvg-name="Liga Futsal 1 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/18301
-#EXTINF:-1 tvg-name="Liga Futsal 2 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 2 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/18300
-#EXTINF:-1 tvg-name="Liga Futsal 3 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 3 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/18299
-#EXTINF:-1 tvg-name="NSPORTS 1" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 1
-http://nexusp.xyz:80/360121095/Q360z4362q/231034
-#EXTINF:-1 tvg-name="NSPORTS 2" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 2
-http://nexusp.xyz:80/360121095/Q360z4362q/231035
-#EXTINF:-1 tvg-name="NSPORTS 3" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 3
-http://nexusp.xyz:80/360121095/Q360z4362q/231036
-#EXTINF:-1 tvg-name="NSPORTS 4" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 4
-http://nexusp.xyz:80/360121095/Q360z4362q/231037
-#EXTINF:-1 tvg-name="NSPORTS 5" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 5
-http://nexusp.xyz:80/360121095/Q360z4362q/231038
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="Jogos do youtube HD" tvg-logo="https://expertdigital.net/wp-content/uploads/2020/05/Como-obter-mais-visualiza%C3%A7%C3%B5es-no-YouTube.jpg" group-title="Canais | Pay-per-view",Jogos do youtube HD
-http://nexusp.xyz:80/360121095/Q360z4362q/233916
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball1 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/233917
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball2 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/233918
-#EXTINF:-1 tvg-name="FLA TV" tvg-logo="http://beststorage4you.com:80/logoscanais/FLATV.png" group-title="Canais | Pay-per-view",FLA TV
-http://nexusp.xyz:80/360121095/Q360z4362q/372002
 #EXTINF:-1 tvg-name="DSPORTS HD" tvg-logo="http://beststorage4you.com/logoscanais/DSPORTS.png" group-title="Canais | Pay-per-view",DSPORTS HD
 http://nexusp.xyz:80/360121095/Q360z4362q/561315
-#EXTINF:-1 tvg-name="Liga Futsal 4 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 4 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/564016
-#EXTINF:-1 tvg-name="Canal do Volei (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventovolei.png" group-title="Canais | Pay-per-view",Canal do Volei (Evento)
-http://nexusp.xyz:80/360121095/Q360z4362q/565036
-#EXTINF:-1 tvg-name="Canal Vaquejada (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventovaquejada.png" group-title="Canais | Pay-per-view",Canal Vaquejada (Evento)
-http://nexusp.xyz:80/360121095/Q360z4362q/565037
-#EXTINF:-1 tvg-name="Canal Lutas (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventoluta.png" group-title="Canais | Pay-per-view",Canal Lutas (Evento)
-http://nexusp.xyz:80/360121095/Q360z4362q/565038
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="AppleTV 1 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/274649
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 2 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/274650
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="AppleTV 3 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/274651
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 4 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 4 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/555762
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 5 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 5 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612802
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 6 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 6 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612803
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 7 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 7 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612804
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 8 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 8 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612805
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV 9 HD" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV 9 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612806
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="AppleTV-loop" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",AppleTV-loop
+http://nexusp.xyz:80/360121095/Q360z4362q/613903
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ Stars FHD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ Stars FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/250890
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ Stars HD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ Stars HD
+http://nexusp.xyz:80/360121095/Q360z4362q/369565
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ Stars SD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ Stars SD
+http://nexusp.xyz:80/360121095/Q360z4362q/369566
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613904
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613905
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613906
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="Brasileirao Serie C 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/283044
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/283045
+#EXTINF:-1 tvg-name="Brasileirao Serie C 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 2 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613907
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613908
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613909
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/serieC.png" group-title="Canais | Pay-per-view",Brasileirao Serie C 3 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613910
+#EXTINF:-1 tvg-name="Brasileirao Serie A FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/seriaA.png" group-title="Canais | Pay-per-view",Brasileirao Serie A FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613911
+#EXTINF:-1 tvg-name="Brasileirao Serie A HD" tvg-logo="http://beststorage4you.com:80/logoscanais/seriaA.png" group-title="Canais | Pay-per-view",Brasileirao Serie A HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613912
+#EXTINF:-1 tvg-name="Brasileirao Serie A SD" tvg-logo="http://beststorage4you.com:80/logoscanais/seriaA.png" group-title="Canais | Pay-per-view",Brasileirao Serie A SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613913
+#EXTINF:-1 tvg-name="Brasileiro Feminino 1" tvg-logo="http://beststorage4you.com:80/logoscanais/brasileirao.png" group-title="Canais | Pay-per-view",Brasileiro Feminino 1
+http://nexusp.xyz:80/360121095/Q360z4362q/613914
+#EXTINF:-1 tvg-name="Brasileiro Feminino 2" tvg-logo="http://beststorage4you.com:80/logoscanais/brasileirao.png" group-title="Canais | Pay-per-view",Brasileiro Feminino 2
+http://nexusp.xyz:80/360121095/Q360z4362q/613915
+#EXTINF:-1 tvg-name="Brasileiro Feminino 3" tvg-logo="http://beststorage4you.com:80/logoscanais/brasileirao.png" group-title="Canais | Pay-per-view",Brasileiro Feminino 3
+http://nexusp.xyz:80/360121095/Q360z4362q/613916
+#EXTINF:-1 tvg-name="Brasileiro Feminino 4" tvg-logo="http://beststorage4you.com:80/logoscanais/brasileirao.png" group-title="Canais | Pay-per-view",Brasileiro Feminino 4
+http://nexusp.xyz:80/360121095/Q360z4362q/613917
+#EXTINF:-1 tvg-name="Brtvmax 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/385617
+#EXTINF:-1 tvg-name="Brtvmax 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613900
+#EXTINF:-1 tvg-name="Brtvmax 1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613901
+#EXTINF:-1 tvg-name="Brtvmax 2 (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax 2 (Evento)
+http://nexusp.xyz:80/360121095/Q360z4362q/613902
 #EXTINF:-1 tvg-name="Canal Carros (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventocarro.png" group-title="Canais | Pay-per-view",Canal Carros (Evento)
 http://nexusp.xyz:80/360121095/Q360z4362q/565039
-#EXTINF:-1 tvg-name="Canal do Surf (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventosurging.png" group-title="Canais | Pay-per-view",Canal do Surf (Evento)
-http://nexusp.xyz:80/360121095/Q360z4362q/565042
-#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO HD" group-title="Canais | Pay-per-view",F1 TV PRO HD
+#EXTINF:-1 tvg-name="Canal do Volei (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventovolei.png" group-title="Canais | Pay-per-view",Canal do Volei (Evento)
+http://nexusp.xyz:80/360121095/Q360z4362q/565036
+#EXTINF:-1 tvg-name="Canal Lutas (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventoluta.png" group-title="Canais | Pay-per-view",Canal Lutas (Evento)
+http://nexusp.xyz:80/360121095/Q360z4362q/565038
+#EXTINF:-1 tvg-name="Canal Vaquejada (Evento)" tvg-logo="http://beststorage4you.com:80/logoscanais/eventovaquejada.png" group-title="Canais | Pay-per-view",Canal Vaquejada (Evento)
+http://nexusp.xyz:80/360121095/Q360z4362q/565037
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 1 FHD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/274647
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 1 HD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/233913
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 1 SD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613918
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 2 FHD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/232222
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 2 HD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/233914
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 2 SD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 2 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613919
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 3 FHD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613920
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 3 HD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/603275
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 3 SD" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 3 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613921
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 4" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 4
+http://nexusp.xyz:80/360121095/Q360z4362q/603276
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 5" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 5
+http://nexusp.xyz:80/360121095/Q360z4362q/603277
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat 6" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat 6
+http://nexusp.xyz:80/360121095/Q360z4362q/603278
+#EXTINF:-1 tvg-id="Canalgoat.br" tvg-name="Canal Goat-Loop" tvg-logo="http://beststorage4you.com/logoscanais/goat.png" group-title="Canais | Pay-per-view",Canal Goat-Loop
+http://nexusp.xyz:80/360121095/Q360z4362q/613922
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="CazeTV 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/254102
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="CazeTV 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/254104
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="CazeTV 1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/254103
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/311744
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/612864
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 2 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/612865
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/311745
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 3 HD" tvg-logo="http://beststorage4you.com/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613923
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 3 SD" tvg-logo="http://beststorage4you.com/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 3 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613924
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 4" tvg-logo="http://beststorage4you.com/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 4
+http://nexusp.xyz:80/360121095/Q360z4362q/613925
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 5" tvg-logo="http://beststorage4you.com/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 5
+http://nexusp.xyz:80/360121095/Q360z4362q/613926
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 6" tvg-logo="http://beststorage4you.com/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 6
+http://nexusp.xyz:80/360121095/Q360z4362q/613927
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV-Loop " tvg-logo="http://beststorage4you.com/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV-Loop
+http://nexusp.xyz:80/360121095/Q360z4362q/613928
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/229981
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/229984
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613960
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613961
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/229988
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613962
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 3 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613963
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 4 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 4 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/229989
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 4 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613964
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 4 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 4 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613965
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 5 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 5 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/229990
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 5 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613966
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 5 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 5 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613967
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 6 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 6 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/229991
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 6 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613968
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 6 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 6 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613969
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 7 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 7 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613970
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 7 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 7 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613971
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 7 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 7 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613972
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 8 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 8 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613973
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 8 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 8 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613974
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN 8 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 8 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613975
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN Extra 1" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN Extra 1
+http://nexusp.xyz:80/360121095/Q360z4362q/613976
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN Extra 2" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN Extra 2
+http://nexusp.xyz:80/360121095/Q360z4362q/613977
+#EXTINF:-1 tvg-id="Dazn.br" tvg-name="DAZN EXTRA 3" tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN EXTRA 3
+http://nexusp.xyz:80/360121095/Q360z4362q/613978
+#EXTINF:-1 tvg-id="AGrandeconquista.br" tvg-name="Eventos Extras 1 " tvg-logo="http://beststorage4you.com:80/logoscanais/extra.png" group-title="Canais | Pay-per-view",Eventos Extras 1
+http://nexusp.xyz:80/360121095/Q360z4362q/289716
+#EXTINF:-1 tvg-name="Eventos Extras 2" tvg-logo="http://beststorage4you.com:80/logoscanais/extra.png" group-title="Canais | Pay-per-view",Eventos Extras 2
+http://nexusp.xyz:80/360121095/Q360z4362q/590499
+#EXTINF:-1 tvg-name="Eventos Extras 3" tvg-logo="http://beststorage4you.com:80/logoscanais/extra.png" group-title="Canais | Pay-per-view",Eventos Extras 3
+http://nexusp.xyz:80/360121095/Q360z4362q/590500
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO FHD" tvg-logo="http://beststorage4you.com/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/567233
-#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO HD" group-title="Canais | Pay-per-view",F1 TV PRO HD
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO HD" tvg-logo="http://beststorage4you.com/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO HD
 http://nexusp.xyz:80/360121095/Q360z4362q/567234
-#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO SD" group-title="Canais | Pay-per-view",F1 TV PRO SD
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO SD" tvg-logo="http://beststorage4you.com/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO SD
 http://nexusp.xyz:80/360121095/Q360z4362q/567235
-#EXTINF:-1 tvg-id="Thbandlitoral.br" tvg-name="FLOGRAPPLING 02 " tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 02 
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="FIFA+" tvg-logo="http://beststorage4you.com/logoscanais/fifa.png" group-title="Canais | Pay-per-view",FIFA+
+http://nexusp.xyz:80/360121095/Q360z4362q/250892
+#EXTINF:-1 tvg-name="FLA TV" tvg-logo="http://beststorage4you.com:80/logoscanais/FLATV.png" group-title="Canais | Pay-per-view",FLA TV
+http://nexusp.xyz:80/360121095/Q360z4362q/372002
+#EXTINF:-1 tvg-name="FLOGRAPPLING 1 " tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 1
+http://nexusp.xyz:80/360121095/Q360z4362q/559213
+#EXTINF:-1 tvg-id="Thbandlitoral.br" tvg-name="FLOGRAPPLING 2 " tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 2
 http://nexusp.xyz:80/360121095/Q360z4362q/559212
+#EXTINF:-1 tvg-name="FLOGRAPPLING 3" tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 3
+http://nexusp.xyz:80/360121095/Q360z4362q/559214
+#EXTINF:-1 tvg-name="FLOGRAPPLING 4" tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 4
+http://nexusp.xyz:80/360121095/Q360z4362q/592852
+#EXTINF:-1 tvg-name="FLOGRAPPLING 5" tvg-logo="http://beststorage4you.com/logoscanais/FLOGRAPPLING.png" group-title="Canais | Pay-per-view",FLOGRAPPLING 5
+http://nexusp.xyz:80/360121095/Q360z4362q/592853
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/254096
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacao Live HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live HD
+http://nexusp.xyz:80/360121095/Q360z4362q/254099
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live SD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live SD
+http://nexusp.xyz:80/360121095/Q360z4362q/254098
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Kingpyn Boxing FHD" group-title="Canais | Pay-per-view",Kingpyn Boxing FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/250915
+#EXTINF:-1 tvg-name="Kingpyn Boxing HD" group-title="Canais | Pay-per-view",Kingpyn Boxing HD
+http://nexusp.xyz:80/360121095/Q360z4362q/614048
+#EXTINF:-1 tvg-name="Kingpyn Boxing SD" group-title="Canais | Pay-per-view",Kingpyn Boxing SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614049
+#EXTINF:-1 tvg-name="Liga Futsal 1 FHD" group-title="Canais | Pay-per-view",Liga Futsal 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614050
+#EXTINF:-1 tvg-name="Liga Futsal 1 HD" group-title="Canais | Pay-per-view",Liga Futsal 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/18301
+#EXTINF:-1 tvg-name="Liga Futsal 1 SD" group-title="Canais | Pay-per-view",Liga Futsal 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614051
+#EXTINF:-1 tvg-name="Liga Futsal 2 FHD" group-title="Canais | Pay-per-view",Liga Futsal 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614052
+#EXTINF:-1 tvg-name="Liga Futsal 2 HD" group-title="Canais | Pay-per-view",Liga Futsal 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/18300
+#EXTINF:-1 tvg-name="Liga Futsal 2 SD" group-title="Canais | Pay-per-view",Liga Futsal 2 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614053
+#EXTINF:-1 tvg-name="Liga Futsal 3 FHD" group-title="Canais | Pay-per-view",Liga Futsal 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614054
+#EXTINF:-1 tvg-name="Liga Futsal 3 HD" group-title="Canais | Pay-per-view",Liga Futsal 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/18299
+#EXTINF:-1 tvg-name="Liga Futsal 3 SD" group-title="Canais | Pay-per-view",Liga Futsal 3 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614055
+#EXTINF:-1 tvg-name="Liga Futsal 4 FHD" group-title="Canais | Pay-per-view",Liga Futsal 4 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614056
+#EXTINF:-1 tvg-name="Liga Futsal 4 HD" group-title="Canais | Pay-per-view",Liga Futsal 4 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/564016
+#EXTINF:-1 tvg-name="Liga Futsal 4 SD" group-title="Canais | Pay-per-view",Liga Futsal 4 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614057
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/231034
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/231035
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/231036
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 4 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/231037
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 5 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/231038
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 6 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/614058
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS-Loop" tvg-logo="http://beststorage4you.com:80/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS-Loop
+http://nexusp.xyz:80/360121095/Q360z4362q/614059
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Olympia TV 1 FHD" group-title="Canais | Pay-per-view",Olympia TV 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/289718
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Olympia TV 1 HD" group-title="Canais | Pay-per-view",Olympia TV 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/289717
+#EXTINF:-1 tvg-name="Olympia TV 1 SD" group-title="Canais | Pay-per-view",Olympia TV 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/517159
+#EXTINF:-1 tvg-name="Olympia TV 2" group-title="Canais | Pay-per-view",Olympia TV 2
+http://nexusp.xyz:80/360121095/Q360z4362q/614060
+#EXTINF:-1 tvg-name="Olympia TV 3" group-title="Canais | Pay-per-view",Olympia TV 3
+http://nexusp.xyz:80/360121095/Q360z4362q/614061
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 1 FHD " tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614062
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 1 HD " tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 1 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/233917
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 1 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614063
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614064
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 2 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/233918
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 2 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614065
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614066
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 3 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/593992
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 3 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614067
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 4 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 4 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614068
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 4 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/593993
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 4 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 4 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614069
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 5 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 5 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614070
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 5 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/614071
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 5 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 5 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614072
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 6 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/614073
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 6 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 6 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/614074
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball 7 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball 7 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/614075
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball-Loop" tvg-logo="http://beststorage4you.com:80/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball-Loop
+http://nexusp.xyz:80/360121095/Q360z4362q/614076
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN H265
 http://nexusp.xyz:80/360121095/Q360z4362q/520128
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD²
@@ -1083,40 +1385,70 @@ http://nexusp.xyz:80/360121095/Q360z4362q/234273
 http://nexusp.xyz:80/360121095/Q360z4362q/234274
 #EXTINF:-1 tvg-name="DEPORTE | ESPN 3 HD MX" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",DEPORTE | ESPN 3 HD MX
 http://nexusp.xyz:80/360121095/Q360z4362q/234275
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV H265
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 1 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/118881
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 1 H265
 http://nexusp.xyz:80/360121095/Q360z4362q/52090
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
-http://nexusp.xyz:80/360121095/Q360z4362q/21275
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 1 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/547
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV SD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 1 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/546
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV  2 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV  2 H265
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/554
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 H265
 http://nexusp.xyz:80/360121095/Q360z4362q/118703
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 UHD
-http://nexusp.xyz:80/360121095/Q360z4362q/21273
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/552
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/551
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/559
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 H265
 http://nexusp.xyz:80/360121095/Q360z4362q/118705
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 UHD
-http://nexusp.xyz:80/360121095/Q360z4362q/21274
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD
 http://nexusp.xyz:80/360121095/Q360z4362q/557
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/556
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 4 HD
+#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 4 FHD
 http://nexusp.xyz:80/360121095/Q360z4362q/567893
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 4 HD
-http://nexusp.xyz:80/360121095/Q360z4362q/567895
 #EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 4 H265
 http://nexusp.xyz:80/360121095/Q360z4362q/567896
+#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 4 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/567895
 #EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 4 SD
 http://nexusp.xyz:80/360121095/Q360z4362q/567897
-#EXTINF:-1 tvg-name="DEPORTE | FUTV TV HD" tvg-logo="https://www.larepublica.net/storage/images/2020/07/20/20200720191227.20200709160812futv.jpg" group-title="Canais | SporTV",DEPORTE | FUTV TV HD
-http://nexusp.xyz:80/360121095/Q360z4362q/234284
+#EXTINF:-1 tvg-name="SporTV 5 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 5 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613662
+#EXTINF:-1 tvg-name="SporTV 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 5 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613663
+#EXTINF:-1 tvg-name="SporTV 5 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 5 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613664
+#EXTINF:-1 tvg-name="SporTV 6 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 6 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613665
+#EXTINF:-1 tvg-name="SporTV 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 6 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613666
+#EXTINF:-1 tvg-name="SporTV 6 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 6 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613667
+#EXTINF:-1 tvg-name="SporTV Mosaico HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Mosaico HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613668
+#EXTINF:-1 tvg-name="SporTV Extra 13 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 13 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613669
+#EXTINF:-1 tvg-name="SporTV Extra 13 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 13 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613670
+#EXTINF:-1 tvg-name="SporTV Extra 13 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 13 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613671
+#EXTINF:-1 tvg-name="SporTV Extra 14 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 14 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613672
+#EXTINF:-1 tvg-name="SporTV Extra 14 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 14 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613673
+#EXTINF:-1 tvg-name="SporTV Extra 14 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 14 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613674
+#EXTINF:-1 tvg-name="SporTV Extra 15 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 15 FHD
+http://nexusp.xyz:80/360121095/Q360z4362q/613675
+#EXTINF:-1 tvg-name="SporTV Extra 15 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 15 HD
+http://nexusp.xyz:80/360121095/Q360z4362q/613676
+#EXTINF:-1 tvg-name="SporTV Extra 15 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV Extra 15 SD
+http://nexusp.xyz:80/360121095/Q360z4362q/613677
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas HD
 http://nexusp.xyz:80/360121095/Q360z4362q/264555
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
